@@ -14,7 +14,7 @@ investigating various data sources and advanced statistical methods
 
 **Let's look at radiology imaging data**
 
-### data
+### data/chexpert
 
 * ***valid.csv*** - This data file comes from the [CheXpert](https://stanfordmlgroup.github.io/competitions/chexpert/) competition. It serves as metadata for a validation set of chest radiographs
 * ***train.csv*** -  This data file comes from the [CheXpert](https://stanfordmlgroup.github.io/competitions/chexpert/) competition. It serves as metadata for a training set of chest radiographs
