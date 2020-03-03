@@ -1,5 +1,6 @@
 # statistical_simulation
-investigating methods to simulate data
+
+investigating various data sources and advanced statistical methods
 
 ## NbaComparisonsFy20
 
