@@ -1,6 +1,6 @@
 import pandas as pd
-infilename = './data/train.csv'
-outfilename = './data/train_plusMeta.csv'
+infilename = './train.csv'
+outfilename = './train_plusMeta.csv'
 df = pd.read_csv(infilename)
 path = df['Path'].str.split('/', expand=True)
 df['PID'] = path[2].map(lambda x: x.lstrip('patient'))
