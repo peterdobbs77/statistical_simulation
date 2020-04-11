@@ -26,5 +26,12 @@ These files were processed through `extractingPatientId.py` to create a column f
 **Let's work on acquiring Ultimate Frisbee game data**
 
 ### data/ultimate
+
+* ***_tournaments.xlsx*** - combined manually collected data on a collection of ultimate frisbee tournaments 
+* ***tournament_results.csv*** - game results for a collection of ultimate frisbee tournaments
+* ***tournament_teams.csv*** - teams and seedings for a collection of ultimate frisbee tournaments
+
+#### event subdirectories
+`Florida-Warm-Up-2019/schedule/Men/CollegeMen/`
 * ***bracketplay.csv*** - data scraped from brackets on USAU score reporter
 * ***poolplay.csv*** - data scraped from HTML data tables on USAU score reporter
