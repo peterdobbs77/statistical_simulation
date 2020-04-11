@@ -26,12 +26,14 @@ These files were processed through `extractingPatientId.py` to create a column f
 **Let's work on acquiring Ultimate Frisbee game data**
 
 ### data/ultimate
-
+The data files in this directory were manually collected on 8 April 2020
 * ***_tournaments.xlsx*** - combined manually collected data on a collection of ultimate frisbee tournaments 
 * ***tournament_results.csv*** - game results for a collection of ultimate frisbee tournaments
 * ***tournament_teams.csv*** - teams and seedings for a collection of ultimate frisbee tournaments
 
 #### event subdirectories
-`Florida-Warm-Up-2019/schedule/Men/CollegeMen/`
+These are the output locations for data scraped from the USAU tournament websites with `USAU_HistData.ipynb`. For example, the Florida Warmup tournament play is stored in the following structure:
+
+**Florida-Warm-Up-2019/schedule/Men/CollegeMen/**
 * ***bracketplay.csv*** - data scraped from brackets on USAU score reporter
 * ***poolplay.csv*** - data scraped from HTML data tables on USAU score reporter
