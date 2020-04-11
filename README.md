@@ -20,3 +20,11 @@ investigating various data sources and advanced statistical methods
 * ***train.csv*** -  This data file comes from the [CheXpert](https://stanfordmlgroup.github.io/competitions/chexpert/) competition. It serves as metadata for a training set of chest radiographs
 
 These files were processed through `extractingPatientId.py` to create a column for the patient identifier (PID) and study identifier (StudyID). That made it easier to create descriptive statistics of the information.
+
+## USAU_HistData
+
+**Let's work on acquiring Ultimate Frisbee game data**
+
+### data/ultimate
+* ***bracketplay.csv*** - data scraped from brackets on USAU score reporter
+* ***poolplay.csv*** - data scraped from HTML data tables on USAU score reporter
