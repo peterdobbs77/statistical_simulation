@@ -34,6 +34,6 @@ The data files in this directory were manually collected on 8 April 2020
 #### event subdirectories
 These are the output locations for data scraped from the USAU tournament websites with `USAU_HistData.ipynb`. For example, the Florida Warmup tournament play is stored in the following structure:
 
-**Florida-Warm-Up-2019/schedule/Men/CollegeMen/**
+##### Florida-Warm-Up-2019/schedule/Men/CollegeMen/
 * ***bracketplay.csv*** - data scraped from brackets on USAU score reporter
 * ***poolplay.csv*** - data scraped from HTML data tables on USAU score reporter
