@@ -111,7 +111,7 @@ def scrape_and_clean_brackets(base_url, event):
             home_score = int(home_score)
         away_score = game.find(
             "span", {"class": "score", "data-type": "game-score-away"}).text
-        if away_score == "F" or away_score == "W":
+        if away_score == "F" or away_score == "W" or home_score == "L":
             away_score = 0
         else:
             away_score = int(away_score)
