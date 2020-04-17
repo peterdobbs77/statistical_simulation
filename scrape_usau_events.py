@@ -105,7 +105,7 @@ def scrape_and_clean_brackets(base_url, event):
             "span", {"class": "team", "data-type": "game-team-away"}).text
         home_score = game.find(
             "span", {"class": "score", "data-type": "game-score-home"}).text
-        if home_score == "F" or home_score == "W":
+        if home_score == "F" or home_score == "W" or home_score == "L":
             home_score = 0
         else:
             home_score = int(home_score)
@@ -126,7 +126,7 @@ def scrape_and_clean_brackets(base_url, event):
 
 BASE_URL = "https://play.usaultimate.org/events/"
 # TODO: update this for each event
-EVENT = "Carolina-D-I-College-Mens-CC 2017/schedule/Men/CollegeMen/"
+EVENT = "Meltdown-2017/schedule/Men/CollegeMen/"
 FILE_PATH = f"./data/ultimate/{EVENT}"
 
 if not os.path.exists(FILE_PATH):
