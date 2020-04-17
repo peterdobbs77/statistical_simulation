@@ -103,10 +103,18 @@ def scrape_and_clean_brackets(base_url, event):
             "span", {"class": "team", "data-type": "game-team-home"}).text
         away_team = game.find(
             "span", {"class": "team", "data-type": "game-team-away"}).text
-        home_score = int(
-            game.find("span", {"class": "score", "data-type": "game-score-home"}).text)
-        away_score = int(
-            game.find("span", {"class": "score", "data-type": "game-score-away"}).text)
+        home_score = game.find(
+            "span", {"class": "score", "data-type": "game-score-home"}).text
+        if home_score == "F" or home_score == "W":
+            home_score = 0
+        else:
+            home_score = int(home_score)
+        away_score = game.find(
+            "span", {"class": "score", "data-type": "game-score-away"}).text
+        if away_score == "F" or away_score == "W":
+            away_score = 0
+        else:
+            away_score = int(away_score)
         game_time = game.find("span", {"class": "date"}).text
         games.append([event, game_id, game_time, home_team,
                       away_team, home_score, away_score])
@@ -118,7 +126,7 @@ def scrape_and_clean_brackets(base_url, event):
 
 BASE_URL = "https://play.usaultimate.org/events/"
 # TODO: update this for each event
-EVENT = "2017-USA-Ultimate-College-Championships/schedule/Men/CollegeMen/"
+EVENT = "Carolina-D-I-College-Mens-CC 2017/schedule/Men/CollegeMen/"
 FILE_PATH = f"./data/ultimate/{EVENT}"
 
 if not os.path.exists(FILE_PATH):
