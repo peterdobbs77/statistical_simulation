@@ -1,56 +1,56 @@
-,type,home_team,away_team,home_score,away_score
+,type,winner_team,winner_score,loser_team,loser_score
 0,pool,Massachusetts (1),Washington (8),14,12
 1,pool,Stanford (12),Colorado State (13),15,11
 2,pool,Washington (8),Colorado State (13),15,10
 3,pool,Stanford (12),Cal Poly-SLO (17),12,10
 4,pool,Massachusetts (1),Cal Poly-SLO (17),15,12
 5,pool,Massachusetts (1),Stanford (12),14,11
-6,pool,Washington (8),Cal Poly-SLO (17),14,16
-7,pool,Massachusetts (1),Colorado State (13),15,10
-8,pool,Washington (8),Stanford (12),15,12
-9,pool,Colorado State (13),Cal Poly-SLO (17),11,15
-10,pool,Pittsburgh (2),Connecticut (18),15,5
-11,pool,Michigan (7),Texas A&M; (14),15,7
-12,pool,Pittsburgh (2),Michigan (7),15,8
-13,pool,North Carolina-Wilmington (11),Texas A&M; (14),15,8
-14,pool,North Carolina-Wilmington (11),Connecticut (18),15,12
-15,pool,Pittsburgh (2),North Carolina-Wilmington (11),13,15
-16,pool,Michigan (7),Connecticut (18),14,13
-17,pool,Texas A&M; (14),Connecticut (18),14,11
-18,pool,Michigan (7),North Carolina-Wilmington (11),7,15
-19,pool,Pittsburgh (2),Texas A&M; (14),13,10
-20,pool,Carleton College (6),Auburn (15),15,8
-21,pool,Colorado (10),Oregon State (19),15,12
-22,pool,North Carolina (3),Carleton College (6),15,10
-23,pool,Colorado (10),Auburn (15),13,14
-24,pool,North Carolina (3),Oregon State (19),14,6
-25,pool,Auburn (15),Oregon State (19),15,11
-26,pool,North Carolina (3),Colorado (10),12,13
-27,pool,Carleton College (6),Oregon State (19),15,8
-28,pool,North Carolina (3),Auburn (15),15,10
-29,pool,Carleton College (6),Colorado (10),15,8
-30,pool,Oregon (5),British Columbia (16),15,10
-31,pool,Wisconsin (9),Virginia Tech (20),15,10
-32,pool,Minnesota (4),Virginia Tech (20),15,7
-33,pool,Wisconsin (9),British Columbia (16),15,8
-34,pool,Minnesota (4),Oregon (5),15,11
-35,pool,Minnesota (4),Wisconsin (9),15,13
-36,pool,British Columbia (16),Virginia Tech (20),15,12
-37,pool,Oregon (5),Virginia Tech (20),15,6
-38,pool,Minnesota (4),British Columbia (16),9,15
-39,pool,Oregon (5),Wisconsin (9),14,16
-40,bracket,Carleton College (6),North Carolina-Wilmington (11),15,11
-41,bracket,Massachusetts (1),Carleton College (6),14,15
-42,bracket,North Carolina (3),North Carolina-Wilmington (11),13,14
-43,bracket,Pittsburgh (2),Massachusetts (1),11,13
-44,bracket,Carleton College (6),Minnesota (4),12,10
-45,bracket,Wisconsin (9),North Carolina (3),14,15
-46,bracket,Washington (8),North Carolina-Wilmington (11),10,15
-47,bracket,Pittsburgh (2),Auburn (15),15,8
-48,bracket,Carleton College (6),Michigan (7),15,10
-49,bracket,Wisconsin (9),Cal Poly-SLO (17),15,10
-50,bracket,Washington (8),Oregon (5),15,12
-51,bracket,Stanford (12),Virginia Tech (20),15,13
-52,bracket,Connecticut (18),Colorado (10),15,12
-53,bracket,British Columbia (16),Colorado State (13),15,8
-54,bracket,Oregon State (19),Texas A&M; (14),12,15
+6,pool,Massachusetts (1),Colorado State (13),15,10
+7,pool,Washington (8),Stanford (12),15,12
+8,pool,Pittsburgh (2),Connecticut (18),15,5
+9,pool,Michigan (7),Texas A&M; (14),15,7
+10,pool,Pittsburgh (2),Michigan (7),15,8
+11,pool,North Carolina-Wilmington (11),Texas A&M; (14),15,8
+12,pool,North Carolina-Wilmington (11),Connecticut (18),15,12
+13,pool,Michigan (7),Connecticut (18),14,13
+14,pool,Texas A&M; (14),Connecticut (18),14,11
+15,pool,Pittsburgh (2),Texas A&M; (14),13,10
+16,pool,Carleton College (6),Auburn (15),15,8
+17,pool,Colorado (10),Oregon State (19),15,12
+18,pool,North Carolina (3),Carleton College (6),15,10
+19,pool,North Carolina (3),Oregon State (19),14,6
+20,pool,Auburn (15),Oregon State (19),15,11
+21,pool,Carleton College (6),Oregon State (19),15,8
+22,pool,North Carolina (3),Auburn (15),15,10
+23,pool,Carleton College (6),Colorado (10),15,8
+24,pool,Oregon (5),British Columbia (16),15,10
+25,pool,Wisconsin (9),Virginia Tech (20),15,10
+26,pool,Minnesota (4),Virginia Tech (20),15,7
+27,pool,Wisconsin (9),British Columbia (16),15,8
+28,pool,Minnesota (4),Oregon (5),15,11
+29,pool,Minnesota (4),Wisconsin (9),15,13
+30,pool,British Columbia (16),Virginia Tech (20),15,12
+31,pool,Oregon (5),Virginia Tech (20),15,6
+32,bracket,Carleton College (6),North Carolina-Wilmington (11),15,11
+33,bracket,Carleton College (6),Minnesota (4),12,10
+34,bracket,Pittsburgh (2),Auburn (15),15,8
+35,bracket,Carleton College (6),Michigan (7),15,10
+36,bracket,Wisconsin (9),Cal Poly-SLO (17),15,10
+37,bracket,Washington (8),Oregon (5),15,12
+38,bracket,Stanford (12),Virginia Tech (20),15,13
+39,bracket,Connecticut (18),Colorado (10),15,12
+40,bracket,British Columbia (16),Colorado State (13),15,8
+41,pool,14,16,Washington (8),Cal Poly-SLO (17)
+42,pool,11,15,Colorado State (13),Cal Poly-SLO (17)
+43,pool,13,15,Pittsburgh (2),North Carolina-Wilmington (11)
+44,pool,7,15,Michigan (7),North Carolina-Wilmington (11)
+45,pool,13,14,Colorado (10),Auburn (15)
+46,pool,12,13,North Carolina (3),Colorado (10)
+47,pool,9,15,Minnesota (4),British Columbia (16)
+48,pool,14,16,Oregon (5),Wisconsin (9)
+49,bracket,14,15,Massachusetts (1),Carleton College (6)
+50,bracket,13,14,North Carolina (3),North Carolina-Wilmington (11)
+51,bracket,11,13,Pittsburgh (2),Massachusetts (1)
+52,bracket,14,15,Wisconsin (9),North Carolina (3)
+53,bracket,10,15,Washington (8),North Carolina-Wilmington (11)
+54,bracket,12,15,Oregon State (19),Texas A&M; (14)
