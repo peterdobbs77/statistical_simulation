@@ -24,16 +24,42 @@ def get_soup(url):
     return bs(html.content, "html.parser")
 
 
+def get_table_rows(table):
+    """Given a table, returns all its rows"""
+    rows = []
+    for tr in table.find_all("tr")[1:]:
+        cells = []
+        # grab all td tags in this table row
+        tds = tr.find_all("td")
+        if len(tds) == 0:
+            # if no td tags, search for th tags
+            # can be found especially in wikipedia tables below the table
+            ths = tr.find_all("th")
+            for th in ths:
+                cells.append(th.text.strip())
+        else:
+            # use regular td tags
+            for td in tds:
+                cells.append(td.text.strip())
+        rows.append(cells)
+    return rows
+
+
 def scrape_and_clean_scheduletables(base_url, event):
     # scrape
     soup = get_soup(base_url+event)
     schedule_table = soup.find("table", {"class": "schedule_table"})
+    table_rows = get_table_rows(schedule_table)
+    df = pd.DataFrame(table_rows)
+    df['thisteam_score'] = df[1].str.extract(r'(^\d+)')
+    df['opponent_score'] = df[1].str.extract(r'(\d+$)')
+    return df
 
 
-BASE_URL = "https://play.usaultimate.org/events/"
+BASE_URL = "https://play.usaultimate.org/"
 # TODO: update this for each event
-EVENT = "Meltdown-2017/schedule/Men/CollegeMen/"
-FILE_PATH = f"./data/ultimate/{EVENT}"
+EVENT = "teams/events/Eventteam/?TeamId=nqlCM601FmPGCjKyI90guTLLl3MakBVGbRN0O6Euwpk%3d"
+FILE_PATH = f"./data/ultimate/teams/events/Eventteam/2017-UNCW/"
 
 if not os.path.exists(FILE_PATH):
     os.makedirs(FILE_PATH)
