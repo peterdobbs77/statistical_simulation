@@ -77,8 +77,10 @@ def scrape_and_clean_scoretables(base_url, event):
         df = pd.DataFrame(rows, columns=headers)
         df['table'] = get_scoretable_name(table)
         df['event'] = event
-        df['home_score'] = df['Score'].str.extract(r'(^\d+)').astype(int)
-        df['away_score'] = df['Score'].str.extract(r'(\d+$)').astype(int)
+        df['home_score'] = df['Score'].str.extract(
+            r'(^\d+|[W|L|F])')
+        df['away_score'] = df['Score'].str.extract(
+            r'(\d+|[W|L|F]$)')
         df = df[['event', 'table', 'Date', 'Time',
                  'Team 1', 'Team 2', 'home_score', 'away_score']]
         frames.append(df)
@@ -125,7 +127,7 @@ def scrape_and_clean_brackets(base_url, event):
 
 BASE_URL = "https://play.usaultimate.org/events/"
 # TODO: update this for each event
-EVENT = "North-Central-D-I-College-Mens-Regionals-2015/schedule/Men/CollegeMen/"
+EVENT = "North Central D-I College Men's Regionals-2019/schedule/Men/CollegeMen/"
 FILE_PATH = f"./data/ultimate/{EVENT}"
 
 if not os.path.exists(FILE_PATH):
