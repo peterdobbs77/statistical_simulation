@@ -1,91 +1,91 @@
-year,event,game_id,game_time,home_team,away_team,home_score,away_score
-2014,USA-Ultimate-D-I-College-Championships/schedule/Men/CollegeMen/,game29088,5/26/2014 2:30 PM,Colorado (1),North Carolina (6),15,10
-2014,USA-Ultimate-D-I-College-Championships/schedule/Men/CollegeMen/,game29086,5/25/2014 5:30 PM,Colorado (1),Oregon (4),15,8
-2014,USA-Ultimate-D-I-College-Championships/schedule/Men/CollegeMen/,game29087,5/25/2014 8:00 PM,North Carolina (6),North Carolina-Wilmington (5),15,10
-2014,USA-Ultimate-D-I-College-Championships/schedule/Men/CollegeMen/,game29082,5/25/2014 8:30 AM,Michigan (11),Colorado (1),10,13
-2014,USA-Ultimate-D-I-College-Championships/schedule/Men/CollegeMen/,game29083,5/25/2014 8:30 AM,Texas (3),Oregon (4),10,15
-2014,USA-Ultimate-D-I-College-Championships/schedule/Men/CollegeMen/,game29084,5/25/2014 8:30 AM,Wisconsin (12),North Carolina (6),9,15
-2014,USA-Ultimate-D-I-College-Championships/schedule/Men/CollegeMen/,game29085,5/25/2014 8:30 AM,North Carolina-Wilmington (5),Pittsburgh (2),14,13
-2014,USA-Ultimate-D-I-College-Championships/schedule/Men/CollegeMen/,game29078,5/24/2014 5:00 PM,Michigan (11),Tufts (15),15,12
-2014,USA-Ultimate-D-I-College-Championships/schedule/Men/CollegeMen/,game29079,5/24/2014 5:00 PM,Texas (3),Central Florida (14),15,14
-2014,USA-Ultimate-D-I-College-Championships/schedule/Men/CollegeMen/,game29080,5/24/2014 5:00 PM,Carleton College (16),Wisconsin (12),7,15
-2014,USA-Ultimate-D-I-College-Championships/schedule/Men/CollegeMen/,game29081,5/24/2014 5:00 PM,Harvard (8),North Carolina-Wilmington (5),13,14
-2014,USA-Ultimate-D-I-College-Championships/schedule/Men/CollegeMen/,game29089,5/25/2014 8:30 AM,California-San Diego (13),Rutgers (20),15,8
-2014,USA-Ultimate-D-I-College-Championships/schedule/Men/CollegeMen/,game29090,5/24/2014 5:00 PM,Dartmouth (18),Florida State (10),12,15
-2014,USA-Ultimate-D-I-College-Championships/schedule/Men/CollegeMen/,game29091,5/24/2014 5:00 PM,Florida (9),Eastern Michigan (17),15,7
-2014,USA-Ultimate-D-I-College-Championships/schedule/Men/CollegeMen/,game29092,5/25/2014 8:30 AM,Massachusetts (19),Texas A&M (7),15,5
-2015,USA-Ultimate-D-I-College-Championships-2015/schedule/Men/CollegeMen/,game72034,5/25/2015 2:30 PM,Oregon (15),North Carolina (3),6,15
-2015,USA-Ultimate-D-I-College-Championships-2015/schedule/Men/CollegeMen/,game72032,5/24/2015 5:30 PM,Oregon (15),Florida State (6),15,12
-2015,USA-Ultimate-D-I-College-Championships-2015/schedule/Men/CollegeMen/,game72033,5/24/2015 8:00 PM,North Carolina (3),Central Florida (7),15,10
-2015,USA-Ultimate-D-I-College-Championships-2015/schedule/Men/CollegeMen/,game72028,5/24/2015 8:30 AM,Oregon (15),Texas (13),15,9
-2015,USA-Ultimate-D-I-College-Championships-2015/schedule/Men/CollegeMen/,game72029,5/24/2015 8:30 AM,Florida State (6),Massachusetts (9),12,10
-2015,USA-Ultimate-D-I-College-Championships-2015/schedule/Men/CollegeMen/,game72030,5/24/2015 8:30 AM,Colorado (5),North Carolina (3),9,15
-2015,USA-Ultimate-D-I-College-Championships-2015/schedule/Men/CollegeMen/,game72031,5/24/2015 8:30 AM,Pittsburgh (1),Central Florida (7),9,15
-2015,USA-Ultimate-D-I-College-Championships-2015/schedule/Men/CollegeMen/,game72024,5/23/2015 5:00 PM,Minnesota (11),Oregon (15),11,14
-2015,USA-Ultimate-D-I-College-Championships-2015/schedule/Men/CollegeMen/,game72025,5/23/2015 5:00 PM,Florida State (6),Texas A&M (2),15,12
-2015,USA-Ultimate-D-I-College-Championships-2015/schedule/Men/CollegeMen/,game72026,5/23/2015 5:00 PM,Colorado (5),Georgia (8),14,9
-2015,USA-Ultimate-D-I-College-Championships-2015/schedule/Men/CollegeMen/,game72027,5/23/2015 5:00 PM,Pittsburgh (1),North Carolina-Wilmington (4),14,11
-2015,USA-Ultimate-D-I-College-Championships-2015/schedule/Men/CollegeMen/,game72047,5/24/2015 8:30 AM,Wisconsin (12),Cornell (20),15,12
-2015,USA-Ultimate-D-I-College-Championships-2015/schedule/Men/CollegeMen/,game72048,5/23/2015 5:00 PM,Cincinnati (18),Illinois (19),12,15
-2015,USA-Ultimate-D-I-College-Championships-2015/schedule/Men/CollegeMen/,game72049,5/23/2015 5:00 PM,California-Santa Barbara (16),Auburn (17),11,14
-2015,USA-Ultimate-D-I-College-Championships-2015/schedule/Men/CollegeMen/,game72050,5/24/2015 8:30 AM,Maryland (10),Western Washington (14),10,15
-2016,USA-Ultimate-D-I-College-Championships-2016/schedule/Men/CollegeMen/,game110974,5/30/2016 2:30 PM,Harvard (10),Minnesota (4),12,15
-2016,USA-Ultimate-D-I-College-Championships-2016/schedule/Men/CollegeMen/,game110972,5/29/2016 5:30 PM,Harvard (10),North Carolina (7),13,11
-2016,USA-Ultimate-D-I-College-Championships-2016/schedule/Men/CollegeMen/,game110973,5/29/2016 8:00 PM,Pittsburgh (5),Minnesota (4),13,14
-2016,USA-Ultimate-D-I-College-Championships-2016/schedule/Men/CollegeMen/,game110968,5/29/2016 8:30 AM,Harvard (10),Georgia (8),14,13
-2016,USA-Ultimate-D-I-College-Championships-2016/schedule/Men/CollegeMen/,game110969,5/29/2016 8:30 AM,North Carolina (7),Auburn (16),15,13
-2016,USA-Ultimate-D-I-College-Championships-2016/schedule/Men/CollegeMen/,game110970,5/29/2016 8:30 AM,Pittsburgh (5),Wisconsin (6),14,12
-2016,USA-Ultimate-D-I-College-Championships-2016/schedule/Men/CollegeMen/,game110971,5/29/2016 8:30 AM,Minnesota (4),Colorado (11),15,11
-2016,USA-Ultimate-D-I-College-Championships-2016/schedule/Men/CollegeMen/,game110964,5/28/2016 5:15 PM,Oregon (2),Harvard (10),13,15
-2016,USA-Ultimate-D-I-College-Championships-2016/schedule/Men/CollegeMen/,game110965,5/28/2016 5:15 PM,Michigan (15),North Carolina (7),12,15
-2016,USA-Ultimate-D-I-College-Championships-2016/schedule/Men/CollegeMen/,game110966,5/28/2016 5:15 PM,Pittsburgh (5),Texas A&M (12),15,9
-2016,USA-Ultimate-D-I-College-Championships-2016/schedule/Men/CollegeMen/,game110967,5/28/2016 5:15 PM,Massachusetts (1),Minnesota (4),10,14
-2016,USA-Ultimate-D-I-College-Championships-2016/schedule/Men/CollegeMen/,game110975,5/29/2016 8:30 AM,Washington (13),Utah (20),9,15
-2016,USA-Ultimate-D-I-College-Championships-2016/schedule/Men/CollegeMen/,game110976,5/28/2016 5:15 PM,Case Western Reserve (18),Connecticut (19),14,16
-2016,USA-Ultimate-D-I-College-Championships-2016/schedule/Men/CollegeMen/,game110977,5/28/2016 5:15 PM,Carleton College (9),Cal Poly-SLO (17),15,8
-2016,USA-Ultimate-D-I-College-Championships-2016/schedule/Men/CollegeMen/,game110978,5/29/2016 8:30 AM,North Carolina-Wilmington (3),Florida State (14),13,6
-2017,2017-USA-Ultimate-College-Championships/schedule/Men/CollegeMen/,game150508,5/29/2017 5:00 PM,Carleton College (6),North Carolina-Wilmington (11),15,11
-2017,2017-USA-Ultimate-College-Championships/schedule/Men/CollegeMen/,game150506,5/28/2017 2:00 PM,Massachusetts (1),Carleton College (6),14,15
-2017,2017-USA-Ultimate-College-Championships/schedule/Men/CollegeMen/,game150507,5/28/2017 8:00 PM,North Carolina (3),North Carolina-Wilmington (11),13,14
-2017,2017-USA-Ultimate-College-Championships/schedule/Men/CollegeMen/,game150502,5/28/2017 8:30 AM,Pittsburgh (2),Massachusetts (1),11,13
-2017,2017-USA-Ultimate-College-Championships/schedule/Men/CollegeMen/,game150503,5/28/2017 8:30 AM,Carleton College (6),Minnesota (4),12,10
-2017,2017-USA-Ultimate-College-Championships/schedule/Men/CollegeMen/,game150504,5/28/2017 8:30 AM,Wisconsin (9),North Carolina (3),14,15
-2017,2017-USA-Ultimate-College-Championships/schedule/Men/CollegeMen/,game150505,5/28/2017 8:30 AM,Washington (8),North Carolina-Wilmington (11),10,15
-2017,2017-USA-Ultimate-College-Championships/schedule/Men/CollegeMen/,game150498,5/27/2017 5:15 PM,Pittsburgh (2),Auburn (15),15,8
-2017,2017-USA-Ultimate-College-Championships/schedule/Men/CollegeMen/,game150499,5/27/2017 5:15 PM,Carleton College (6),Michigan (7),15,10
-2017,2017-USA-Ultimate-College-Championships/schedule/Men/CollegeMen/,game150500,5/27/2017 5:15 PM,Wisconsin (9),Cal Poly-SLO (17),15,10
-2017,2017-USA-Ultimate-College-Championships/schedule/Men/CollegeMen/,game150501,5/27/2017 5:15 PM,Washington (8),Oregon (5),15,12
-2017,2017-USA-Ultimate-College-Championships/schedule/Men/CollegeMen/,game150509,5/28/2017 8:30 AM,Stanford (12),Virginia Tech (20),15,13
-2017,2017-USA-Ultimate-College-Championships/schedule/Men/CollegeMen/,game150510,5/27/2017 5:15 PM,Connecticut (18),Colorado (10),15,12
-2017,2017-USA-Ultimate-College-Championships/schedule/Men/CollegeMen/,game150511,5/27/2017 5:15 PM,British Columbia (16),Colorado State (13),15,8
-2017,2017-USA-Ultimate-College-Championships/schedule/Men/CollegeMen/,game150512,5/28/2017 8:30 AM,Oregon State (19),Texas A&M; (14),12,15
-2018,USA-Ultimate-D-I-College-Championships-2018/schedule/Men/CollegeMen/,game190450,5/28/2018 2:00 PM,Pittsburgh (9),North Carolina (2),10,14
-2018,USA-Ultimate-D-I-College-Championships-2018/schedule/Men/CollegeMen/,game190448,5/27/2018 5:30 PM,Carleton College (1),Pittsburgh (9),11,15
-2018,USA-Ultimate-D-I-College-Championships-2018/schedule/Men/CollegeMen/,game190449,5/27/2018 11:30 AM,Oregon (3),North Carolina (2),13,14
-2018,USA-Ultimate-D-I-College-Championships-2018/schedule/Men/CollegeMen/,game190444,5/27/2018 8:30 AM,Georgia (6),Carleton College (1),4,15
-2018,USA-Ultimate-D-I-College-Championships-2018/schedule/Men/CollegeMen/,game190445,5/27/2018 8:30 AM,Wisconsin (10),Pittsburgh (9),8,15
-2018,USA-Ultimate-D-I-College-Championships-2018/schedule/Men/CollegeMen/,game190446,5/27/2018 8:00 AM,Brown (4),Oregon (3),13,15
-2018,USA-Ultimate-D-I-College-Championships-2018/schedule/Men/CollegeMen/,game190447,5/27/2018 8:00 AM,Washington (5),North Carolina (2),11,15
-2018,USA-Ultimate-D-I-College-Championships-2018/schedule/Men/CollegeMen/,game190440,5/26/2018 5:15 PM,Texas (11),Georgia (6),9,14
-2018,USA-Ultimate-D-I-College-Championships-2018/schedule/Men/CollegeMen/,game190442,5/26/2018 5:15 PM,Brown (4),Northwestern (17),15,11
-2018,USA-Ultimate-D-I-College-Championships-2018/schedule/Men/CollegeMen/,game190443,5/26/2018 5:15 PM,Massachusetts (8),Washington (5),12,15
-2018,USA-Ultimate-D-I-College-Championships-2018/schedule/Men/CollegeMen/,game190929,5/26/2018 5:15 PM,Wisconsin (10),Minnesota (7),13,12
-2018,USA-Ultimate-D-I-College-Championships-2018/schedule/Men/CollegeMen/,game190451,5/27/2018 8:30 AM,Auburn (13),Victoria (16),15,14
-2018,USA-Ultimate-D-I-College-Championships-2018/schedule/Men/CollegeMen/,game190452,5/26/2018 5:15 PM,William & Mary (14),Georgetown (19),15,11
-2018,USA-Ultimate-D-I-College-Championships-2018/schedule/Men/CollegeMen/,game190453,5/26/2018 5:15 PM,Florida State (20),Stanford (12),15,14
-2018,USA-Ultimate-D-I-College-Championships-2018/schedule/Men/CollegeMen/,game190454,5/27/2018 8:30 AM,Maryland (15),Connecticut (18),11,14
-2019,D-I-College-Championships-2019/schedule/Men/CollegeMen/,game227585,5/27/2019 2:30 PM,North Carolina (1),Brown (2),8,14
-2019,D-I-College-Championships-2019/schedule/Men/CollegeMen/,game227583,5/26/2019 8:00 PM,North Carolina (1),Cal Poly-SLO (4),15,10
-2019,D-I-College-Championships-2019/schedule/Men/CollegeMen/,game227584,5/26/2019 2:30 PM,Colorado (5),Brown (2),10,15
-2019,D-I-College-Championships-2019/schedule/Men/CollegeMen/,game227579,5/26/2019 8:30 AM,Wisconsin (10),North Carolina (1),8,15
-2019,D-I-College-Championships-2019/schedule/Men/CollegeMen/,game227580,5/26/2019 8:30 AM,Michigan (14),Cal Poly-SLO (4),10,15
-2019,D-I-College-Championships-2019/schedule/Men/CollegeMen/,game227581,5/26/2019 8:00 AM,Colorado (5),Pittsburgh (3),15,13
-2019,D-I-College-Championships-2019/schedule/Men/CollegeMen/,game227582,5/26/2019 8:00 AM,Ohio State (8),Brown (2),10,15
-2019,D-I-College-Championships-2019/schedule/Men/CollegeMen/,game227575,5/25/2019 5:15 PM,Texas (11),Wisconsin (10),11,13
-2019,D-I-College-Championships-2019/schedule/Men/CollegeMen/,game227576,5/25/2019 5:15 PM,Oregon (6),Michigan (14),12,13
-2019,D-I-College-Championships-2019/schedule/Men/CollegeMen/,game227577,5/25/2019 5:15 PM,Colorado (5),Georgia (12),12,10
-2019,D-I-College-Championships-2019/schedule/Men/CollegeMen/,game227578,5/25/2019 5:15 PM,Ohio State (8),Washington (9),14,9
-2019,D-I-College-Championships-2019/schedule/Men/CollegeMen/,game227586,5/26/2019 8:30 AM,Minnesota (13),Rutgers (20),15,5
-2019,D-I-College-Championships-2019/schedule/Men/CollegeMen/,game227587,5/25/2019 5:15 PM,Iowa State (18),Victoria (19),12,8
-2019,D-I-College-Championships-2019/schedule/Men/CollegeMen/,game227588,5/25/2019 5:15 PM,Northeastern (16),California (17),10,9
-2019,D-I-College-Championships-2019/schedule/Men/CollegeMen/,game227589,5/26/2019 8:30 AM,Tufts (15),North Carolina State (7),15,11
+year,event,game_id,game_time,home_team,away_team,home_score,away_score,home_seed,away_seed
+2014,USA-Ultimate-D-I-College-Championships/schedule/Men/CollegeMen/,game29088,5/26/2014 2:30 PM,Colorado (1),North Carolina (6),15,10,1,6
+2014,USA-Ultimate-D-I-College-Championships/schedule/Men/CollegeMen/,game29086,5/25/2014 5:30 PM,Colorado (1),Oregon (4),15,8,1,4
+2014,USA-Ultimate-D-I-College-Championships/schedule/Men/CollegeMen/,game29087,5/25/2014 8:00 PM,North Carolina (6),North Carolina-Wilmington (5),15,10,6,5
+2014,USA-Ultimate-D-I-College-Championships/schedule/Men/CollegeMen/,game29082,5/25/2014 8:30 AM,Michigan (11),Colorado (1),10,13,11,1
+2014,USA-Ultimate-D-I-College-Championships/schedule/Men/CollegeMen/,game29083,5/25/2014 8:30 AM,Texas (3),Oregon (4),10,15,3,4
+2014,USA-Ultimate-D-I-College-Championships/schedule/Men/CollegeMen/,game29084,5/25/2014 8:30 AM,Wisconsin (12),North Carolina (6),9,15,12,6
+2014,USA-Ultimate-D-I-College-Championships/schedule/Men/CollegeMen/,game29085,5/25/2014 8:30 AM,North Carolina-Wilmington (5),Pittsburgh (2),14,13,5,2
+2014,USA-Ultimate-D-I-College-Championships/schedule/Men/CollegeMen/,game29078,5/24/2014 5:00 PM,Michigan (11),Tufts (15),15,12,11,15
+2014,USA-Ultimate-D-I-College-Championships/schedule/Men/CollegeMen/,game29079,5/24/2014 5:00 PM,Texas (3),Central Florida (14),15,14,3,14
+2014,USA-Ultimate-D-I-College-Championships/schedule/Men/CollegeMen/,game29080,5/24/2014 5:00 PM,Carleton College (16),Wisconsin (12),7,15,16,12
+2014,USA-Ultimate-D-I-College-Championships/schedule/Men/CollegeMen/,game29081,5/24/2014 5:00 PM,Harvard (8),North Carolina-Wilmington (5),13,14,8,5
+2014,USA-Ultimate-D-I-College-Championships/schedule/Men/CollegeMen/,game29089,5/25/2014 8:30 AM,California-San Diego (13),Rutgers (20),15,8,13,20
+2014,USA-Ultimate-D-I-College-Championships/schedule/Men/CollegeMen/,game29090,5/24/2014 5:00 PM,Dartmouth (18),Florida State (10),12,15,18,10
+2014,USA-Ultimate-D-I-College-Championships/schedule/Men/CollegeMen/,game29091,5/24/2014 5:00 PM,Florida (9),Eastern Michigan (17),15,7,9,17
+2014,USA-Ultimate-D-I-College-Championships/schedule/Men/CollegeMen/,game29092,5/25/2014 8:30 AM,Massachusetts (19),Texas A&M (7),15,5,19,7
+2015,USA-Ultimate-D-I-College-Championships-2015/schedule/Men/CollegeMen/,game72034,5/25/2015 2:30 PM,Oregon (15),North Carolina (3),6,15,15,3
+2015,USA-Ultimate-D-I-College-Championships-2015/schedule/Men/CollegeMen/,game72032,5/24/2015 5:30 PM,Oregon (15),Florida State (6),15,12,15,6
+2015,USA-Ultimate-D-I-College-Championships-2015/schedule/Men/CollegeMen/,game72033,5/24/2015 8:00 PM,North Carolina (3),Central Florida (7),15,10,3,7
+2015,USA-Ultimate-D-I-College-Championships-2015/schedule/Men/CollegeMen/,game72028,5/24/2015 8:30 AM,Oregon (15),Texas (13),15,9,15,13
+2015,USA-Ultimate-D-I-College-Championships-2015/schedule/Men/CollegeMen/,game72029,5/24/2015 8:30 AM,Florida State (6),Massachusetts (9),12,10,6,9
+2015,USA-Ultimate-D-I-College-Championships-2015/schedule/Men/CollegeMen/,game72030,5/24/2015 8:30 AM,Colorado (5),North Carolina (3),9,15,5,3
+2015,USA-Ultimate-D-I-College-Championships-2015/schedule/Men/CollegeMen/,game72031,5/24/2015 8:30 AM,Pittsburgh (1),Central Florida (7),9,15,1,7
+2015,USA-Ultimate-D-I-College-Championships-2015/schedule/Men/CollegeMen/,game72024,5/23/2015 5:00 PM,Minnesota (11),Oregon (15),11,14,11,15
+2015,USA-Ultimate-D-I-College-Championships-2015/schedule/Men/CollegeMen/,game72025,5/23/2015 5:00 PM,Florida State (6),Texas A&M (2),15,12,6,2
+2015,USA-Ultimate-D-I-College-Championships-2015/schedule/Men/CollegeMen/,game72026,5/23/2015 5:00 PM,Colorado (5),Georgia (8),14,9,5,8
+2015,USA-Ultimate-D-I-College-Championships-2015/schedule/Men/CollegeMen/,game72027,5/23/2015 5:00 PM,Pittsburgh (1),North Carolina-Wilmington (4),14,11,1,4
+2015,USA-Ultimate-D-I-College-Championships-2015/schedule/Men/CollegeMen/,game72047,5/24/2015 8:30 AM,Wisconsin (12),Cornell (20),15,12,12,20
+2015,USA-Ultimate-D-I-College-Championships-2015/schedule/Men/CollegeMen/,game72048,5/23/2015 5:00 PM,Cincinnati (18),Illinois (19),12,15,18,19
+2015,USA-Ultimate-D-I-College-Championships-2015/schedule/Men/CollegeMen/,game72049,5/23/2015 5:00 PM,California-Santa Barbara (16),Auburn (17),11,14,16,17
+2015,USA-Ultimate-D-I-College-Championships-2015/schedule/Men/CollegeMen/,game72050,5/24/2015 8:30 AM,Maryland (10),Western Washington (14),10,15,10,14
+2016,USA-Ultimate-D-I-College-Championships-2016/schedule/Men/CollegeMen/,game110974,5/30/2016 2:30 PM,Harvard (10),Minnesota (4),12,15,10,4
+2016,USA-Ultimate-D-I-College-Championships-2016/schedule/Men/CollegeMen/,game110972,5/29/2016 5:30 PM,Harvard (10),North Carolina (7),13,11,10,7
+2016,USA-Ultimate-D-I-College-Championships-2016/schedule/Men/CollegeMen/,game110973,5/29/2016 8:00 PM,Pittsburgh (5),Minnesota (4),13,14,5,4
+2016,USA-Ultimate-D-I-College-Championships-2016/schedule/Men/CollegeMen/,game110968,5/29/2016 8:30 AM,Harvard (10),Georgia (8),14,13,10,8
+2016,USA-Ultimate-D-I-College-Championships-2016/schedule/Men/CollegeMen/,game110969,5/29/2016 8:30 AM,North Carolina (7),Auburn (16),15,13,7,16
+2016,USA-Ultimate-D-I-College-Championships-2016/schedule/Men/CollegeMen/,game110970,5/29/2016 8:30 AM,Pittsburgh (5),Wisconsin (6),14,12,5,6
+2016,USA-Ultimate-D-I-College-Championships-2016/schedule/Men/CollegeMen/,game110971,5/29/2016 8:30 AM,Minnesota (4),Colorado (11),15,11,4,11
+2016,USA-Ultimate-D-I-College-Championships-2016/schedule/Men/CollegeMen/,game110964,5/28/2016 5:15 PM,Oregon (2),Harvard (10),13,15,2,10
+2016,USA-Ultimate-D-I-College-Championships-2016/schedule/Men/CollegeMen/,game110965,5/28/2016 5:15 PM,Michigan (15),North Carolina (7),12,15,15,7
+2016,USA-Ultimate-D-I-College-Championships-2016/schedule/Men/CollegeMen/,game110966,5/28/2016 5:15 PM,Pittsburgh (5),Texas A&M (12),15,9,5,12
+2016,USA-Ultimate-D-I-College-Championships-2016/schedule/Men/CollegeMen/,game110967,5/28/2016 5:15 PM,Massachusetts (1),Minnesota (4),10,14,1,4
+2016,USA-Ultimate-D-I-College-Championships-2016/schedule/Men/CollegeMen/,game110975,5/29/2016 8:30 AM,Washington (13),Utah (20),9,15,13,20
+2016,USA-Ultimate-D-I-College-Championships-2016/schedule/Men/CollegeMen/,game110976,5/28/2016 5:15 PM,Case Western Reserve (18),Connecticut (19),14,16,18,19
+2016,USA-Ultimate-D-I-College-Championships-2016/schedule/Men/CollegeMen/,game110977,5/28/2016 5:15 PM,Carleton College (9),Cal Poly-SLO (17),15,8,9,17
+2016,USA-Ultimate-D-I-College-Championships-2016/schedule/Men/CollegeMen/,game110978,5/29/2016 8:30 AM,North Carolina-Wilmington (3),Florida State (14),13,6,3,14
+2017,2017-USA-Ultimate-College-Championships/schedule/Men/CollegeMen/,game150508,5/29/2017 5:00 PM,Carleton College (6),North Carolina-Wilmington (11),15,11,6,11
+2017,2017-USA-Ultimate-College-Championships/schedule/Men/CollegeMen/,game150506,5/28/2017 2:00 PM,Massachusetts (1),Carleton College (6),14,15,1,6
+2017,2017-USA-Ultimate-College-Championships/schedule/Men/CollegeMen/,game150507,5/28/2017 8:00 PM,North Carolina (3),North Carolina-Wilmington (11),13,14,3,11
+2017,2017-USA-Ultimate-College-Championships/schedule/Men/CollegeMen/,game150502,5/28/2017 8:30 AM,Pittsburgh (2),Massachusetts (1),11,13,2,1
+2017,2017-USA-Ultimate-College-Championships/schedule/Men/CollegeMen/,game150503,5/28/2017 8:30 AM,Carleton College (6),Minnesota (4),12,10,6,4
+2017,2017-USA-Ultimate-College-Championships/schedule/Men/CollegeMen/,game150504,5/28/2017 8:30 AM,Wisconsin (9),North Carolina (3),14,15,9,3
+2017,2017-USA-Ultimate-College-Championships/schedule/Men/CollegeMen/,game150505,5/28/2017 8:30 AM,Washington (8),North Carolina-Wilmington (11),10,15,8,11
+2017,2017-USA-Ultimate-College-Championships/schedule/Men/CollegeMen/,game150498,5/27/2017 5:15 PM,Pittsburgh (2),Auburn (15),15,8,2,15
+2017,2017-USA-Ultimate-College-Championships/schedule/Men/CollegeMen/,game150499,5/27/2017 5:15 PM,Carleton College (6),Michigan (7),15,10,6,7
+2017,2017-USA-Ultimate-College-Championships/schedule/Men/CollegeMen/,game150500,5/27/2017 5:15 PM,Wisconsin (9),Cal Poly-SLO (17),15,10,9,17
+2017,2017-USA-Ultimate-College-Championships/schedule/Men/CollegeMen/,game150501,5/27/2017 5:15 PM,Washington (8),Oregon (5),15,12,8,5
+2017,2017-USA-Ultimate-College-Championships/schedule/Men/CollegeMen/,game150509,5/28/2017 8:30 AM,Stanford (12),Virginia Tech (20),15,13,12,20
+2017,2017-USA-Ultimate-College-Championships/schedule/Men/CollegeMen/,game150510,5/27/2017 5:15 PM,Connecticut (18),Colorado (10),15,12,18,10
+2017,2017-USA-Ultimate-College-Championships/schedule/Men/CollegeMen/,game150511,5/27/2017 5:15 PM,British Columbia (16),Colorado State (13),15,8,16,13
+2017,2017-USA-Ultimate-College-Championships/schedule/Men/CollegeMen/,game150512,5/28/2017 8:30 AM,Oregon State (19),Texas A&M; (14),12,15,19,14
+2018,USA-Ultimate-D-I-College-Championships-2018/schedule/Men/CollegeMen/,game190450,5/28/2018 2:00 PM,Pittsburgh (9),North Carolina (2),10,14,9,2
+2018,USA-Ultimate-D-I-College-Championships-2018/schedule/Men/CollegeMen/,game190448,5/27/2018 5:30 PM,Carleton College (1),Pittsburgh (9),11,15,1,9
+2018,USA-Ultimate-D-I-College-Championships-2018/schedule/Men/CollegeMen/,game190449,5/27/2018 11:30 AM,Oregon (3),North Carolina (2),13,14,3,2
+2018,USA-Ultimate-D-I-College-Championships-2018/schedule/Men/CollegeMen/,game190444,5/27/2018 8:30 AM,Georgia (6),Carleton College (1),4,15,6,1
+2018,USA-Ultimate-D-I-College-Championships-2018/schedule/Men/CollegeMen/,game190445,5/27/2018 8:30 AM,Wisconsin (10),Pittsburgh (9),8,15,10,9
+2018,USA-Ultimate-D-I-College-Championships-2018/schedule/Men/CollegeMen/,game190446,5/27/2018 8:00 AM,Brown (4),Oregon (3),13,15,4,3
+2018,USA-Ultimate-D-I-College-Championships-2018/schedule/Men/CollegeMen/,game190447,5/27/2018 8:00 AM,Washington (5),North Carolina (2),11,15,5,2
+2018,USA-Ultimate-D-I-College-Championships-2018/schedule/Men/CollegeMen/,game190440,5/26/2018 5:15 PM,Texas (11),Georgia (6),9,14,11,6
+2018,USA-Ultimate-D-I-College-Championships-2018/schedule/Men/CollegeMen/,game190442,5/26/2018 5:15 PM,Brown (4),Northwestern (17),15,11,4,17
+2018,USA-Ultimate-D-I-College-Championships-2018/schedule/Men/CollegeMen/,game190443,5/26/2018 5:15 PM,Massachusetts (8),Washington (5),12,15,8,5
+2018,USA-Ultimate-D-I-College-Championships-2018/schedule/Men/CollegeMen/,game190929,5/26/2018 5:15 PM,Wisconsin (10),Minnesota (7),13,12,10,7
+2018,USA-Ultimate-D-I-College-Championships-2018/schedule/Men/CollegeMen/,game190451,5/27/2018 8:30 AM,Auburn (13),Victoria (16),15,14,13,16
+2018,USA-Ultimate-D-I-College-Championships-2018/schedule/Men/CollegeMen/,game190452,5/26/2018 5:15 PM,William & Mary (14),Georgetown (19),15,11,14,19
+2018,USA-Ultimate-D-I-College-Championships-2018/schedule/Men/CollegeMen/,game190453,5/26/2018 5:15 PM,Florida State (20),Stanford (12),15,14,20,12
+2018,USA-Ultimate-D-I-College-Championships-2018/schedule/Men/CollegeMen/,game190454,5/27/2018 8:30 AM,Maryland (15),Connecticut (18),11,14,15,18
+2019,D-I-College-Championships-2019/schedule/Men/CollegeMen/,game227585,5/27/2019 2:30 PM,North Carolina (1),Brown (2),8,14,1,2
+2019,D-I-College-Championships-2019/schedule/Men/CollegeMen/,game227583,5/26/2019 8:00 PM,North Carolina (1),Cal Poly-SLO (4),15,10,1,4
+2019,D-I-College-Championships-2019/schedule/Men/CollegeMen/,game227584,5/26/2019 2:30 PM,Colorado (5),Brown (2),10,15,5,2
+2019,D-I-College-Championships-2019/schedule/Men/CollegeMen/,game227579,5/26/2019 8:30 AM,Wisconsin (10),North Carolina (1),8,15,10,1
+2019,D-I-College-Championships-2019/schedule/Men/CollegeMen/,game227580,5/26/2019 8:30 AM,Michigan (14),Cal Poly-SLO (4),10,15,14,4
+2019,D-I-College-Championships-2019/schedule/Men/CollegeMen/,game227581,5/26/2019 8:00 AM,Colorado (5),Pittsburgh (3),15,13,5,3
+2019,D-I-College-Championships-2019/schedule/Men/CollegeMen/,game227582,5/26/2019 8:00 AM,Ohio State (8),Brown (2),10,15,8,2
+2019,D-I-College-Championships-2019/schedule/Men/CollegeMen/,game227575,5/25/2019 5:15 PM,Texas (11),Wisconsin (10),11,13,11,10
+2019,D-I-College-Championships-2019/schedule/Men/CollegeMen/,game227576,5/25/2019 5:15 PM,Oregon (6),Michigan (14),12,13,6,14
+2019,D-I-College-Championships-2019/schedule/Men/CollegeMen/,game227577,5/25/2019 5:15 PM,Colorado (5),Georgia (12),12,10,5,12
+2019,D-I-College-Championships-2019/schedule/Men/CollegeMen/,game227578,5/25/2019 5:15 PM,Ohio State (8),Washington (9),14,9,8,9
+2019,D-I-College-Championships-2019/schedule/Men/CollegeMen/,game227586,5/26/2019 8:30 AM,Minnesota (13),Rutgers (20),15,5,13,20
+2019,D-I-College-Championships-2019/schedule/Men/CollegeMen/,game227587,5/25/2019 5:15 PM,Iowa State (18),Victoria (19),12,8,18,19
+2019,D-I-College-Championships-2019/schedule/Men/CollegeMen/,game227588,5/25/2019 5:15 PM,Northeastern (16),California (17),10,9,16,17
+2019,D-I-College-Championships-2019/schedule/Men/CollegeMen/,game227589,5/26/2019 8:30 AM,Tufts (15),North Carolina State (7),15,11,15,7
