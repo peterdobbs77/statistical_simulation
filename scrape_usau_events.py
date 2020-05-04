@@ -2,7 +2,6 @@ import os
 import requests
 import pandas as pd
 from bs4 import BeautifulSoup as bs
-import matplotlib.pyplot as plt
 
 USER_AGENT = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36"
 # US english
@@ -126,7 +125,7 @@ def scrape_and_clean_brackets(base_url, event):
 
 BASE_URL = "https://play.usaultimate.org/events/"
 # TODO: update this for each event
-EVENT = "Meltdown-2017/schedule/Men/CollegeMen/"
+EVENT = "D-I-College-Championships-2019/schedule/Men/CollegeMen/"
 FILE_PATH = f"./data/ultimate/{EVENT}"
 
 if not os.path.exists(FILE_PATH):
