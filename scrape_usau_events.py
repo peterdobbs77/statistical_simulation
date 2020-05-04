@@ -147,11 +147,12 @@ poolplay['type'] = "pool"
 bracketplay['type'] = "bracket"
 all_games = poolplay[['event', 'type', 'home_team', 'away_team', 'home_score', 'away_score']].append(
     bracketplay[['event', 'type', 'home_team', 'away_team', 'home_score', 'away_score']], ignore_index=True)
+all_games.to_csv(f"{FILE_PATH}all_games.csv", index=False)
 home = all_games[all_games['home_score'] > all_games['away_score']]
 home.columns = ['event', 'type', 'winner_team',
-                'winner_score', 'loser_team', 'loser_score']
+                'loser_team', 'winner_score', 'loser_score']
 away = all_games[all_games['home_score'] < all_games['away_score']]
 away.columns = ['event', 'type', 'loser_team',
-                'loser_score', 'winner_team', 'winner_score']
+                'winner_team', 'loser_score', 'winner_score']
 reorganized = home.append(away, ignore_index=True, sort=False)
-reorganized.to_csv(f"{FILE_PATH}all_games.csv", index=False)
+reorganized.to_csv(f"{FILE_PATH}reorganized.csv", index=False)
