@@ -136,11 +136,11 @@ print(f"Data files will be stored under {FILE_PATH}")
 
 # scrape pool play games
 poolplay = scrape_and_clean_scoretables(BASE_URL, EVENT)
-poolplay.to_csv(f"{FILE_PATH}poolplay.csv")
+poolplay.to_csv(f"{FILE_PATH}poolplay.csv", index=False)
 
 # scrape bracket play games
 bracketplay = scrape_and_clean_brackets(BASE_URL, EVENT)
-bracketplay.to_csv(f"{FILE_PATH}bracketplay.csv")
+bracketplay.to_csv(f"{FILE_PATH}bracketplay.csv", index=False)
 
 # combine all games and indicate winners and losers
 poolplay['type'] = "pool"
@@ -154,4 +154,4 @@ away = all_games[all_games['home_score'] < all_games['away_score']]
 away.columns = ['event', 'type', 'loser_team',
                 'loser_score', 'winner_team', 'winner_score']
 reorganized = home.append(away, ignore_index=True, sort=False)
-reorganized.to_csv(f"{FILE_PATH}all_games.csv")
+reorganized.to_csv(f"{FILE_PATH}all_games.csv", index=False)
