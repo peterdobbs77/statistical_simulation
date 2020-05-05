@@ -1,0 +1,505 @@
+Team,#,Player,Goals,Assists,Ds,TOs
+Arizona,0,Jack McLain,0,0,0,0
+Arizona,2,Sean Ham,5,5,5,2
+Arizona,3,Brice Dixon,3,12,1,9
+Arizona,4,Daniel Guyll,1,0,2,2
+Arizona,5,Stephen Lin,5,2,0,3
+Arizona,6,Nolan Schmalenberger,3,4,0,3
+Arizona,7,Alex Smith,16,4,5,5
+Arizona,8,Sam Ouimet,1,3,3,9
+Arizona,13,Jacob Lien,0,9,2,10
+Arizona,14,John Patinella,0,0,0,1
+Arizona,16,Kyle Weigand,3,5,3,5
+Arizona,17,Seth Stephens,3,4,2,9
+Arizona,18,John Perkin,1,0,0,1
+Arizona,19,AJ Garnello,3,0,2,1
+Arizona,24,Ben Lacy,8,1,0,1
+Arizona,29,Marshall Crawford,4,2,2,4
+Arizona,32,Tom McClintock,0,5,3,5
+Arizona,33,Reilly Cleal,2,0,1,5
+Arizona,36,Ryan Lacy,3,8,3,2
+Arizona,45,Ryan Fulleman,0,1,0,0
+Arizona,56,Chris Metz,3,1,3,1
+Arizona,87,Alex Schoonmaker,2,1,1,0
+Arizona,92,James DeVore,0,0,0,0
+Arizona,?,unknown,0,0,0,2
+California-Davis,4,Greg Finkelstein,0,0,0,0
+California-Davis,6,Nathan White,2,14,1,5
+California-Davis,7,Benjamin Souvey,14,10,2,8
+California-Davis,11,Kevin Liantono,8,2,1,2
+California-Davis,12,Elijah Kerns,10,22,3,10
+California-Davis,16,Mark Miller,0,0,0,0
+California-Davis,17,Bradley Santi,0,1,0,1
+California-Davis,19,Sean Frawley,0,2,1,2
+California-Davis,21,Samuel Asin,1,1,1,1
+California-Davis,22,Marcelo Sanchez,12,9,2,5
+California-Davis,23,Steve Purugganan,0,1,0,2
+California-Davis,27,Kramer Straube,1,0,0,1
+California-Davis,30,Keean Joye,5,1,1,2
+California-Davis,34,David Hwang,1,3,0,2
+California-Davis,36,Michael Norcia,2,0,0,4
+California-Davis,44,Orion Edwards,3,0,0,1
+California-Davis,52,Patrick Lahey,9,3,4,5
+California-Davis,62,Joe Butler,1,1,1,0
+California-Davis,74,Ben Hubbard,8,8,4,8
+California-Davis,77,Darren Brodowy,0,0,0,0
+California-Davis,?,unknown,0,0,0,0
+Carleton College,0,Robert Olney,4,1,0,1
+Carleton College,2,Julian Childs-Walker,7,12,3,7
+Carleton College,3,Justin Norden,2,24,1,8
+Carleton College,4,James Adams,10,2,1,1
+Carleton College,5,Louis Cohen,2,0,1,5
+Carleton College,7,Jesse Bolton,0,0,0,0
+Carleton College,8,Michael Goodgame,0,2,0,1
+Carleton College,9,Simon Montague,12,17,6,12
+Carleton College,10,John Raynolds,13,3,2,8
+Carleton College,11,Duncan Sallstrom,1,0,0,0
+Carleton College,13,Simon Johansen,6,1,4,1
+Carleton College,14,Justin Lim,5,3,0,3
+Carleton College,15,David Long,2,1,1,0
+Carleton College,17,Alex Trautman,2,0,1,1
+Carleton College,18,Paxton Harvieux,2,0,1,4
+Carleton College,20,Will Herold,2,2,4,6
+Carleton College,21,Tyler Mahony,0,0,3,0
+Carleton College,23,Sef Van Kan,3,2,1,0
+Carleton College,25,Nick Stuart,1,1,4,1
+Carleton College,26,Nathaniel Grant,0,1,1,0
+Carleton College,40,Galen Ryan,5,8,6,4
+Carleton College,44,Alex McMurtry,0,0,0,0
+Carleton College,48,Ben Caffrey,1,1,0,0
+Carleton College,50,Nick Petru,2,1,1,0
+Carleton College,91,Russel Hanson,0,0,0,0
+Carleton College,?,unknown,0,0,0,0
+Central Florida,1,Brawley Adams,3,3,0,4
+Central Florida,2,Chad Russom,0,0,0,0
+Central Florida,3,Terry Murphy,0,0,0,0
+Central Florida,4,Kyle Reedy,4,3,4,3
+Central Florida,6,Dillon Esdale,3,1,0,3
+Central Florida,7,John Collingwood,0,0,1,0
+Central Florida,8,Alex Bullock,1,14,4,10
+Central Florida,9,Matt Capp,3,3,2,5
+Central Florida,11,Michael Hickson,2,5,5,10
+Central Florida,12,Chris Lin,0,0,0,0
+Central Florida,13,JC Feldman,2,0,0,0
+Central Florida,14,Mischa Freystaetter,13,8,5,7
+Central Florida,16,Nick Brewer,1,1,0,1
+Central Florida,17,Matt Carlson,10,4,2,3
+Central Florida,21,Jonah Larsen,0,0,0,0
+Central Florida,23,Daniel Jakob,2,5,0,8
+Central Florida,25,Jeremy Langdon,12,12,5,12
+Central Florida,28,Will Furiosi,0,0,1,0
+Central Florida,30,Andrew McKelvey,3,1,0,1
+Central Florida,33,John Best,5,19,7,12
+Central Florida,34,Garrett Pelton,4,2,0,3
+Central Florida,42,Mike Ogren,15,5,5,6
+Central Florida,44,Tommy Hankin,5,1,2,1
+Central Florida,69,Eric Buenrostro,0,1,1,2
+Central Florida,74,Stuart Little,1,0,1,2
+Central Florida,?,unknown,0,0,0,4
+Colorado,0,Mark Rauls,0,0,0,0
+Colorado,1,Matt Robinson,0,0,1,1
+Colorado,2,Chris Bubernak,2,0,0,0
+Colorado,5,Hidde Snieder,9,2,1,5
+Colorado,6,Stu Barnes,0,0,0,2
+Colorado,7,Noah Baker,0,0,0,0
+Colorado,8,Pawel Janas,3,10,1,7
+Colorado,9,Pete Gleason,0,0,0,0
+Colorado,12,Tim Morrissy,7,5,2,5
+Colorado,15,Dennison Bechis,4,3,3,4
+Colorado,17,Tristan Voss,2,2,1,1
+Colorado,18,Phil Sun,1,1,1,1
+Colorado,20,Jack Barrow,2,2,1,2
+Colorado,21,Wesley Chow,2,1,2,1
+Colorado,22,Zach Zebarth,0,0,1,0
+Colorado,23,Jimmy Mickle,6,25,6,6
+Colorado,24,Jackson Kloor,9,3,4,8
+Colorado,26,Stanley Peterson,3,0,3,0
+Colorado,27,Andrew Commander,0,0,0,1
+Colorado,28,Oak Nelson,0,0,0,1
+Colorado,29,Matt Gleason,0,1,0,0
+Colorado,32,Kevin Johnson,0,0,0,0
+Colorado,35,Todd Wolma,0,0,0,0
+Colorado,36,Gabe Stump,0,0,1,0
+Colorado,42,Matt Bubernak,1,1,1,1
+Colorado,44,Jesse Fisher,1,0,2,1
+Colorado,45,Brian McDonald,0,0,1,0
+Colorado,63,James Mitchell,4,6,5,3
+Colorado,77,John Kearns,0,0,0,1
+Colorado,80,Jeremy Harker,2,1,2,6
+Colorado,83,Zach Nager,9,3,1,0
+Colorado,?,unknown,0,1,0,0
+Cornell,2,James McClintock,0,0,1,0
+Cornell,7,Austin Hartley,0,0,1,0
+Cornell,10,Adam Salwen,1,10,2,9
+Cornell,11,Aiden Forsi,1,1,0,1
+Cornell,12,Jason Kowalski,0,1,0,0
+Cornell,13,Franklin Li,4,3,1,4
+Cornell,15,Adam Shih,0,0,1,0
+Cornell,18,John Brancato,3,1,4,2
+Cornell,19,Justin Yeh,0,0,0,0
+Cornell,22,Benjamin Wie,0,0,0,0
+Cornell,23,Walter Cai,8,4,2,12
+Cornell,24,Alex Eacker,0,0,0,0
+Cornell,25,Jordan Diamond,4,6,1,6
+Cornell,27,Nick Thompson,8,2,2,3
+Cornell,28,Chris Perrotti,0,0,0,0
+Cornell,42,Dan Goldberg,1,1,1,2
+Cornell,44,Brian Pollack,0,0,0,0
+Cornell,46,Ryan Sturm,7,2,2,7
+Cornell,54,Robert Vander Meulen,6,0,1,2
+Cornell,55,Jake Stevelman,8,14,1,20
+Cornell,87,Daniel Wekstein,2,8,2,4
+Cornell,?,unknown,0,0,0,0
+Dartmouth,2,Spencer Diamond,4,15,3,9
+Dartmouth,3,Ian  Engler,16,18,3,13
+Dartmouth,4,Daniel Rosengard,12,7,4,9
+Dartmouth,5,Andrew  Pillsbury,0,0,0,1
+Dartmouth,7,Scott Sottosanti,2,1,1,0
+Dartmouth,8,Peter Lobel,0,0,0,1
+Dartmouth,9,Brett Szalapski,1,1,0,4
+Dartmouth,10,Sam Hills,1,0,0,1
+Dartmouth,11,Arthur Bledsoe,7,15,2,4
+Dartmouth,12,David Clemens-Sewall,6,4,0,1
+Dartmouth,13,Richard Lange,3,1,3,2
+Dartmouth,15,Caleb Ladue,3,1,4,3
+Dartmouth,16,Henry Frost,2,0,0,3
+Dartmouth,17,Sean Howe,0,0,0,0
+Dartmouth,18,Nathan Lehrer,1,0,0,0
+Dartmouth,20,David Friedman,0,0,0,2
+Dartmouth,21,Daniel Harris,3,5,5,7
+Dartmouth,22,Gerben Scherpbier,0,0,0,0
+Dartmouth,23,Jon Xu,2,0,1,2
+Dartmouth,24,Ian Herrick,2,0,2,1
+Dartmouth,25,Sean Griffin,1,1,0,0
+Dartmouth,28,Cecil Qiu,3,2,4,3
+Dartmouth,37,Thomas Balch,0,0,0,0
+Dartmouth,50,Sean Derrow,0,0,0,0
+Dartmouth,77,Matthew Heffley,6,3,1,7
+Dartmouth,?,unknown,0,0,0,0
+Florida State,2,Bobby Patterson,2,0,2,0
+Florida State,3,Andrew Roney,10,7,2,5
+Florida State,5,Cory Logan,5,5,1,7
+Florida State,7,Clark  Cofer,0,0,1,0
+Florida State,8,Matthew  Norris,0,0,0,1
+Florida State,9,AJ Newberry,4,4,1,8
+Florida State,10,James Koerner,1,1,0,1
+Florida State,11,Ben Stringer,1,9,0,16
+Florida State,12,Wayde Voss,0,1,0,0
+Florida State,15,Morgan Stanley,1,0,0,0
+Florida State,17,Jason Holleran,0,0,0,0
+Florida State,18,Chris LaRocque,8,15,9,18
+Florida State,21,Michael Cicconi,2,2,3,1
+Florida State,22,Ryan MacFadyen,1,3,1,6
+Florida State,23,Peter Van Brussel,0,0,0,0
+Florida State,25,Cole Friedes,0,0,0,0
+Florida State,27,Connor Holcombe,9,0,5,4
+Florida State,28,Drew LaRocque,0,1,4,1
+Florida State,33,John Patterson,0,0,0,1
+Florida State,39,Jordan Huston,5,5,1,11
+Florida State,42,Brian Toups,4,0,1,0
+Florida State,46,Brian Phillips,0,0,0,0
+Florida State,56,Sam  Stewart,0,1,2,4
+Florida State,99,Gabe Bidot,0,0,0,0
+Florida State,?,unknown,0,0,0,0
+Florida State,19,unknown,3,2,2,2
+Georgia,3,Chris Rogers,0,0,0,1
+Georgia,5,Elliott  Erickson,0,0,0,0
+Georgia,7,Nate Kelley,4,3,1,4
+Georgia,8,Max Leonard,12,21,1,12
+Georgia,9,Sam  Little,8,3,4,4
+Georgia,10,Javid Aceil,3,9,1,17
+Georgia,11,Joey Morrow,0,0,3,1
+Georgia,12,Mac Little,3,0,0,4
+Georgia,13,Mike Peters,5,0,7,0
+Georgia,15,Neal Raines,1,0,1,1
+Georgia,17,Caleb Edwards,1,0,0,1
+Georgia,19,Ryan Pappafotis,0,1,0,0
+Georgia,20,Derek Cooper,1,0,0,0
+Georgia,21,Austin Nuckols,2,0,0,0
+Georgia,25,Peter Boyle,1,0,0,1
+Georgia,27,Sheryar Ali,0,0,0,4
+Georgia,28,Tyler Haskell,3,0,1,0
+Georgia,29,Chase McCallum,0,1,0,4
+Georgia,31,Matthew Hess,1,5,0,6
+Georgia,34,George Summers,0,0,0,1
+Georgia,38,Shawn Paul,3,1,2,0
+Georgia,42,Devin Cox,0,1,0,5
+Georgia,55,Kris VanMeter,2,0,5,0
+Georgia,77,Wright Dickerson,0,2,0,1
+Georgia,95,Cameron Macke,2,6,0,8
+Georgia,98,Matt Quillian,1,0,0,1
+Georgia,?,unknown,0,0,0,1
+Harvard,1,Andrew O'Rourke,1,0,1,0
+Harvard,5,Daniel Broudy,4,0,6,3
+Harvard,6,James Thurm,0,0,0,0
+Harvard,7,Adrian  Pforzheimer,8,3,1,0
+Harvard,8,Wesley Mann,5,0,1,5
+Harvard,9,Misha Herscu,1,1,0,2
+Harvard,10,Mark Vandenberg,5,16,3,7
+Harvard,11,Johnathon Davis,0,0,0,0
+Harvard,12,Benjamin Scharfstein,1,1,0,0
+Harvard,15,Allen He,1,11,1,5
+Harvard,17,Tsuki Hoshijima,0,0,0,0
+Harvard,18,Jeremy Nixon,3,2,2,5
+Harvard,19,William Dean,10,3,3,2
+Harvard,22,Alex Hem,3,0,0,1
+Harvard,23,Peter Cornick,3,1,0,2
+Harvard,24,David Reshef,3,2,2,6
+Harvard,25,Joe Masterman,6,0,1,2
+Harvard,30,Wynn Tucker,1,0,0,1
+Harvard,34,Josh Fries,0,13,3,5
+Harvard,35,Piers MacNaughton,5,7,2,7
+Harvard,36,Wes Welch,0,0,0,0
+Harvard,?,unknown,0,0,0,0
+Illinois,1,Nick Prozorovsky,16,0,1,4
+Illinois,3,Sean Hill,0,5,2,3
+Illinois,4,Rob Dreier,0,0,2,0
+Illinois,6,Brad Bolliger,1,13,2,7
+Illinois,9,Preston Goulson,11,2,1,4
+Illinois,11,Jon McKoy,0,0,0,0
+Illinois,12,Derek Yan,3,1,3,2
+Illinois,18,Eric Bultman,0,1,1,0
+Illinois,20,Tyler Anderson,2,0,0,0
+Illinois,22,Brian Rathunde,3,1,3,3
+Illinois,23,Ryan Smith,0,12,3,17
+Illinois,27,Wilson Wang,2,0,0,1
+Illinois,30,Colin Reid,8,5,0,6
+Illinois,34,Michael Pohling,0,0,1,0
+Illinois,35,Marty Markenson,5,5,1,7
+Illinois,38,Grant Hallan,0,0,1,2
+Illinois,39,Ross Tuttle,0,0,1,0
+Illinois,44,Nate Gibbons,3,2,5,8
+Illinois,45,Greg Hill,1,0,1,4
+Illinois,64,Neal Phelps,1,2,2,2
+Illinois,65,Michael Cosmos,2,0,1,1
+Illinois,87,Adam Wright,1,7,0,7
+Illinois,99,John Saniat,1,5,1,3
+Illinois,?,unknown,0,0,0,2
+Luther,2,Josh Johnson,3,15,3,18
+Luther,3,Colin Berry,0,2,1,1
+Luther,5,Sam Hedrick,1,6,2,6
+Luther,7,Trevor Downs,4,0,1,1
+Luther,9,Joe Simonelli,0,1,2,6
+Luther,10,Trent Erickson,9,8,6,3
+Luther,11,August Kramer,5,4,2,6
+Luther,12,Joe Marshall,0,0,0,1
+Luther,13,Brandon Lafferty,12,10,3,9
+Luther,14,Matthias Broner,4,7,2,4
+Luther,15,Will Harren,2,3,0,5
+Luther,17,Erik Sand,1,0,0,1
+Luther,18,Sam Berglund,3,3,2,5
+Luther,19,Joe Novak,1,0,2,3
+Luther,24,Ben Nordquist,5,1,1,0
+Luther,25,Cole Puffer,3,1,1,1
+Luther,27,Peter Storvick,6,1,1,2
+Luther,28,Jack Rosenwinkel,0,0,0,0
+Luther,34,Nate Converse,5,1,1,2
+Luther,35,John Melzarek,0,0,0,0
+Luther,36,Joe Ballandby,1,0,0,0
+Luther,37,Peter Douglas,0,0,0,0
+Luther,47,Ian Andre-Knudsen,0,1,0,0
+Luther,54,Brady Brinkmeyer,0,1,0,0
+Luther,?,unknown,0,0,0,2
+North Carolina,0,Aaron Warshauer,12,2,2,0
+North Carolina,1,Tristan Green,4,14,4,9
+North Carolina,3,JD Hastings,0,0,0,0
+North Carolina,4,Mike French,1,1,0,0
+North Carolina,5,Justin Foster,0,0,0,0
+North Carolina,6,Adam Carr,4,4,3,8
+North Carolina,7,Nick Deluga,0,1,1,0
+North Carolina,9,Jacob Mouw,9,2,1,3
+North Carolina,11,Justin Moore,5,4,0,5
+North Carolina,12,Drew Chandler,1,1,2,0
+North Carolina,14,Kartik Sethuraman,0,0,0,0
+North Carolina,15,Vikram Sethuraman,1,0,0,0
+North Carolina,17,Schuyler Kylstra,4,2,2,3
+North Carolina,18,Dain Nielsen,8,6,0,6
+North Carolina,20,Charlie Shaffner,5,1,15,3
+North Carolina,21,Nate Warden,2,0,1,1
+North Carolina,23,Jimmy Zuraw,4,2,1,2
+North Carolina,24,Jonathan Nethercutt,3,15,5,15
+North Carolina,27,Jackson Tambor,0,0,2,2
+North Carolina,32,Christian Johnson,10,16,4,9
+North Carolina,37,Jonathan Aycock,0,0,0,0
+North Carolina,51,Timothy McAllister,5,0,1,0
+North Carolina,76,Marshall Ward,1,3,1,4
+North Carolina,77,Ben Snell,1,5,2,5
+North Carolina,?,unknown,0,0,0,2
+North Carolina-Wilmington,1,Charlie Lian,0,1,1,1
+North Carolina-Wilmington,2,Gabe Fuller,0,0,0,1
+North Carolina-Wilmington,3,Tommy Lamar,17,9,3,5
+North Carolina-Wilmington,5,Wilkin Hanaway,3,0,1,1
+North Carolina-Wilmington,7,Trip Brightwell,0,0,0,0
+North Carolina-Wilmington,8,Chris Hetem,1,3,0,3
+North Carolina-Wilmington,10,Luke Hancock,3,13,3,10
+North Carolina-Wilmington,11,Jack Williams,1,1,0,0
+North Carolina-Wilmington,12,Robert Goode,9,2,4,4
+North Carolina-Wilmington,13,Alan Gruntz,8,1,3,3
+North Carolina-Wilmington,14,Mark Evans,1,20,3,8
+North Carolina-Wilmington,16,Thomas Terrio,2,0,0,1
+North Carolina-Wilmington,20,Trueman Nottingham,3,8,4,8
+North Carolina-Wilmington,21,TJ Kuhn,3,2,0,2
+North Carolina-Wilmington,22,Chris LeBlanc,0,0,0,0
+North Carolina-Wilmington,24,Nick Jackson,7,7,0,8
+North Carolina-Wilmington,25,Jake Gallagher,0,0,0,0
+North Carolina-Wilmington,27,Jeremy Jacoby,0,0,0,0
+North Carolina-Wilmington,31,Zach Gostling,6,1,1,1
+North Carolina-Wilmington,33,Austin McGrayne,1,0,0,0
+North Carolina-Wilmington,36,Cory Morris,0,1,0,2
+North Carolina-Wilmington,45,Chris Hopper,0,0,0,0
+North Carolina-Wilmington,52,Ross Anthony,6,1,1,2
+North Carolina-Wilmington,71,David Harum,1,0,0,0
+North Carolina-Wilmington,80,Xavier Maxstadt,3,5,0,3
+North Carolina-Wilmington,?,unknown,0,0,1,0
+Ohio,1,Lloyd Furuta,0,0,0,1
+Ohio,4,Andrew Baumgartner,2,0,1,1
+Ohio,6,Adam Cellar,7,2,2,1
+Ohio,9,Connor Hunt,0,0,0,0
+Ohio,10,Kyle Hone,1,0,1,2
+Ohio,11,Kelley McAndrews,0,1,0,2
+Ohio,12,Mitch Cihon,7,28,2,11
+Ohio,14,Mike Bruce,2,11,0,1
+Ohio,15,Logan Kruger,3,5,4,7
+Ohio,16,Mark Hritz,1,4,0,5
+Ohio,21,Connor Haley,24,8,9,1
+Ohio,23,Cameron Heightland,0,1,0,2
+Ohio,26,Travis Neal,0,0,0,0
+Ohio,28,Mike Juratovac,5,1,0,4
+Ohio,30,Chris Page,0,0,0,0
+Ohio,33,Matt Olson,2,2,1,1
+Ohio,41,Cody Petitt,4,0,3,1
+Ohio,44,Luke Eastman,5,0,0,1
+Ohio,55,Alex Doksa,0,1,2,1
+Ohio,76,Jordan Kinde,1,0,0,1
+Ohio,?,unknown,0,0,1,1
+Ohio,20,unknown,0,0,1,1
+Oregon,2,Charlie Wilson-Moses,5,6,1,4
+Oregon,3,Ty Swain,5,0,2,2
+Oregon,5,Aaron Honn,7,8,4,3
+Oregon,6,Nam Vo,0,1,1,4
+Oregon,8,Eric Normen,2,0,2,2
+Oregon,9,Jon Bergan,0,2,0,1
+Oregon,10,Dylan Freechild,9,14,3,6
+Oregon,11,Tyler Cable,1,8,3,0
+Oregon,12,Drew Benditt,0,1,0,1
+Oregon,14,Connor Williamson,3,0,0,1
+Oregon,15,Mario Bundy,4,4,0,3
+Oregon,17,Ian Campbell,4,3,1,5
+Oregon,19,Reilly  Gardner,0,0,0,1
+Oregon,21,Gabe  Fruchter,4,6,4,5
+Oregon,22,Camden  Allison-Hall,12,2,0,8
+Oregon,24,Chris Becker,1,1,0,3
+Oregon,25,Nic Heaton,0,0,0,0
+Oregon,27,Trevor Smith,8,10,2,5
+Oregon,32,Ben  Close-Kung,0,0,0,0
+Oregon,44,Spencer Latarski,1,0,0,0
+Oregon,59,Topher Davis,7,11,8,5
+Oregon,66,Will  Watkins,5,0,6,0
+Oregon,70,Chris Strub,0,1,1,1
+Oregon,77,Brian Penner,5,5,2,1
+Oregon,88,Jack Slevin,0,1,0,4
+Oregon,?,unknown,0,0,0,0
+Pittsburgh,2,Joe Bender,3,1,3,7
+Pittsburgh,3,Pat Earles,7,5,2,2
+Pittsburgh,4,Zach Kauffman,1,7,4,6
+Pittsburgh,6,Michael Brenner,5,2,0,1
+Pittsburgh,7,Jay Boyle,0,2,1,7
+Pittsburgh,10,Max Thorne,9,10,1,3
+Pittsburgh,12,Ryan Earles,2,0,0,1
+Pittsburgh,16,Trent Dillon,9,3,3,1
+Pittsburgh,17,Peter McCloskey,0,0,0,0
+Pittsburgh,19,Isaac Saul,4,8,1,12
+Pittsburgh,20,Tyler Kunsa,0,0,0,0
+Pittsburgh,21,Alex Thorne,12,12,0,5
+Pittsburgh,22,Christian Pitts,2,1,4,2
+Pittsburgh,28,Ethan Beardsley,4,0,4,0
+Pittsburgh,33,Connor Kazmierczak,1,0,1,1
+Pittsburgh,35,Kevin Tang,0,1,1,2
+Pittsburgh,42,Marcus Ranii-Dropcho,5,5,4,7
+Pittsburgh,47,Michael Van Ness,1,2,0,2
+Pittsburgh,51,Andy Polen,0,0,0,0
+Pittsburgh,59,Aaron Watson,6,4,3,3
+Pittsburgh,61,Carl Morgenstern,2,0,2,1
+Pittsburgh,66,Chen Su,0,0,0,3
+Pittsburgh,81,Tyler Degirolamo,21,24,2,7
+Pittsburgh,83,Dan Wickens,0,0,0,0
+Pittsburgh,88,Ryan Del Casino,0,1,0,4
+Pittsburgh,?,unknown,0,0,0,2
+Texas,0,Marshall Payne,1,0,0,0
+Texas,1,Jivan Luu,3,0,2,2
+Texas,2,Ryan Piersall,2,5,3,8
+Texas,3,Trey LaMastres,3,11,2,3
+Texas,4,Joel Clutton,6,1,2,2
+Texas,5,Gabe Lee,0,0,0,0
+Texas,6,Chris Casey,1,0,1,1
+Texas,7,Jordan Taylor,1,0,0,0
+Texas,8,Danny Broberg,1,3,1,2
+Texas,9,Peter Clarke,13,3,0,4
+Texas,10,Jeremy Monroe,2,0,1,0
+Texas,11,Dillon Larberg,0,0,4,0
+Texas,12,Kolby Janzen,5,2,2,2
+Texas,13,Nash Mock,1,2,0,1
+Texas,15,James May,2,1,0,1
+Texas,16,Michael Hays,1,4,2,1
+Texas,17,Alex Kykta,1,0,0,1
+Texas,18,Hunter Ruffin,0,0,0,0
+Texas,19,Chris Brooks,0,4,1,1
+Texas,20,Chase Cunningham,2,0,2,5
+Texas,21,Will Driscoll,14,21,1,9
+Texas,28,Jon Clutton,2,0,1,1
+Texas,33,Andrew Klotz,0,5,0,7
+Texas,34,Carlos  Vargas,0,0,0,0
+Texas,57,Mitchell Bennett,10,8,0,9
+Texas,86,Whit Perkins,0,0,3,0
+Texas,?,unknown,0,0,0,1
+Washington,2,Tian Chuan Yen,0,3,0,2
+Washington,3,Matt Bricker-Mounts,3,6,4,11
+Washington,5,Kyle Steen,9,5,2,9
+Washington,6,Samuel Stearns,1,0,0,0
+Washington,7,Thomas Banham,1,0,1,0
+Washington,8,Marcello Molinaro,2,1,0,1
+Washington,9,Jordan Listo,14,6,2,5
+Washington,10,Theran Riedel,0,0,0,0
+Washington,11,Robin Breen,3,0,1,1
+Washington,12,Anthony Ataee,1,2,4,3
+Washington,13,Adam Fischette,1,5,0,10
+Washington,17,Connor Smith,1,0,1,1
+Washington,18,Jon Guan,0,0,0,1
+Washington,20,Julian Peterson,1,7,2,12
+Washington,21,Ian Hash,3,1,3,6
+Washington,23,Ethan  Tonnemaker,0,2,0,2
+Washington,34,David de Frates,0,1,1,0
+Washington,24,Anton Cwik,2,1,4,1
+Washington,28,Duncan Linn,3,6,2,5
+Washington,33,James Gendreau,0,0,0,0
+Washington,67,Martin Horst,0,0,0,0
+Washington,84,Jonny Stacey,5,1,2,8
+Washington,99,Khalif El-Salaam,6,9,4,6
+Washington,?,unknown,0,0,0,3
+Wisconsin,0,Brian Novotny,2,0,0,0
+Wisconsin,1,Andrew Meshnick,5,9,9,4
+Wisconsin,3,Kelsen Alexander,1,2,1,5
+Wisconsin,7,Tanner Marshall,0,2,1,4
+Wisconsin,10,Jordan Oâ€™Neill,10,1,3,5
+Wisconsin,11,Sterling Knoche,1,0,0,0
+Wisconsin,14,William Kluender,0,0,1,0
+Wisconsin,15,Kyle Geppert,2,9,1,7
+Wisconsin,16,Danny Stuligross,0,1,1,2
+Wisconsin,17,Brian Hart,1,2,0,3
+Wisconsin,19,Sam Loveland,3,0,1,0
+Wisconsin,20,Nick Zeman,5,0,2,3
+Wisconsin,22,Aaron Speiss,0,1,3,0
+Wisconsin,23,Graeme Kernick,0,0,0,0
+Wisconsin,24,Dayu Liu,2,11,4,8
+Wisconsin,25,Ross Barker,0,0,0,0
+Wisconsin,32,Colin  Camp,21,14,4,13
+Wisconsin,33,Shane  Saddison-Bradford,1,1,2,0
+Wisconsin,34,Matt Becker,0,0,1,2
+Wisconsin,37,Jan Szmanda,0,0,0,1
+Wisconsin,41,Colin Sunde,0,0,0,0
+Wisconsin,48,Thomas Coolidge,3,4,5,6
+Wisconsin,74,Avery  Johnson,0,0,0,0
+Wisconsin,83,Ben Rehmann,0,5,1,5
+Wisconsin,84,Craig Cox,3,1,0,0
+Wisconsin,88,Peter Guerin,4,1,2,1
+Wisconsin,?,unknown,0,0,0,0
