@@ -1,0 +1,485 @@
+Rank,Team,Power Rating,Competition Level,Gender Division,Competition Division,City,State,Wins,Losses
+1,Pittsburgh ,1981,College,Men,Division I,Pittsburgh,PA,40,4
+2,North Carolina ,1947,College,Men,Division I,Chapel Hill,NC,37,8
+3,Florida State ,1908,College,Men,Division I,Tallahassee,FL,36,6
+4,Central Florida ,1887,College,Men,Division I,Orlando,FL,32,11
+5,Massachusetts ,1876,College,Men,Division I,Amherst,MA,24,10
+6,Oregon ,1872,College,Men,Division I,Eugene,OR,40,7
+7,North Carolina-Wilmington ,1867,College,Men,Division I,Wilmington,NC,44,8
+8,Colorado ,1850,College,Men,Division I,Boulder,CO,28,6
+9,Texas A&M ,1837,College,Men,Division I,College Station,TX,22,7
+10,Carleton College ,1729,College,Men,Division I,Northfield,MN,21,10
+11,Minnesota ,1729,College,Men,Division I,Minneapolis,MN,28,11
+12,Wisconsin ,1728,College,Men,Division I,Madison,WI,20,14
+13,Florida ,1727,College,Men,Division I,Gainesville,FL,26,15
+14,Arizona State ,1725,College,Men,Division I,Tempel,AZ,17,8
+15,Georgia ,1722,College,Men,Division I,Athens,GA,24,13
+16,Cincinnati ,1686,College,Men,Division I,Cincinnati,OH,18,8
+17,Washington ,1679,College,Men,Division I,Seattle,WA,25,6
+18,Maryland ,1675,College,Men,Division I,College Park,MD,25,12
+19,Texas ,1675,College,Men,Division I,Austin,TX,25,14
+20,Tulane ,1632,College,Men,Division I,New Orleans,LA,22,10
+21,Tufts ,1614,College,Men,Division I,Medford,MA,20,10
+22,California-Santa Barbara ,1612,College,Men,Division I,Goleta,CA,29,8
+23,Michigan ,1602,College,Men,Division I,Ann Arbor,MI,19,7
+24,Western Washington ,1589,College,Men,Division I,Bellingham,WA,22,12
+25,Stanford ,1581,College,Men,Division I,Stanford,CA,22,11
+26,Illinois ,1566,College,Men,Division I,Champaign,IL,23,16
+27,Auburn ,1562,College,Men,Division I,Auburn,AL,22,18
+28,Virginia ,1551,College,Men,Division I,Charlottesville,VA,18,10
+29,Harvard ,1550,College,Men,Division I,Cambridge,MA,16,13
+30,Franciscan ,1549,College,Men,Division III,Steubenville,OH,28,0
+31,Chico State ,1537,College,Men,Division I,Chico,CA,17,6
+32,British Columbia ,1535,College,Men,Division I,Vancouver,BC,11,4
+33,Brandeis ,1506,College,Men,Division III,Waltham,MA,26,4
+34,North Carolina State ,1501,College,Men,Division I,Raleigh,NC,19,17
+35,Luther ,1500,College,Men,Division I,Decorah,IA,17,17
+36,California-San Diego ,1499,College,Men,Division I,San Diego,CA,24,10
+37,Ohio State ,1493,College,Men,Division I,Columbus,OH,24,11
+38,Northwestern ,1488,College,Men,Division I,Evanston,IL,19,14
+39,Missouri ,1485,College,Men,Division I,Columbia,MO,18,11
+40,Notre Dame ,1466,College,Men,Division I,Notre Dame,IN,24,8
+41,Iowa ,1461,College,Men,Division I,Iowa City,IA,25,12
+42,Bryant ,1453,College,Men,Division III,Smithfield,RI,18,6
+43,Georgia Tech ,1446,College,Men,Division I,Atlanta,GA,15,24
+44,Penn State ,1429,College,Men,Division I,State College,PA,15,9
+45,Victoria ,1416,College,Men,Division I,Victoria,BC,17,10
+46,Virginia Commonwealth ,1415,College,Men,Division I,Richmond,VA,21,11
+47,Colorado College ,1412,College,Men,Division I,Colorado Springs,CO,17,13
+48,Delaware ,1409,College,Men,Division I,Newark,DE,12,8
+49,Maryland B ,1408,College,Women,Developmental,College Park,MD,6,1
+50,Appalachian State ,1407,College,Men,Division I,Boone,NC,17,11
+51,Brown ,1405,College,Men,Division I,Providence,RI,17,6
+52,Iowa State ,1401,College,Men,Division I,Ames,IA,18,15
+53,Carleton College-GOP ,1391,College,Men,Division III,Northfield,MN,20,8
+54,Amherst ,1380,College,Men,Division III,Amherst,MA,21,4
+55,Wisconsin-Milwaukee ,1378,College,Men,Division I,Milwaukee,WI,18,21
+56,South Carolina ,1375,College,Men,Division I,Columbia,SC,14,7
+57,Colorado State ,1374,College,Men,Division I,Fort Collins,CO,19,14
+58,Kennesaw State ,1374,College,Men,Division I,Kennesaw,GA,12,8
+59,Ohio ,1371,College,Men,Division I,Athens,OH,24,6
+60,Washington University ,1371,College,Men,Division I,St. Louis,MO,14,13
+61,Georgia College ,1371,College,Men,Division III,Milledgeville,GA,19,4
+62,Tennessee ,1364,College,Men,Division I,Knoxville,TN,16,14
+63,Lehigh ,1347,Club,Men,Division I,Bethlehem,PA,12,5
+64,Cal Poly-SLO ,1333,College,Men,Division I,San Luis Obispo,CA,13,12
+65,Minnesota-Duluth ,1327,College,Men,Division I,Duluth,MN,24,9
+66,Virginia B ,1325,College,Women,Developmental,Charlottesville,VA,6,1
+67,California-Davis ,1324,College,Men,Division I,Davis,CA,15,8
+68,William & Mary ,1323,College,Men,Division I,Williamsburg,VA,7,9
+69,Cornell ,1322,College,Men,Division I,Ithaca,NY,14,20
+70,Tennessee-Chattanooga ,1321,College,Men,Division I,Chattanooga,TN,18,5
+71,Case Western Reserve ,1319,College,Men,Division I,Cleveland,OH,18,9
+72,Alabama ,1307,College,Men,Division I,Tuscaloosa,AL,18,13
+73,SUNY-Geneseo ,1306,College,Men,Division III,Geneseo,NY,21,6
+74,New Hampshire ,1292,College,Men,Division I,Durham,NH,8,5
+75,Oregon State ,1285,College,Men,Division I,Corvallis,OR,15,10
+76,Dartmouth ,1284,College,Men,Division I,Hanover,NH,11,12
+77,UCLA ,1282,College,Men,Division I,Los Angeles,CA,12,13
+78,Virginia Tech ,1280,College,Men,Division I,Blacksburg,VA,10,12
+79,Connecticut ,1279,College,Men,Division I,Storrs,CT,11,9
+80,Georgetown ,1279,College,Men,Division I,Washington,DC,14,16
+81,Brigham Young ,1260,College,Men,Division I,Provo,UT,5,0
+82,Bowdoin ,1258,College,Men,Division III,Brunswick,ME,17,8
+83,Claremont ,1258,College,Men,Division III,Claremont ,CA,9,6
+84,LSU ,1258,College,Men,Division I,Baton Rouge,LA,16,12
+85,Arkansas ,1255,College,Men,Division I,Fayetteville,AR,12,13
+86,Middlebury ,1249,College,Men,Division III,Middlebury,VT,13,9
+87,Messiah  ,1249,College,Men,Division III,Mechanicsburg,PA,23,5
+88,Elon ,1247,College,Men,Division III,Elon,NC,24,8
+89,Missouri State University ,1245,College,Men,Division I,Springfield,MO,1,0
+90,Eastern Michigan ,1241,College,Men,Division I,Ypsilanti,MI,12,11
+91,Purdue ,1230,College,Men,Division I,West Lafayette,IN,17,7
+92,California ,1226,College,Men,Division I,Berkeley,CA,16,24
+93,San Diego State ,1224,College,Men,Division I,San Diego,CA,17,16
+94,Pennsylvania ,1211,College,Men,Division I,Philadelphia,PA,12,10
+95,John Brown ,1211,College,Men,Division III,Siloam Springs,AR,25,8
+96,Arizona ,1196,College,Men,Division I,Tucson,AZ,5,11
+97,Chicago ,1191,College,Men,Division I,Chicago,IL,13,16
+98,Williams ,1190,College,Men,Division III,Williamstown,MA,11,8
+99,Michigan State ,1188,College,Men,Division I,East Lansing,MI,10,11
+100,Lewis & Clark ,1180,College,Men,Division III,Portland,OR,16,7
+101,Southern California ,1179,College,Men,Division I,Los Angeles,CA,12,10
+102,California-Santa Cruz ,1166,College,Men,Division I,Santa Cruz,CA,9,14
+103,Baylor ,1163,College,Men,Division I,Waco,TX,18,6
+104,Northern Iowa ,1162,College,Men,Division I,Cedar Falls,IA,15,16
+105,Kansas ,1161,College,Men,Division I,Lawrence,KS,18,6
+106,American ,1160,College,Men,Division I,Washington,DC,15,9
+107,Illinois State ,1159,College,Men,Division I,Normal,IL,17,10
+108,St Olaf ,1158,College,Men,Division III,Northfield,MN,17,7
+109,Vanderbilt ,1145,College,Men,Division I,Nashville,TN,12,9
+110,Utah ,1140,College,Men,Division I,Salt Lake City,UT,10,13
+111,West Chester ,1133,College,Men,Division I,West Chester,PA,22,8
+112,Davidson ,1130,College,Men,Division III,Davidson,NC,17,19
+113,Florida B ,1124,College,Men,Developmental,Gainesville,FL,17,4
+114,Dayton ,1123,College,Men,Division I,Dayton,OH,10,11
+115,Rice ,1121,College,Men,Division III,Houston,TX,18,3
+116,Edinboro ,1119,College,Men,Division I,Edinboro,PA,12,8
+117,Temple ,1119,College,Men,Division I,Philadelphia,PA,18,8
+118,Rutgers ,1117,College,Men,Division I,New Brunswick,NJ,6,7
+119,Boise State ,1111,College,Men,Division I,Boise,ID,12,9
+120,Alabama-Huntsville ,1111,College,Men,Division III,Huntsville,AL,14,3
+121,George Mason ,1110,College,Men,Division I,Fairfax,VA,8,5
+122,Indiana ,1109,College,Men,Division I,Bloomington,IN,20,11
+123,Boston College ,1107,College,Men,Division I,Chestnut Hill,MA,13,13
+124,James Madison ,1107,College,Men,Division I,Harrisonburg,VA,6,6
+125,Texas State ,1105,College,Men,Division I,San Marcos,TX,11,7
+126,North Park ,1100,College,Men,Division III,Chicago,IL,22,10
+127,Wright State ,1094,College,Men,Division I,Dayton,OH,8,11
+128,Miami ,1093,College,Men,Division I,Coral Gables,FL,11,10
+129,Texas Christian ,1091,College,Men,Division I,Fort Worth,TX,17,7
+130,Duke ,1090,College,Men,Division I,Durham,NC,5,5
+131,Wisconsin-Whitewater ,1089,College,Men,Division I,Whitewater,WI,2,6
+132,Loyola-Chicago ,1089,College,Men,Division I,Chicago,IL,13,9
+133,Georgia Southern ,1084,College,Men,Division I,"Statesboro, GA",GA,8,9
+134,Richmond ,1083,College,Men,Division III,Richmond,VA,20,8
+135,St John's ,1083,College,Men,Division III,Collegeville,MN,12,6
+136,Oberlin ,1078,College,Men,Division III,Oberlin,OH,14,10
+137,South Florida ,1076,College,Men,Division I,Tampa,FL,8,18
+138,Delaware B ,1075,College,Women,Developmental,Newark,DE,3,3
+139,George Washington ,1072,College,Men,Division I,Washington,DC,12,10
+140,Clemson ,1069,College,Men,Division I,Clemson,SC,10,12
+141,SUNY-Fredonia ,1056,College,Men,Division III,Fredonia,NY,17,5
+142,Santa Clara ,1037,College,Men,Division I,Santa Clara,CA,9,12
+143,Vermont ,1031,College,Men,Division I,Burlington,VT,7,12
+144,Michigan B ,1027,College,Men,Developmental,Ann Arbor,MI,18,8
+145,Oklahoma ,1024,College,Men,Division I,Norman,OK,9,15
+146,Worcester Polytech ,1017,College,Men,Division III,Worcester,MA,12,11
+147,Truman State ,1016,College,Men,Division III,Kirksville,MO,17,13
+148,Shippensburg ,1012,College,Men,Division I,Shippensburg,PA,17,11
+149,Hamilton ,1009,College,Men,Division III,Clinton,NY,12,4
+150,Las Positas ,1004,College,Men,Division I,Livermore,CA,4,4
+151,Montana State  ,1003,College,Men,Division I,Bozeman,MT,10,10
+152,Syracuse ,1001,College,Men,Division I,Syracuse,NY,9,6
+153,Columbia ,996,College,Men,Division I,New York,NY,8,12
+154,Queens-Kingston ,995,College,Men,Division I,Kingston,ON,10,6
+155,Cedarville ,995,College,Men,Division III,Cedarville,OH,14,11
+156,Whitman ,991,College,Men,Division I,Walla Walla,WA,11,16
+157,Portland State ,990,College,Men,Division I,Portland,OR,8,10
+158,SUNY-Buffalo ,987,College,Men,Division I,Buffalo,NY,10,5
+159,Northern Arizona ,986,College,Men,Division I,Flagstaff,AZ,8,12
+160,Indiana Wesleyan ,985,College,Men,Division III,Greenwood,IN,17,16
+161,Whitworth ,984,College,Men,Division III,Spokane,WA,9,6
+162,Carnegie Mellon ,983,College,Men,Division I,Pittsburgh,PA,5,12
+163,Grinnell ,979,College,Men,Division III,Grinnell,IA,13,4
+164,Marquette ,979,College,Men,Division I,Milwaukee,WI,8,10
+165,NYU ,977,College,Men,Division I,New York,NY,11,2
+166,Harding ,973,College,Men,Division III,Searcy,AR,14,8
+167,Montana ,971,College,Men,Division I,Missoula,MT,8,8
+168,Northeastern ,971,College,Men,Division I,Boston,MA,11,14
+169,Occidental ,970,College,Men,Division III,Los Angeles,CA,8,7
+170,Dickinson ,968,College,Men,Division III,Carlisle,PA,15,12
+171,Colorado Mines ,963,College,Men,Division III,Golden,CO,8,7
+172,Houston ,961,College,Men,Division I,Houston,TX,16,10
+173,Wisconsin-Stevens Point ,959,College,Men,Division I,Stevens Point,WI,5,14
+174,Villanova ,956,College,Men,Division I,Villanova,PA,11,13
+175,Haverford ,956,College,Men,Division III,Haverford,PA,8,6
+176,North Carolina-Charlotte ,955,College,Men,Division I,Charlotte,NC,3,10
+177,Kalamazoo ,955,College,Men,Division III,Kalamazoo,MI,10,6
+178,Winona State ,954,College,Men,Division I,Winona,MN,7,10
+179,Missouri S&T ,948,College,Men,Division III,Rolla,MO,16,16
+180,San Jose State ,948,College,Men,Division I,San Jose,CA,1,3
+181,Liberty ,944,College,Men,Division I,Lynchburg,VA,6,8
+182,Bates ,943,College,Men,Division III,Lewiston,ME,7,8
+183,Alabama-Birmingham ,941,College,Men,Division I,Birmingham,AL,10,13
+184,Eastern Illinois ,935,College,Men,Division I,Charleston,IL,16,12
+185,Washington State ,935,College,Men,Division I,Pullman,WA,12,12
+186,SUNY-Albany ,933,College,Men,Division I,Albany,NY,17,15
+187,Arizona State B ,929,College,Men,Developmental,Tempe,AZ,11,9
+188,Mississippi State ,926,College,Men,Division I,Starkville,MS,11,16
+189,Emory ,923,College,Men,Division I,Atlanta,GA,4,13
+190,Simon Fraser ,922,College,Men,Division I,Burnaby,BC,2,2
+191,Mary Washington ,918,College,Men,Division III,Fredericksburg,VA,8,5
+192,Olivet Nazarene ,917,College,Men,Division III,Bourbonnais,IL,13,8
+193,Drexel ,916,College,Men,Division I,Philadelphia,PA,4,6
+194,Utah State ,915,College,Men,Division I,Logan,UT,8,9
+195,Oregon B ,914,College,Men,Developmental,Eugene,OR,6,7
+196,Wisconsin-La Crosse ,911,College,Men,Division I,La Crosse,WI,9,5
+197,Portland ,909,College,Men,Division III,Portland,OR,11,8
+198,Wisconsin B ,906,College,Men,Developmental,Madison,WI,18,8
+199,Sonoma State ,903,College,Men,Division I,Rohnert Park,CA,3,7
+200,Georgia State ,901,College,Men,Division I,Atlanta,GA,3,15
+201,Rhode Island  ,899,College,Men,Division I,Kingston,RI,6,10
+202,Princeton ,898,College,Men,Division I,Princeton,NJ,7,8
+203,Humboldt State ,896,College,Men,Division I,Arcata,CA,3,8
+204,Army ,894,College,Men,Division III,West Point,NY,9,5
+205,Nebraska-Omaha ,893,College,Men,Division I,Omaha,NE,5,6
+206,Nebraska ,892,College,Men,Division I,Lincoln,NE,3,9
+207,St Louis ,889,College,Men,Division I,St. Louis,MO,11,20
+208,Air Force ,883,College,Men,Division III,USAF Academy,CO,13,7
+209,Grand Valley ,882,College,Men,Division I,Allendale,MI,8,16
+210,Johns Hopkins ,878,College,Men,Division I,Baltimore,MD,9,11
+211,Massachusetts- Dartmouth ,875,College,Men,Division I,"North Dartmouth, MA",MA,5,7
+212,Bentley ,872,College,Men,Division III,Waltham,MA,9,10
+213,Clark ,872,College,Men,Division III,Worcester,MA,3,3
+214,Kansas State ,872,College,Men,Division I,Manhattan,KS,7,8
+215,Cal State-Long Beach ,867,College,Men,Division I,Long Beach,CA,2,4
+216,Toledo ,867,College,Men,Division I,Toledo,OH,7,7
+217,Western Michigan ,866,College,Men,Division I,Kalamazoo,MI,7,10
+218,Puget Sound ,864,College,Men,Division I,Tacoma,WA,7,9
+219,St Joseph's ,858,College,Men,Division I,Philadelphia,PA,3,5
+220,SUNY-Binghamton ,856,College,Men,Division I,Binghamton,NY,10,8
+221,Connecticut College ,851,College,Men,Division III,New London,CT,11,4
+222,Ohio Northern ,850,College,Men,Division III,Ada,OH,5,5
+223,Rochester ,849,College,Men,Division I,Rochester,NY,14,7
+224,Georgia B ,843,College,Men,Developmental,Athens,GA,13,9
+225,Pittsburgh B ,840,College,Men,Developmental,Pittsburgh,PA,11,9
+226,St Thomas ,827,College,Men,Division III,St. Paul,MN,10,7
+227,Kentucky ,818,College,Men,Division I,Lexington,KY,9,21
+228,Nevada-Reno ,816,College,Men,Division I,Reno,NV,4,10
+229,Texas A&M B ,810,College,Men,Developmental,College Station,TX,11,9
+230,Towson ,809,College,Men,Division I,Towson,MD,8,17
+231,Georgetown B ,807,College,Women,Developmental,Washington,DC,2,4
+232,Millersville ,804,College,Men,Division I,Millersville,PA,2,6
+233,Knox ,798,College,Men,Division III,Galesburg ,IL,9,6
+234,Drake ,796,College,Men,Division III,Des Moines,IA,9,11
+235,Wheaton (Illinois) ,791,College,Men,Division III,Wheaton,IL,9,12
+236,Pacific Lutheran ,786,College,Men,Division III,Tacoma,WA,4,6
+237,Spring Hill ,786,College,Men,Division III,Mobile,AL,10,6
+238,Ohio Wesleyan ,785,College,Men,Division III,Delaware,OH,9,9
+239,Merrimack ,780,College,Men,Division III,North Andover,MA,3,4
+240,North Carolina-Asheville ,779,College,Men,Division III,Asheville,NC,10,18
+241,Valparaiso ,779,College,Men,Division III,Valparaiso,IN,12,16
+242,North Dakota State ,765,College,Men,Division I,Fargo,ND,1,5
+243,Central Connecticut State ,765,College,Men,Division I,New Britain,CT,11,9
+244,Colby ,760,College,Men,Division III,Waterville,ME,0,5
+245,James Madison B ,759,College,Men,Developmental,Harrisonburg,VA,8,0
+246,Maryland B ,757,College,Men,Developmental,College Park,MD,4,0
+247,Gettysburg ,756,College,Men,Division III,Gettysburg,PA,3,2
+248,Franklin & Marshall ,755,College,Men,Division III,Lancaster,PA,10,5
+249,California B ,751,College,Men,Developmental,Berkeley,CA,7,4
+250,College of New Jersey ,749,College,Men,Division III,Ewing,NJ,5,3
+251,West Virginia ,747,College,Men,Division I,Morgantown,WV,9,15
+252,Holy Cross ,739,College,Men,Division III,Worcester,MA,4,3
+253,Miami (Ohio) ,737,College,Men,Division I,Oxford,OH,5,7
+254,Waterloo ,737,College,Men,Division I,Waterloo,ON,2,4
+255,Northern Illinois ,733,College,Men,Division I,Dekalb,IL,5,8
+256,Marist ,731,College,Men,Division III,Poughkeepsie,NY,7,6
+257,Ohio State B ,727,College,Men,Developmental,Columbus,OH,3,0
+258,Union (Tennessee) ,727,College,Men,Division III,Jackson,TN,6,6
+259,Skidmore ,721,College,Men,Division III,Saratoga Springs,NY,7,5
+260,Cal Poly-Pomona ,718,College,Men,Division I,Pomona,CA,3,12
+261,Ithaca ,717,College,Men,Division III,Ithaca,NY,12,11
+262,Kent State ,717,College,Men,Division I,Kent,OH,8,15
+263,Charleston ,715,College,Men,Division I,Charleston,SC,3,12
+264,High Point ,711,College,Men,Division III,High Point,NC,8,13
+265,North Texas ,711,College,Men,Division I,Denton,TX,7,8
+266,North Georgia ,708,College,Men,Division III,Dahlonega,GA,8,11
+267,Wooster ,708,College,Men,Division III,Wooster,OH,5,8
+268,Minnesota B ,702,College,Men,Developmental,Minneapolis,MN,8,7
+269,Akron ,701,College,Men,Division I,Akron,OH,4,8
+270,Salisbury ,699,College,Men,Division I,Salisbury,MD,2,6
+271,Kenyon ,698,College,Men,Division III,Gambier,OH,10,9
+272,Texas Tech ,697,College,Men,Division I,lubbock,TX,7,7
+273,Union ,691,College,Men,Division III,Schenectady,NY,5,7
+274,Yale ,683,College,Men,Division I,New Haven,CT,8,10
+275,Southern Mississippi ,677,College,Men,Division I,Hattiesburg,MS,9,15
+276,St Mary's (Maryland) ,677,College,Men,Division III,St. Marys City,MD,6,5
+277,Mississippi ,676,College,Men,Division I,Oxford,MS,4,17
+278,East Carolina ,674,College,Men,Division I,Greenville,NC,1,7
+279,Colgate ,673,College,Men,Division III,Hamilton,NY,5,7
+280,Northern Michigan ,672,College,Men,Division I,Marquette,MI,2,7
+281,Wisconsin-Platteville ,671,College,Men,Division III,Platteville,WI,2,2
+282,Texas B ,664,College,Men,Developmental,Austin,TX,10,12
+283,Sacramento State ,662,College,Men,Division I,Sacramento,CA,2,8
+284,Georgia Gwinnett ,660,College,Men,Division I,Lawrenceville,GA,4,13
+285,Lehigh B ,657,College,Men,Developmental,Bethlehem,PA,5,1
+286,South Dakota Mines ,657,College,Men,Division III,Rapid City,SD,4,7
+287,SUNY-Oneonta ,655,College,Men,Division III,Oneonta,NY,8,7
+288,Samford ,653,College,Men,Division III,Birmingham,AL,13,16
+289,Rowan ,653,College,Men,Division I,Glassboro,NJ,2,9
+290,Washington B ,651,College,Men,Developmental,Seattle,WA,5,15
+291,Trinity ,647,College,Men,Division III,San Antonio,TX,7,9
+292,Southern Indiana ,646,College,Men,Division I,Evansville,IN,7,21
+293,Calvin ,645,College,Men,Division III,Grand Rapids,MI,4,4
+294,Christopher Newport ,645,College,Men,Division III,Newport News,VA,9,6
+295,Wisconsin-Eau Claire ,645,College,Men,Division I,Eau Claire,WI,3,6
+296,Gordon ,638,College,Men,Division III,Wenham,MA,1,2
+297,Macalester ,638,College,Men,Division III,Saint Paul,MN,3,6
+298,Stevens Tech ,636,College,Men,Division III,Hoboken,NJ,6,9
+299,Cornell B ,634,College,Men,Developmental,Ithaca,NY,14,8
+300,Luther B ,626,College,Men,Division III,Decorah,IA,7,15
+301,Wake Forest ,616,College,Men,Division III,Winston-Salem,NC,6,17
+302,MIT ,615,College,Men,Division I,Cambridge,MA,6,15
+303,Lamar ,612,College,Men,Division I,Beaumont,TX,2,4
+304,SUNY-Stony Brook ,611,College,Men,Division I,Stony Brook,NY,6,5
+305,Vassar ,608,College,Men,Division III,Poughkeepsie,NY,3,4
+306,Navy ,603,College,Men,Division III,Annapolis,MD,5,4
+307,Colorado B ,597,College,Men,Division I,Boulder,CO,3,10
+308,Towson B ,594,College,Women,Developmental,Towson,MD,1,4
+309,Florida Gulf Coast ,594,College,Men,Division I,Fort Myers,FL,4,11
+310,Tufts B ,594,College,Men,Developmental,Medford,MA,0,4
+311,Central Florida B ,594,College,Men,Developmental,Orlando,FL,5,4
+312,Georgia Tech B ,585,College,Men,Developmental,Atlanta,GA,6,4
+313,Johnson ,585,College,Men,Division III,Knoxville,TN,3,3
+314,Catholic ,585,College,Men,Division III,Washington,DC,11,14
+315,Muhlenberg ,571,College,Men,Division III,Allentown,PA,9,12
+316,Old Dominion ,565,College,Men,Division I,Norfolk,VA,1,4
+317,Westmont ,560,College,Men,Division III,Santa Barbara,CA,3,6
+318,Idaho ,557,College,Men,Division I,Moscow,ID,8,13
+319,Wesleyan ,551,College,Men,Division III,Middletown,CT,7,9
+320,Swarthmore ,548,College,Men,Division III,Swarthmore,PA,8,16
+321,Xavier ,546,College,Men,Division III,Cincinnati,OH,4,8
+322,Ball State ,546,College,Men,Division I,Muncie,IN,4,10
+323,Rhodes ,541,College,Men,Division III,Memphis,TN,4,6
+324,Northwestern B ,537,College,Men,Developmental,Evanston,IL,7,5
+325,Boston University ,534,College,Men,Division I,Boston,MA,3,12
+326,Midwestern State ,532,College,Men,Division III,Wichita Falls,TX,8,12
+327,Clarion ,532,College,Men,Division III,Clarion,PA,8,10
+328,Caltech ,530,College,Men,Division III,Pasadena,CA,1,8
+329,Stockton University ,525,College,Men,Division I,Galloway,NJ,4,8
+330,Brigham Young B ,523,College,Men,Developmental,Provo,UT,1,4
+331,SUNY-Brockport ,520,College,Men,Division I,Brockport,NY,4,7
+332,Cal State-Fullerton  ,514,College,Men,Division I,Fullerton,CA,1,7
+333,Middle Tennessee State ,514,College,Men,Division I,Murfreesboro,TN,3,4
+334,Maine ,514,College,Men,Division I,Orono,ME,1,4
+335,SUNY-Cortland ,514,College,Men,Division III,Cortland,NY,4,13
+336,North Carolina B ,503,College,Men,Developmental,Chapel Hill,NC,8,7
+337,Washington University B ,501,College,Men,Developmental,St. Louis,MO,2,10
+338,Texas-San Antonio ,495,College,Men,Division I,San Antonio,TX,7,14
+339,North Florida ,491,College,Men,Division I,Jacksonville,FL,1,9
+340,George Washington B ,491,College,Women,Developmental,Washington,DC,0,5
+341,Rensselaer Polytech ,488,College,Men,Division III,Troy,NY,7,17
+342,RIT ,487,College,Men,Division I,Rochester,NY,1,5
+343,Siena ,483,College,Men,Division III,Albany,NY,5,12
+344,California-Santa Barbara B ,480,College,Men,Developmental,Goleta,CA,3,2
+345,Colorado C ,475,College,Men,Developmental,Boulder,CO,1,1
+346,Hartford ,474,College,Men,Division III,West Hartford,CT,2,11
+347,Milwaukee School of Engineering ,471,College,Men,Division III,Milwaukee,WI,1,1
+348,Eastern Tennessee State ,468,College,Men,Division I,Johnson City,TN,1,5
+349,Hampshire ,465,College,Men,Division III,Amherst,MA,0,4
+350,Florida State B ,460,College,Men,Developmental,Tallahassee,FL,9,12
+351,Trine ,455,College,Men,Division III,Angola,IN,1,9
+352,Western Kentucky ,451,College,Men,Division I,Bowling Green,KY,2,10
+353,Stonehill ,449,College,Men,Division III,Easton,MA,4,9
+354,UCLA B ,449,College,Men,Developmental,Los Angeles,CA,3,1
+355,Ave Maria ,447,College,Men,Division III,Ave Maria,FL,3,3
+356,Tulsa ,445,College,Men,Division III,Tulsa,OK,7,15
+357,Providence ,443,College,Men,Division III,Providence,RI,2,4
+358,Oregon State B ,442,College,Men,Developmental,Corvallis,OR,4,13
+359,Central Washington ,441,College,Men,Division I,Ellensburg,WA,3,17
+360,Westfield State ,438,College,Men,Division III,Westfield,MA,1,10
+361,Colorado-Denver ,422,College,Men,Division I,Denver,CO,1,7
+362,Illinois B ,414,College,Men,Developmental,Champaign,IL,3,6
+363,Gonzaga ,413,College,Men,Division I,Spokane,WA,2,19
+364,Western Washington B ,412,College,Men,Developmental,Bellingham,WA,3,11
+365,Iowa State B ,412,College,Men,Developmental,Ames,IA,3,7
+366,Saint Rose ,404,College,Men,Division III,Albany,NY,3,3
+367,Reed ,399,College,Men,Division III,Portland,OR,0,6
+368,Notre Dame B ,397,College,Men,Developmental,Notre Dame,IN,5,6
+369,Maryland-Baltimore County ,394,College,Men,Division I,Baltimore,MD,1,8
+370,Canisius College ,387,College,Men,Division III,Buffalo,NY,1,1
+371,Indiana University of Pennsylvania ,377,College,Men,Division I,Indiana,PA,0,7
+372,Western Illinois ,376,College,Men,Division I,Macomb,IL,3,8
+373,North Carolina-Wilmington B ,372,College,Men,Developmental,Wilmington,NC,8,12
+374,Denver ,371,College,Men,Division I,Denver,CO,1,8
+375,Massachusetts-Lowell ,368,College,Men,Division I,Lowell,MA,0,7
+376,Rose-Hulman ,365,College,Men,Division III,Terre Haute,IN,2,9
+377,Bowling Green ,364,College,Men,Division I,Bowling Green,OH,2,4
+378,California-Irvine ,355,College,Men,Division I,Irvine,CA,0,7
+379,Virginia B ,344,College,Men,Developmental,Charlottesville,VA,9,5
+380,Bradley ,344,College,Men,Division III,Peoria,IL,3,17
+381,Denison ,342,College,Men,Division III,Granville,OH,0,8
+382,Youngstown State ,342,College,Men,Division I,Youngstown,OH,0,5
+383,Pittsburgh-Johnstown ,339,College,Men,Division III,Johnstown,PA,4,9
+384,Southern Illinois  ,337,College,Men,Division I,Carbondale,IL,3,13
+385,Oklahoma State ,331,College,Men,Division I,Stillwater,OK,0,5
+386,Cleveland State ,329,College,Men,Division I,Cleveland,OH,0,5
+387,Connecticut B ,328,College,Men,Developmental,Storrs,CT,5,9
+388,Wisconsin C ,327,College,Men,Developmental,Madison,WI,2,9
+389,San Francisco State ,314,College,Men,Division I,San Francisco,CA,0,6
+390,Embry-Riddle (Florida) ,312,College,Men,Division III,Daytona Beach,FL,4,11
+391,SUNY-New Paltz ,311,College,Men,Division I,New Paltz,NY,1,8
+392,Cincinnati B ,308,College,Men,Developmental,Cincinnati,OH,2,1
+393,Rhode Island College ,299,College,Men,Division I,Providence,RI,0,2
+394,DePaul ,298,College,Men,Division I,Chicago,IL,0,8
+395,Vermont B ,293,College,Men,Developmental,Burlington,VT,2,9
+396,New Haven ,289,College,Men,Division III,West Haven,CT,1,5
+397,Queens College ,285,College,Men,Division I,Flushing,NY,2,3
+398,Armstrong Atlantic ,285,College,Men,Division III,Savannah,GA,3,5
+399,Hofstra ,284,College,Men,Division I,Hempstead,NY,3,8
+400,Berklee ,279,College,Men,Division III,Boston,MA,3,6
+401,Wentworth Institute of Technology  ,277,College,Men,Division III,Boston,MA,1,11
+402,Texas C ,272,College,Men,Developmental,Austin,TX,2,11
+403,Minnesota State-Mankato ,269,College,Men,Division I,Mankato,MN,0,4
+404,Gustavus Adolphus ,261,College,Men,Division III,St. Peter,MN,2,4
+405,Southern Methodist  ,257,College,Men,Division I,Dallas,TX,5,10
+406,Texas-Arlington ,256,College,Men,Division I,Arlington,TX,6,13
+407,Roger Williams ,254,College,Men,Division III,Bristol,RI,0,4
+408,California-Davis B ,253,College,Men,Developmental,Davis,CA,3,3
+409,Purdue ,247,College,Men,Developmental,West Lafayette,IN,3,3
+410,LSU B ,243,College,Men,Developmental,Baton Rouge,LA,3,12
+411,Mars Hill ,229,College,Men,Division III,Mars Hill,NC,2,6
+412,Philadelphia ,226,College,Men,Division III,Philadelphia,PA,2,13
+413,Southern Connecticut State ,223,College,Men,Division I,Trumbull,CT,1,6
+414,North Greenville ,222,College,Men,Division III,Tigerville,SC,0,7
+415,St Olaf B ,219,College,Men,Developmental,Northfield,MN,1,8
+416,Le Moyne ,207,College,Men,Division III,Syracuse,NY,1,4
+417,Penn State B ,204,College,Men,Developmental,University Park,PA,6,8
+418,Rider ,199,College,Men,Division III,Lawrenceville,NJ,1,6
+419,Scranton ,194,College,Men,Division III,Scranton,PA,0,6
+420,Chicago B ,193,College,Men,Developmental,Chicago,IL,4,8
+421,Boston University B ,192,College,Men,Developmental,Boston,MA,6,9
+422,SUNY-Buffalo B ,192,College,Men,Developmental,Buffalo,NY,5,8
+423,Vanderbilt B ,192,College,Men,Developmental,Nashville,TN,0,6
+424,Georgetown B ,179,College,Men,Developmental,Washington,DC,4,5
+425,Delaware B ,169,College,Men,Developmental,Newark,DE,0,7
+426,Creighton ,168,College,Men,Division III,Omaha,NE,2,5
+427,SUNY-Potsdam ,163,College,Men,Division III,Potsdam,NY,0,9
+428,Georgia Southern ,148,Club,Men, ,Statesboro,GA,1,0
+429,Virginia Tech B ,139,College,Men,Developmental,Blacksburg,VA,8,8
+430,Dallas ,134,College,Men,Division III,Irving,TX,2,12
+431,Belmont ,127,College,Men,Division III,Nashville,TN,1,11
+432,Arizona State C ,116,College,Men,Developmental,Tempe,AZ,0,7
+433,Oberlin B ,106,College,Men,Developmental,Oberlin,OH,3,2
+434,John Carroll ,103,College,Men,Division III,Cleveland,OH,0,10
+435,California-San Diego B ,102,College,Men,Developmental,La Jolla,CA,1,3
+436,Wisconsin-Milwaukee B ,96,College,Men,Developmental,Milwaukee,WI,3,10
+437,Sam Houston State ,92,College,Men,Division I,Huntsville,TX,1,4
+438,Wisconsin-River Falls ,86,College,Men,Division III,River Falls,WI,0,5
+439,Goucher ,50,College,Men,Division III,Baltimore,MD,0,8
+440,South Florida B ,41,College,Men,Developmental,Tampa,FL,1,8
+441,Rowan B ,39,College,Men,Developmental,Glassboro,NJ,2,7
+442,Drury ,38,College,Men,Division III,Springfield,MO,0,6
+443,Pennsylvania B ,36,College,Men,Developmental,Philadelphia,PA,0,3
+444,William & Mary B ,35,College,Men,Developmental,Williamsburg,VA,3,8
+445,Dartmouth B ,26,College,Men,Developmental,Hanover,NH,0,3
+446,Radford ,19,College,Men,Division I,Radford,VA,0,6
+447,George Washington B ,12,College,Men,Developmental,"Washington, D.C.",DC,4,6
+448,St Mary's (Minnesota) ,-1,College,Men,Division III,Winona,MN,0,5
+449,Boston College B ,-5,College,Men,Developmental,Chestnut Hill,MA,0,6
+450,Lawrence ,-29,College,Men,Division III,Appleton,WI,0,2
+451,Northeastern B ,-33,College,Men,Developmental,Boston,MA,1,2
+452,Case Western Reserve B ,-34,College,Men,Developmental,Cleveland,OH,0,8
+453,Florida Tech ,-38,College,Men,Division III,Melbourne,FL,0,8
+454,Arizona B ,-53,College,Men,Developmental,Tucson,AZ,1,3
+455,Brown B ,-77,College,Men,Developmental,Providence,RI,0,1
+456,Baylor B ,-94,College,Men,Developmental,Waco,TX,2,12
+457,Reinhardt ,-100,College,Men,Division III,Waleska,GA,1,5
+458,George Mason B ,-106,College,Men,Developmental,Fairfax,VA,2,9
+459,Clemson B ,-122,College,Men,Developmental,Clemson,SC,1,3
+460,SUNY-Brockport B ,-134,College,Men,Developmental,Brockport,NY,0,2
+461,Louisiana College  ,-151,College,Men,Division III,Pineville ,LA,1,10
+462,Yale B ,-155,College,Men,Developmental,New Haven,CT,1,3
+463,Indiana B ,-158,College,Men,Developmental,Bloomington,IN,1,5
+464,West Virginia B ,-171,College,Men,Developmental,Morgantown,WV,1,10
+465,Cal Poly-SLO B ,-199,College,Men,Developmental,San Luis Obispo,CA,0,5
+466,Missouri S&T B ,-203,College,Men,Developmental,Rolla ,MO,0,6
+467,Lesley ,-217,College,Men,Division III,Cambridge,MA,0,3
+468,Southern California B ,-229,College,Men,Developmental,Los Angeles,CA,0,3
+469,Houston B ,-233,College,Men,Developmental,Houston,TX,0,14
+470,Gannon ,-256,College,Men,Division III,Erie,PA,1,2
+471,Tulane B ,-288,College,Men,Developmental,New Orleans,LA,0,3
+472,Kalamazoo B ,-309,College,Men,Developmental,Kalamazoo,MI,0,6
+473,West Chester B ,-321,College,Men,Developmental,West Chester,PA,0,10
+474,Bethel ,-339,College,Men,Division III,Saint Paul,MN,0,4
+475,North Texas B ,-360,College,Men,Developmental,Denton,TX,0,8
+476,American B ,-407,College,Men,Developmental,Washington,DC,2,6
+477,Cornell College ,-432,College,Men,Division III,Mount Vernon,IA,0,9
+478,Princeton B ,-452,College,Men,Developmental,Princeton,NJ,2,10
+479,Towson B ,-478,College,Men,Developmental,Towson,MD,1,4
+480,Johns Hopkins B ,-543,College,Men,Developmental,Baltimore,MD,0,3
+481,MIT B ,-716,College,Men,Developmental,Cambridge,MA,0,3
+482,Elon B ,-722,College,Men,Developmental,Elon,NC,0,7
+483,Williams B ,-771,College,Men,Developmental,Williamstown,MA,0,6
+484,Georgia Southern ,-817,Club,Men,Developmental,Statesboro,GA,0,1

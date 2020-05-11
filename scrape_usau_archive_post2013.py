@@ -44,17 +44,22 @@ def get_table_rows(table):
     return rows
 
 
-#BASE_URL = "https://www.usaultimate.org/news/college-rankings-open-apr-3-2013/"
-BASE_URL = "https://www.usaultimate.org/news/college-rankings-men-apr-2-2014/"
-SEASON = '2014_college'
-# scrape
-soup = get_soup(BASE_URL)
-table = soup.find("div", {"id": 'rules_list'}).find("table")
-# clean
-rows = get_table_rows(table)
-df = pd.DataFrame(rows[1:], columns=rows[0])
-df['W'] = df['W - L'].str.extract(r'(^\d+)')
-df['L'] = df['W - L'].str.extract(r'(\d+$)')
-df['season'] = SEASON
-df = df[['season', 'Rank', 'Team', 'PR', 'Region', 'Conf', 'W', 'L']]
-df.to_csv(f'./data/ultimate/archives/open_{SEASON}_rankings.csv', index=False)
+def scrape_and_clean_archive_tables(base_url, dataset_id):
+    """valid for retrieving archive tables after 2012"""
+    # scrape
+    soup = get_soup(base_url+dataset_id)
+    table = soup.find("table", class_="global_table")
+    # clean
+    rows = get_table_rows(table)
+    df = pd.DataFrame(rows[1:], columns=rows[0])
+    return df
+
+
+BASE_URL = "https://play.usaultimate.org/teams/events/team_rankings/?DataSetId="
+DATASETID = f"jBSVk29zZIMwKN7UbtC7mVIi9Bm%2bnSCIiMApiRrewqk%3d"
+SEASON = '2016_college'
+rankings = scrape_and_clean_archive_tables(BASE_URL, DATASETID)
+rankings['dataset_id'] = DATASETID
+rankings['season'] = SEASON
+rankings.to_csv(
+    f'./data/ultimate/archives/open_{SEASON}_rankings.csv', index=False)

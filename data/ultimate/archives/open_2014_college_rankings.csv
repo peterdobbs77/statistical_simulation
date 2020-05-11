@@ -1,0 +1,277 @@
+season,Rank,Team,PR,Region,Conf,W,L
+2014_college,1,Colorado,2094.6,SC,Rocky Mountain DI,19,2
+2014_college,2,North Carolina,2071.3,AC,Carolina DI,24,3
+2014_college,3,Texas,1960.8,SC,South Texas DI,18,4
+2014_college,4,Pittsburgh,1933.1,OV,West Penn DI,20,7
+2014_college,5,Oregon,1898.8,NW,Cascadia DI,22,7
+2014_college,6,Texas A&M,1897.2,SC,South Texas DI,14,6
+2014_college,7,Florida State,1887.6,SE,Florida DI,17,8
+2014_college,8,Harvard,1884.2,NE,Metro Boston DI,13,5
+2014_college,9,Minnesota,1877.5,NC,Northwoods DI,15,7
+2014_college,10,North Carolina-Wilmington,1849.2,AC,Carolina DI,20,8
+2014_college,11,Florida,1844.8,SE,Florida DI,19,7
+2014_college,12,Central Florida,1842.9,SE,Florida DI,8,3
+2014_college,13,California-San Diego,1827,SW,SoCal DI,16,5
+2014_college,14,Brown,1811.5,NE,SNE DI,13,1
+2014_college,15,Wisconsin,1803.7,NC,Lake Superior DI,11,11
+2014_college,16,Michigan,1803.4,GL,Michigan DI,10,3
+2014_college,17,Tufts,1786.7,NE,Metro Boston DI,13,8
+2014_college,18,Northwestern,1786.2,GL,Illinois DI,6,3
+2014_college,19,Massachusetts,1780.4,NE,SNE DI,14,4
+2014_college,20,Northern Iowa,1776.4,NC,West Plains DI,14,7
+2014_college,21,Luther,1739.4,NC,West Plains DI,9,4
+2014_college,22,Arizona State,1728.9,SW,Desert DI,14,8
+2014_college,23,British Columbia,1719.7,NW,Cascadia DI,12,10
+2014_college,24,Eastern Michigan,1705.7,GL,Michigan DI,15,3
+2014_college,25,Stanford,1690,SW,NorCal DI,11,10
+2014_college,26,California,1685.2,SW,NorCal DI,18,17
+2014_college,27,Illinois,1682,GL,Illinois DI,7,4
+2014_college,28,Maryland,1681.9,AC,Colonial DI,12,3
+2014_college,29,Washington,1654,NW,Cascadia DI,10,6
+2014_college,30,Penn State,1647.5,OV,West Penn DI,12,6
+2014_college,31,North Carolina State,1630.5,AC,Carolina DI,13,9
+2014_college,32,Las Positas,1624.6,SW,NorCal DI,16,12
+2014_college,33,California-Davis,1599.8,SW,NorCal DI,9,9
+2014_college,34,Minnesota-Duluth,1588.7,NC,Northwoods DI,20,7
+2014_college,35,Wisconsin-Milwaukee,1569.4,NC,Lake Superior DI,12,7
+2014_college,36,San Diego State,1567.7,SW,SoCal DI,10,5
+2014_college,37,LSU,1566,SE,Gulf Coast DI,18,7
+2014_college,38,Missouri,1558.8,SC,Ozarks DI,12,5
+2014_college,39,Arkansas,1554.4,SC,Ozarks DI,11,7
+2014_college,40,California-Santa Barbara,1539.9,SW,SoCal DI,7,7
+2014_college,41,Iowa State,1539.7,NC,West Plains DI,12,10
+2014_college,42,Carleton College,1539,NC,Northwoods DI,3,10
+2014_college,43,Dartmouth,1536.9,NE,NNE DI,8,5
+2014_college,44,Virginia,1525.6,AC,Virginia DI,9,6
+2014_college,45,Bentley,1521.7,NE,Metro Boston DIII,10,1
+2014_college,46,Georgia,1513.3,SE,S Appalacian DI,5,15
+2014_college,47,Puget Sound,1511.6,NW,Northwest DIII,11,2
+2014_college,48,Washington University,1505.1,SC,Ozarks DI,12,6
+2014_college,49,Cornell,1504.3,ME,Western NY DI,7,3
+2014_college,50,Cincinnati,1492.1,OV,Ohio DI,10,13
+2014_college,51,Whitman,1479.7,NW,Big Sky DI,6,7
+2014_college,52,Georgetown,1477.2,AC,Colonial DI,13,11
+2014_college,53,Williams,1469.1,NE,SNE DI,16,6
+2014_college,54,Lehigh,1464.2,OV,East Penn DIII,6,3
+2014_college,55,Worcester Polytech,1448.9,NE,SNE DIII,9,0
+2014_college,56,St Olaf,1435,NC,Northwoods DIII,11,3
+2014_college,57,Brigham Young,1434.9,NW,Big Sky DI,12,1
+2014_college,58,Georgia Tech,1434.8,SE,S Appalacian DI,12,13
+2014_college,59,Cedarville,1433.3,OV,Ohio DIII,9,1
+2014_college,60,Colorado College,1424.3,SC,Rocky Mountain DI,11,10
+2014_college,61,Iowa,1420.5,NC,West Plains DI,13,13
+2014_college,62,Auburn,1415.2,SE,Gulf Coast DI,7,6
+2014_college,63,Alabama,1410.8,SE,Gulf Coast DI,14,7
+2014_college,64,Virginia Tech,1410.5,AC,Virginia DI,6,8
+2014_college,65,Victoria,1407.8,NW,Cascadia DI,6,6
+2014_college,66,Claremont,1403.3,SW,Southwest DIII,9,2
+2014_college,67,Delaware,1391.2,AC,Colonial DI,6,6
+2014_college,68,Tulane,1386.8,SE,Gulf Coast DI,11,17
+2014_college,69,Elon,1381.3,AC,Carolina DIII,10,4
+2014_college,70,Northeastern,1356.4,NE,Metro Boston DI,9,7
+2014_college,71,Tennessee,1356.3,SE,S Appalacian DI,10,13
+2014_college,72,Ohio State,1352.6,OV,Ohio DI,7,13
+2014_college,73,Arizona,1348.4,SW,Desert DI,5,12
+2014_college,74,Notre Dame,1343.7,GL,East Plains DI,8,8
+2014_college,75,Boston College,1343.6,NE,Metro Boston DI,6,8
+2014_college,76,South Florida,1339.9,SE,Florida DI,6,13
+2014_college,77,New Hampshire,1338.4,NE,NNE DI,5,6
+2014_college,78,Western Washington,1334.9,NW,Cascadia DI,10,4
+2014_college,79,Oklahoma,1332.6,SC,Ozarks DI,8,5
+2014_college,80,Ohio,1329.7,OV,Ohio DI,6,8
+2014_college,81,Richmond,1322.8,AC,N Atlantic Coast DIII,8,3
+2014_college,82,Carleton College-GOP,1315.3,NC,Northwoods DIII,8,7
+2014_college,83,Appalachian State,1296,AC,Carolina DI,10,11
+2014_college,84,SUNY-Geneseo,1291.5,ME,Western NY DIII,8,2
+2014_college,85,Connecticut,1289,ME,Hudson Valley DI,2,10
+2014_college,86,Rutgers,1288.4,ME,Metro NY DI,8,6
+2014_college,87,Chicago,1284.2,GL,Illinois DI,15,7
+2014_college,88,California-Santa Cruz,1282.4,SW,NorCal DI,5,6
+2014_college,89,Tennessee-Chattanooga,1275.9,SE,S Appalacian DI,8,7
+2014_college,90,Amherst,1271,NE,SNE DIII,6,4
+2014_college,91,Southern California,1264.8,SW,SoCal DI,5,4
+2014_college,92,Truman State,1261.3,SC,South Central DIII,6,2
+2014_college,93,Queens-Kingston,1256.7,ME,Western NY DI,7,4
+2014_college,94,Pennsylvania,1255.1,OV,East Penn DI,5,11
+2014_college,95,Messiah,1249.2,OV,West Penn DIII,5,2
+2014_college,96,UCLA,1246.9,SW,SoCal DI,12,13
+2014_college,97,Chico State,1240,SW,NorCal DI,8,4
+2014_college,98,Bowdoin,1232.6,NE,NNE DIII,7,4
+2014_college,99,Wright State,1232.5,OV,Ohio DI,6,3
+2014_college,100,Lewis & Clark,1222.2,NW,Northwest DIII,7,5
+2014_college,101,Vermont,1208,NE,NNE DI,5,6
+2014_college,102,George Mason,1196.6,AC,Virginia DI,5,4
+2014_college,103,Georgia College,1191.7,SE,Southeast DIII,9,3
+2014_college,104,Cal Poly-SLO,1190.9,SW,SoCal DI,3,11
+2014_college,105,SUNY-Fredonia,1184.5,ME,Western NY DIII,7,4
+2014_college,106,South Carolina,1180.1,AC,Carolina DI,5,6
+2014_college,107,Brandeis,1179.9,NE,Metro Boston DIII,12,8
+2014_college,108,North Carolina-Asheville,1177.4,AC,Carolina DIII,9,8
+2014_college,109,Air Force,1169.4,SC,South Central DIII,8,6
+2014_college,110,Michigan State,1159.2,GL,Michigan DI,9,13
+2014_college,111,Oberlin,1154.6,OV,Ohio DIII,19,8
+2014_college,112,American,1139.5,AC,Colonial DI,8,4
+2014_college,113,Stevens Tech,1139.3,ME,Metro NY DIII,6,4
+2014_college,114,Occidental,1139,SW,Southwest DIII,5,8
+2014_college,115,James Madison,1126.9,AC,Virginia DI,5,6
+2014_college,116,Northern Arizona,1123.4,SW,Desert DI,9,10
+2014_college,117,Carnegie Mellon,1115.7,OV,West Penn DI,8,1
+2014_college,118,William & Mary,1114.9,AC,Virginia DI,4,4
+2014_college,119,Indiana,1108.6,GL,East Plains DI,6,15
+2014_college,120,Kansas,1101.7,SC,Ozarks DI,10,8
+2014_college,121,Pacific Lutheran,1101.4,NW,Northwest DIII,10,7
+2014_college,122,Utah,1093.7,NW,Big Sky DI,12,7
+2014_college,123,SUNY-Buffalo,1090.4,ME,Western NY DI,7,4
+2014_college,124,John Brown,1081.9,SC,South Central DIII,12,6
+2014_college,125,Wisconsin-Stevens Point,1078.5,NC,Lake Superior DI,4,8
+2014_college,126,Bryant,1076.5,NE,SNE DIII,7,3
+2014_college,127,Davidson,1071.4,AC,Carolina DIII,13,9
+2014_college,128,Colorado State,1060.4,SC,Rocky Mountain DI,10,8
+2014_college,129,Virginia Tech B,1059.4,AC,S Atlantic Coast Dev,8,0
+2014_college,130,Ohio Wesleyan,1058.5,OV,Ohio DIII,6,7
+2014_college,131,Grinnell,1055.3,NC,West Plains DIII,6,7
+2014_college,132,North Park,1052.6,GL,Western Great Lakes DIII,10,10
+2014_college,133,Wisconsin-Parkside,1051.5,NC,Lake Superior DIII,12,6
+2014_college,134,St Louis,1049.1,SC,Ozarks DI,6,4
+2014_college,135,Wake Forest,1034.9,AC,Carolina DIII,3,16
+2014_college,136,Virginia Commonwealth,1033.2,AC,Virginia DI,7,5
+2014_college,137,Wheaton (Illinois),1032,GL,Western Great Lakes DIII,8,7
+2014_college,138,Northern Michigan,1029.7,NC,Lake Superior DI,10,2
+2014_college,139,Princeton,1023.1,ME,Metro NY DI,8,7
+2014_college,140,NYU,1022.7,ME,Metro NY DI,7,8
+2014_college,141,Tufts B,1014.7,NE,Metro Boston Dev,8,4
+2014_college,142,St John's,1010,NC,Northwoods DIII,5,10
+2014_college,143,Kenyon,1002.5,OV,Ohio DIII,7,6
+2014_college,144,Baylor,999.5,SC,North Texas DI,12,7
+2014_college,145,Indiana Wesleyan,988.9,GL,East Plains DIII,10,11
+2014_college,146,Vanderbilt,986.2,SE,Gulf Coast DI,12,4
+2014_college,147,Rochester,984.6,ME,Western NY DI,7,9
+2014_college,148,Xavier,978.7,OV,Ohio DIII,6,10
+2014_college,149,Middlebury,975.4,NE,NNE DIII,2,9
+2014_college,150,Mississippi State,970.9,SE,Gulf Coast DI,15,11
+2014_college,151,Kansas State,965.7,SC,Ozarks DI,10,13
+2014_college,152,Shippensburg,958.6,OV,West Penn DI,5,5
+2014_college,153,Emory,954,SE,S Appalacian DI,9,6
+2014_college,154,Colorado B,942.3,SC,Rocky Mountain DI,9,10
+2014_college,155,Texas Tech,935,SC,North Texas DI,12,2
+2014_college,156,Texas State,931.5,SC,South Texas DI,6,4
+2014_college,157,Western Michigan,930.4,GL,Michigan DI,8,5
+2014_college,158,Dayton,926.4,OV,Ohio DI,4,10
+2014_college,159,Union (Tennessee),923.3,SE,Southeast DIII,5,7
+2014_college,160,Columbia,918.1,ME,Metro NY DI,10,8
+2014_college,161,Illinois State,912.6,GL,Illinois DI,9,12
+2014_college,162,Santa Clara,908.3,SW,NorCal DI,5,7
+2014_college,163,Miami (Ohio),902,OV,Ohio DI,5,4
+2014_college,164,Boise State,897.8,NW,Big Sky DI,4,7
+2014_college,165,Rhode Island,890.5,NE,SNE DI,5,6
+2014_college,166,Kent State,886.1,OV,Ohio DI,4,3
+2014_college,167,Nebraska,874.2,NC,West Plains DI,8,2
+2014_college,168,West Virginia,872.9,OV,West Penn DI,6,5
+2014_college,169,SUNY-Albany,872.6,ME,Hudson Valley DI,5,8
+2014_college,170,Cal Poly-Pomona,865.3,SW,SoCal DI,4,4
+2014_college,171,Whitworth,861.1,NW,Northwest DIII,4,3
+2014_college,172,Rowan,855.2,ME,Metro NY DI,5,6
+2014_college,173,Oregon State,833.2,NW,Cascadia DI,3,8
+2014_college,174,Johns Hopkins,831.8,AC,Colonial DI,3,7
+2014_college,175,Stonehill,830.2,NE,Metro Boston DIII,7,3
+2014_college,176,Michigan B,828.1,GL,Great Lakes Dev,7,1
+2014_college,177,Georgia Southern,828,SE,S Appalacian DI,3,8
+2014_college,178,Texas B,816.3,SC,South Texas DI,11,12
+2014_college,179,Belmont,808.4,SE,Southeast DIII,7,6
+2014_college,180,Eastern Illinois,804.8,GL,Illinois DI,4,7
+2014_college,181,Central Connecticut State,785.9,ME,Hudson Valley DI,6,8
+2014_college,182,Clemson,785.7,AC,Carolina DI,3,6
+2014_college,183,Olivet Nazarene,770.7,GL,Western Great Lakes DIII,2,8
+2014_college,184,Liberty,768.7,AC,Virginia DI,3,6
+2014_college,185,Kentucky,764.6,GL,East Plains DI,7,5
+2014_college,186,Bates,761.7,NE,NNE DIII,6,3
+2014_college,187,Rice,754,SC,South Central DIII,7,5
+2014_college,188,Army,753.7,NE,Metro Boston DIII,3,5
+2014_college,189,California-Irvine,749.8,SW,SoCal DI,0,9
+2014_college,190,Maryland B,739.1,AC,S Atlantic Coast Dev,5,3
+2014_college,191,Virginia B,725.3,AC,S Atlantic Coast Dev,10,2
+2014_college,192,North Carolina-Charlotte,724.9,AC,Carolina DI,5,4
+2014_college,193,Dallas,721.8,SC,South Central DIII,9,6
+2014_college,194,Northern Colorado,721.8,SC,Rocky Mountain DI,3,6
+2014_college,195,Loyola-Chicago,721.2,GL,Illinois DI,4,4
+2014_college,196,Montana State,719.4,NW,Big Sky DI,4,9
+2014_college,197,Miami,712.1,SE,Florida DI,5,9
+2014_college,198,Edinboro,709.7,OV,West Penn DI,6,6
+2014_college,199,Charleston,708.9,AC,Carolina DI,4,7
+2014_college,200,Trinity,707.5,SC,South Central DIII,8,8
+2014_college,201,Wisconsin-Whitewater,703.4,NC,Lake Superior DI,6,7
+2014_college,202,Georgia B,701.7,SE,S Appalacian Dev,9,11
+2014_college,203,Marquette,685.8,NC,Lake Superior DI,6,6
+2014_college,204,Drake,684.2,NC,West Plains DIII,7,4
+2014_college,205,Wentworth Tech,684.2,NE,Metro Boston DIII,2,9
+2014_college,206,Syracuse,678.5,ME,Western NY DI,2,7
+2014_college,207,Idaho,677.7,NW,Big Sky DI,5,9
+2014_college,208,Mary Washington,675.6,AC,N Atlantic Coast DIII,3,3
+2014_college,209,Oklahoma State,668.9,SC,Ozarks DI,5,5
+2014_college,210,Towson,658.6,AC,Colonial DI,3,8
+2014_college,211,LSU B,652.4,SE,Gulf Coast Dev,8,6
+2014_college,212,Arizona State B,641.4,SW,S Southwest Dev,4,8
+2014_college,213,Keene State,622.3,NE,NNE DIII,5,5
+2014_college,214,MIT,619.6,NE,Metro Boston DI,2,9
+2014_college,215,Texas Christian,616.2,SC,North Texas DI,7,11
+2014_college,216,Nebraska-Omaha,615.8,NC,West Plains DI,6,7
+2014_college,217,Valparaiso,608.1,GL,East Plains DIII,6,8
+2014_college,218,Drexel,602.1,OV,East Penn DI,2,6
+2014_college,219,Rensselaer Polytech,580.4,ME,Hudson Valley DIII,5,8
+2014_college,220,IUPUI,568,GL,East Plains DI,5,5
+2014_college,221,Texas-Dallas,560.8,SC,North Texas DI,10,11
+2014_college,222,Valdosta State,550.4,SE,S Appalacian DI,2,11
+2014_college,223,Houston,548.8,SC,South Texas DI,7,7
+2014_college,224,Muhlenberg,541.8,OV,East Penn DIII,6,3
+2014_college,225,Wooster,516.7,OV,Ohio DIII,2,6
+2014_college,226,Texas-San Antonio,509.9,SC,South Texas DI,7,11
+2014_college,227,Westfield State,496,NE,SNE DIII,4,6
+2014_college,228,New Mexico,491.2,SW,Desert DI,3,8
+2014_college,229,Gonzaga,483.4,NW,Big Sky DI,5,9
+2014_college,230,James Madison B,474.8,AC,S Atlantic Coast Dev,4,5
+2014_college,231,Old Dominion,470,AC,Virginia DI,2,13
+2014_college,232,SUNY-Cortland,455.2,ME,Western NY DIII,3,7
+2014_college,233,Georgia Gwinnett,455.1,SE,S Appalacian DI,1,12
+2014_college,234,Mississippi,440,SE,Gulf Coast DI,3,8
+2014_college,235,Luther B,431.5,NC,West Plains DIII,5,1
+2014_college,236,Georgia Tech B,426.1,SE,S Appalacian Dev,5,5
+2014_college,237,Colorado Mines,424,SC,South Central DIII,1,8
+2014_college,238,Wisconsin B,419,NC,Lake Superior Dev,4,5
+2014_college,239,Alabama-Birmingham,417.2,SE,Gulf Coast DI,1,10
+2014_college,240,Rose-Hulman,416.5,GL,East Plains DIII,4,9
+2014_college,241,Clarion,407.5,OV,West Penn DIII,2,7
+2014_college,242,Pittsburgh B,393.9,OV,Pennsylvania Dev,1,7
+2014_college,243,Missouri State,389.6,SC,Ozarks DI,5,6
+2014_college,244,Ohio State B,378,OV,Ohio Dev,3,4
+2014_college,245,DePaul,374.6,GL,Illinois DI,6,5
+2014_college,246,Southern Indiana,332.6,GL,East Plains DI,2,10
+2014_college,247,Armstrong Atlantic,325.5,SE,Southeast DIII,4,3
+2014_college,248,Toledo,320.8,OV,Ohio DI,2,10
+2014_college,249,Bethel,318.5,NC,Northwoods DIII,5,5
+2014_college,250,Texas-Arlington,314.6,SC,North Texas DI,3,14
+2014_college,251,Cornell B,304.5,ME,Metro East Dev,8,9
+2014_college,252,Washington University B,304.1,SC,Ozarks DI,10,8
+2014_college,253,Bradley,270.2,GL,Western Great Lakes DIII,4,4
+2014_college,254,Delaware B,266,AC,Colonial Dev,6,4
+2014_college,255,Berklee,255.2,NE,Metro Boston DIII,5,7
+2014_college,256,George Washington B,226.3,AC,S Atlantic Coast Dev,5,3
+2014_college,257,Hofstra,225.7,ME,Metro NY DI,5,9
+2014_college,258,Midwestern State,195.9,SC,South Central DIII,1,9
+2014_college,259,Arizona B,132.7,SW,S Southwest Dev,0,10
+2014_college,260,Rhodes,130.8,SE,Southeast DIII,2,7
+2014_college,261,Notre Dame B,82.3,GL,Great Lakes Dev,6,5
+2014_college,262,Shippensburg B,62.2,OV,Pennsylvania Dev,4,6
+2014_college,263,North Texas,59.6,SC,North Texas DI,3,8
+2014_college,264,Iowa B,41.7,NC,WNC Dev,1,7
+2014_college,265,Tulsa,37.8,SC,South Central DIII,1,7
+2014_college,266,Ball State,33.1,GL,East Plains DI,1,9
+2014_college,267,Illinois B,-12.9,GL,Illinois Dev,4,7
+2014_college,268,Texas C,-61.9,SC,South Central Dev,3,2
+2014_college,269,Spring Hill,-69.7,SE,Southeast DIII,0,6
+2014_college,270,South Florida B,-80.1,SE,Florida Dev,1,6
+2014_college,271,Roger Williams,-108.6,NE,SNE DIII,1,9
+2014_college,272,Baylor B,-147.5,SC,North Texas DI,3,8
+2014_college,273,Southern Methodist,-181.8,SC,North Texas DI,2,6
+2014_college,274,George Mason B,-200.8,AC,Colonial Dev,4,6
+2014_college,275,Princeton B,-547.8,ME,Metro East Dev,0,9
+2014_college,276,Illinois State B,-679.9,GL,Illinois Dev,0,13
