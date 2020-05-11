@@ -1,0 +1,489 @@
+Rank,Team,Power Rating,Competition Level,Gender Division,Competition Division,City,State,Wins,Losses,dataset_id,season
+1,Carleton College ,2165,College,Men,Division I,Northfield,MN,38,3,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+2,North Carolina ,2140,College,Men,Division I,Chapel Hill,NC,41,2,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+3,Oregon ,1996,College,Men,Division I,Eugene,OR,35,5,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+4,Pittsburgh ,1957,College,Men,Division I,Pittsburgh,PA,30,9,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+5,Brown ,1954,College,Men,Division I,Providence,RI,26,9,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+6,Washington ,1870,College,Men,Division I,Seattle,WA,38,9,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+7,Massachusetts ,1867,College,Men,Division I,Amherst,MA,24,8,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+8,Minnesota ,1860,College,Men,Division I,Minneapolis,MN,33,10,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+9,Georgia ,1790,College,Men,Division I,Athens,GA,20,7,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+10,Wisconsin ,1764,College,Men,Division I,Madison,WI,31,13,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+11,Florida ,1752,College,Men,Division I,Gainesville,FL,31,10,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+12,Texas ,1743,College,Men,Division I,Austin,TX,28,14,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+13,Virginia Tech ,1702,College,Men,Division I,Blacksburg,VA,25,11,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+14,Brigham Young ,1697,College,Men,Division I,Provo,UT,21,10,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+15,North Carolina-Wilmington ,1694,College,Men,Division I,Wilmington,NC,30,9,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+16,William & Mary ,1679,College,Men,Division I,Williamsburg,VA,37,10,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+17,Colorado ,1676,College,Men,Division I,Boulder,CO,22,11,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+18,Auburn ,1675,College,Men,Division I,Auburn,AL,26,14,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+19,Cal Poly-SLO ,1666,College,Men,Division I,San Luis Obispo,CA,26,15,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+20,North Carolina State ,1660,College,Men,Division I,Raleigh,NC,26,16,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+21,Colorado State ,1657,College,Men,Division I,Fort Collins,CO,23,9,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+22,Tufts ,1654,College,Men,Division I,Medford,MA,21,10,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+23,Texas A&M ,1648,College,Men,Division I,COLLEGE STATION,TX,17,9,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+24,Maryland ,1640,College,Men,Division I,College Park,MD,27,18,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+25,Carnegie Mellon ,1612,College,Men,Division I,Pittsburgh,PA,20,11,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+26,Stanford ,1612,College,Men,Division I,Stanford,CA,25,13,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+27,Northwestern ,1608,College,Men,Division I,Evanston,IL,25,19,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+28,Texas State ,1605,College,Men,Division I,San Marcos,TX,24,8,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+29,Bryant ,1586,College,Men,Division III,Smithfield,RI,25,2,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+30,Iowa ,1582,College,Men,Division I,Iowa City,IA,20,8,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+31,Ohio State ,1581,College,Men,Division I,Columbus,OH,29,12,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+32,Western Washington ,1568,College,Men,Division I,Bellingham,WA,20,14,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+33,Dartmouth ,1555,College,Men,Division I,Hanover,NH,23,10,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+34,Emory ,1550,College,Men,Division I,Atlanta,GA,18,10,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+35,LSU ,1545,College,Men,Division I,Baton Rouge,LA,19,16,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+36,Kennesaw State ,1542,College,Men,Division I,Kennesaw,GA,24,9,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+37,Michigan ,1540,College,Men,Division I,Ann Arbor,MI,14,11,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+38,Victoria ,1532,College,Men,Division I,Victoria,BC,16,15,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+39,Middlebury ,1527,College,Men,Division III,Middlebury,VT,30,4,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+40,California ,1525,College,Men,Division I,Berkeley,CA,28,20,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+41,Connecticut ,1523,College,Men,Division I,Storrs,CT,26,17,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+42,Notre Dame ,1519,College,Men,Division I,Notre Dame,IN,20,9,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+43,Northeastern ,1518,College,Men,Division I,Boston,MA,20,15,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+44,Air Force ,1516,College,Men,Division III,USAF Academy,CO,31,3,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+45,Florida State ,1502,College,Men,Division I,TALLAHASSEE,FL,21,20,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+46,Georgetown ,1501,College,Men,Division I,Washington,DC,26,19,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+47,Marquette ,1489,College,Men,Division I,Milwaukee,WI,21,10,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+48,Temple ,1484,College,Men,Division I,Philadelphia,PA,24,10,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+49,Illinois ,1480,College,Men,Division I,Champaign,IL,24,16,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+50,Central Florida ,1473,College,Men,Division I,Orlando,FL,14,22,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+51,British Columbia ,1470,College,Men,Division I,Vancouver,BC,10,12,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+52,Georgia Tech ,1467,College,Men,Division I,Atlanta,GA,19,10,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+53,James Madison ,1465,College,Men,Division I,Harrisonburg,VA,21,15,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+54,Illinois State ,1448,College,Men,Division I,Normal,IL,22,16,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+55,Texas-Dallas ,1447,College,Men,Division I,Richardson,TX,22,7,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+56,Southern California ,1440,College,Men,Division I,Los Angeles,CA,20,15,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+57,Kansas ,1437,College,Men,Division I,Lawrence,KS,19,13,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+58,Vermont ,1430,College,Men,Division I,Burlington,VT,13,15,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+59,Harvard ,1425,College,Men,Division I,Cambridge,MA,19,18,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+60,Mary Washington ,1421,College,Men,Division III,Fredericksburg,VA,30,8,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+61,Carleton College-GoP ,1394,College,Men,Division III,Northfield,MN,29,12,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+62,North Carolina-Charlotte ,1386,College,Men,Division I,Charlotte,NC,15,12,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+63,South Carolina ,1385,College,Men,Division I,Columbia,SC,17,11,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+64,Arkansas ,1383,College,Men,Division I,Fayetteville,AR,16,13,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+65,UCLA ,1382,College,Men,Division I,Los Angeles,CA,21,17,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+66,Santa Clara ,1375,College,Men,Division I,Santa Clara,CA,16,11,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+67,Cornell ,1373,College,Men,Division I,Ithaca,NY,17,9,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+68,Oregon State ,1370,College,Men,Division I,Corvallis,OR,10,22,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+69,Richmond ,1367,College,Men,Division III,Richmond,VA,24,13,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+70,Virginia ,1366,College,Men,Division I,Charlottesville,VA,17,18,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+71,Utah ,1360,College,Men,Division I,Salt Lake City,UT,23,13,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+72,Iowa State ,1358,College,Men,Division I,Ames,IA,17,17,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+73,Villanova ,1356,College,Men,Division I,Villanova,PA,21,11,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+74,Washington University ,1344,College,Men,Division I,St. Louis,MO,16,14,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+75,Minnesota-Duluth ,1333,College,Men,Division I,Duluth,MN,13,13,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+76,Tulane ,1333,College,Men,Division I,New Orleans,LA,18,14,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+77,John Brown ,1330,College,Men,Division III,Siloam Springs,AR,20,10,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+78,Chicago ,1318,College,Men,Division I,Chicago,IL,19,11,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+79,Tennessee-Chattanooga ,1316,College,Men,Division I,Chattanooga,TN,16,16,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+80,Tennessee ,1313,College,Men,Division I,Knoxville,TN,15,7,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+81,Oklahoma State ,1310,College,Men,Division I,Stillwater,OK,18,15,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+82,Bowdoin ,1304,College,Men,Division III,Brunswick,ME,20,10,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+83,Duke ,1294,College,Men,Division I,Durham,NC,12,11,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+84,Penn State ,1292,College,Men,Division I,State College,PA,15,21,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+85,Alabama ,1290,College,Men,Division I,Tuscaloosa,AL,22,13,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+86,Alabama-Huntsville ,1289,College,Men,Division I,Huntsville,AL,19,14,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+87,Delaware ,1286,College,Men,Division I,Newark,DE,14,11,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+88,Michigan State ,1282,College,Men,Division I,East Lansing,MI,13,9,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+89,Lehigh ,1280,College,Men,Division I,Bethlehem,PA,15,12,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+90,Purdue ,1280,College,Men,Division I,West Lafayette,IN,18,10,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+91,Las Positas ,1274,College,Men,Division I,Livermore,CA,17,7,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+92,Rutgers ,1274,College,Men,Division I,New Brunswick,NJ,20,5,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+93,Appalachian State ,1273,College,Men,Division I,Boone,NC,5,7,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+94,Bates ,1273,College,Men,Division III,Lewiston,ME,19,13,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+95,Cincinnati ,1254,College,Men,Division I,Cincinnati,OH,15,20,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+96,California-Santa Barbara ,1253,College,Men,Division I,Goleta,CA,17,22,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+97,California-Davis ,1247,College,Men,Division I,Davis,CA,19,13,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+98,Whitman  ,1246,College,Men,Division III,Walla Walla,WA,24,8,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+99,Amherst ,1246,College,Men,Division III,Amherst,MA,14,6,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+100,Arizona ,1245,College,Men,Division I,Tucson,AZ,17,13,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+101,Clemson ,1244,College,Men,Division I,Clemson,SC,10,15,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+102,Wisconsin-Whitewater ,1242,College,Men,Division I,Whitewater,WI,18,8,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+103,Georgia College ,1237,College,Men,Division III,Milledgeville,GA,19,6,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+104,Missouri S&T ,1236,College,Men,Division III,Rolla,MO,23,9,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+105,Texas Tech ,1233,College,Men,Division I,Lubbock,TX,11,13,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+106,Baylor ,1223,College,Men,Division I,Waco,TX,13,12,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+107,Kentucky ,1213,College,Men,Division I,Lexington,KY,17,11,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+108,East Carolina ,1213,College,Men,Division I,Greenville,NC,13,11,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+109,Mississippi State ,1212,College,Men,Division I,Starkville,MS,20,14,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+110,Pennsylvania ,1210,College,Men,Division I,Philadelphia,PA,18,12,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+111,Portland ,1201,College,Men,Division III,Portland,OR,14,3,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+112,Wesleyan ,1196,College,Men,Division III,Middletown,CT,19,6,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+113,Nebraska ,1190,College,Men,Division I,Lincoln,NE,16,15,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+114,Gonzaga ,1190,College,Men,Division I,Spokane,WA,6,7,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+115,Williams ,1189,College,Men,Division III,Williamstown,MA,19,15,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+116,SUNY-Stony Brook ,1187,College,Men,Division I,Stony Brook,NY,14,6,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+117,Northern Arizona ,1182,College,Men,Division I,Flagstaff,AZ,11,11,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+118,Case Western Reserve ,1182,College,Men,Division I,Cleveland,OH,16,20,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+119,North Texas ,1181,College,Men,Division I,Denton,TX,20,13,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+120,RIT ,1175,College,Men,Division I,Rochester,NY,15,8,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+121,Luther ,1172,College,Men,Division III,Decorah,IA,20,12,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+122,Elon ,1162,College,Men,Division III,Elon,NC,15,9,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+123,Michigan Tech ,1145,College,Men,Division III,Houghton,MI,12,3,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+124,Minnesota B ,1131,College,Men,Developmental,Minneapolis,MN,13,6,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+125,North Park ,1131,College,Men,Division III,Chicago,IL,18,7,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+126,Davidson ,1124,College,Men,Division III,Davidson,NC,16,15,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+127,Wisconsin-Milwaukee ,1117,College,Men,Division I,Milwaukee,WI,12,13,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+128,Oberlin ,1112,College,Men,Division III,Oberlin,OH,22,12,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+129,Ohio ,1109,College,Men,Division I,Athens,OH,10,13,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+130,Arizona State ,1109,College,Men,Division I,Tempe,AZ,8,18,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+131,Indiana ,1108,College,Men,Division I,Bloomington,IN,14,18,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+132,Colby ,1107,College,Men,Division III,Waterville,ME,10,11,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+133,Boston University ,1099,College,Men,Division I,Boston,MA,17,13,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+134,Saint Louis ,1096,College,Men,Division I,St. Louis,MO,16,16,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+135,Georgia B ,1095,College,Men,Developmental,Athens,GA,12,2,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+136,San Diego State ,1093,College,Men,Division I,San Diego,CA,16,15,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+137,Florida Tech ,1090,College,Men,Division III,Melbourne,FL,10,8,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+138,North Carolina B ,1087,College,Men,Developmental,Chapel Hill,NC,16,8,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+139,George Mason ,1086,College,Men,Division I,Fairfax,VA,11,23,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+140,Shippensburg ,1085,College,Men,Division III,Shippensburg,PA,24,7,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+141,Grand Valley State ,1081,College,Men,Division I,Allendale,MI,9,10,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+142,MIT ,1081,College,Men,Division I,Cambridge,MA,16,9,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+143,Brandeis ,1079,College,Men,Division III,Waltham,MA,19,13,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+144,South Florida ,1076,College,Men,Division I,Tampa,FL,6,16,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+145,Johns Hopkins ,1073,College,Men,Division I,Baltimore,MD,13,16,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+146,North Carolina-Asheville ,1073,College,Men,Division III,Asheville,NC,13,16,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+147,Colorado School of Mines ,1070,College,Men,Division III,Golden,CO,15,14,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+148,Akron ,1070,College,Men,Division I,Akron,OH,15,8,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+149,Claremont ,1067,College,Men,Division III,Claremont ,CA,14,9,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+150,Nevada-Reno ,1064,College,Men,Division I,Reno,NV,24,23,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+151,Minnesota State-Mankato ,1058,College,Men,Division I,Mankato,MN,5,10,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+152,Colorado State B ,1057,College,Men,Developmental,Fort Collins,CO,18,12,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+153,Puget Sound ,1050,College,Men,Division III,Tacoma,WA,19,12,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+154,Missouri State ,1046,College,Men,Division I,Springfield,MO,10,6,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+155,Colorado-Denver ,1042,College,Men,Division I,Denver,CO,13,9,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+156,Lamar ,1041,College,Men,Division I,Beaumont,TX,3,4,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+157,Rensselaer Polytech ,1037,College,Men,Division III,Troy,NY,16,15,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+158,Occidental ,1034,College,Men,Division III,Los Angeles,CA,16,12,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+159,Montana ,1032,College,Men,Division I,Missoula,MT,9,11,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+160,Colorado B ,1032,College,Men,Division I,Boulder,CO,13,12,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+161,Franciscan ,1025,College,Men,Division III,Steubenville,OH,16,6,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+162,Pacific Lutheran ,1021,College,Men,Division III,Parkland,WA,10,6,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+163,Mississippi ,1018,College,Men,Division I,Oxford,MS,12,12,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+164,Rice ,1016,College,Men,Division III,Houston,TX,14,17,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+165,Xavier ,1015,College,Men,Division III,Cincinnati,OH,19,11,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+166,Houston ,1009,College,Men,Division I,Houston,TX,3,4,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+167,Texas-San Antonio ,1007,College,Men,Division I,San Antonio,TX,6,8,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+168,SUNY-Binghamton ,1007,College,Men,Division I,Binghamton,NY,12,16,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+169,Michigan B ,1006,College,Men,Developmental,Ann Arbor,MI,16,2,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+170,Virginia Commonwealth ,1005,College,Men,Division I,Richmond,VA,4,16,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+171,NYU ,1003,College,Men,Division I,New York,NY,11,11,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+172,Vanderbilt ,1000,College,Men,Division I,Nashville,TN,11,16,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+173,Colorado College ,998,College,Men,Division III,Colorado Springs,CO,12,9,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+174,Wisconsin- La Crosse ,996,College,Men,Division I,La Crosse,WI,6,9,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+175,Hamilton ,991,College,Men,Division III,Clinton,NY,12,3,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+176,Oklahoma ,989,College,Men,Division I,Norman,OK,9,17,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+177,California-San Diego ,985,College,Men,Division I,San Diego,CA,7,19,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+178,Wheaton (Illinois) ,985,College,Men,Division III,Wheaton,IL,14,2,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+179,Dayton ,982,College,Men,Division I,Dayton,OH,13,9,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+180,Army ,981,College,Men,Division III,West Point,NY,10,4,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+181,Drexel ,981,College,Men,Division I,Philadelphia,PA,9,12,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+182,California-Santa Cruz ,978,College,Men,Division I,Santa Cruz,CA,10,13,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+183,Boston College ,977,College,Men,Division I,Chestnut Hill,MA,11,14,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+184,Columbia ,975,College,Men,Division I,New York,NY,10,5,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+185,Liberty ,971,College,Men,Division I,Lynchburg,VA,12,17,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+186,Haverford ,968,College,Men,Division III,Haverford,PA,13,11,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+187,Cal Poly-Pomona ,964,College,Men,Division I,Pomona,CA,11,16,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+188,Pittsburgh B ,956,College,Men,Developmental,Pittsburgh,PA,14,10,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+189,Princeton ,950,College,Men,Division I,Princeton,NJ,8,8,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+190,Chico State ,946,College,Men,Division I,chico,CA,15,13,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+191,St Olaf ,944,College,Men,Division III,Northfield,MN,17,6,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+192,SUNY-Geneseo ,943,College,Men,Division III,Geneseo,NY,11,13,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+193,Kansas State ,927,College,Men,Division I,Manhattan,KS,13,12,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+194,George Washington ,919,College,Men,Division I,Washington,DC,8,18,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+195,Wisconsin-Eau Claire ,919,College,Men,Division I,Eau Claire,WI,16,16,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+196,Western Washington B ,910,College,Men,Developmental,Bellingham,WA,3,3,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+197,Georgia State ,905,College,Men,Division I,Atlanta,GA,7,9,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+198,SUNY-Buffalo ,900,College,Men,Division I,Buffalo,NY,7,13,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+199,Wisconsin B ,895,College,Men,Developmental,Madison,WI,10,8,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+200,Colgate ,894,College,Men,Division III,Hamilton,NY,13,5,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+201,Florida B ,894,College,Men,Developmental,Gainesville,FL,18,7,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+202,St John's ,879,College,Men,Division III,Collegeville,MN,6,9,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+203,Florida State B ,875,College,Men,Developmental,Tallahassee,FL,14,4,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+204,Georgia Southern ,873,College,Men,Division I,"Statesboro, GA",GA,7,22,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+205,Cedarville ,872,College,Men,Division III,Cedarville,OH,11,9,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+206,North Florida ,864,College,Men,Division I,Jacksonville,FL,2,5,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+207,Lewis & Clark ,864,College,Men,Division III,Portland,OR,9,17,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+208,Massachusetts C ,862,College,Men,Developmental,Amherst,MA,8,8,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+209,Syracuse ,852,College,Men,Division I,Syracuse,NY,5,17,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+210,Grove City ,851,College,Men,Division III,Grove City,PA,11,7,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+211,Samford ,849,College,Men,Division III,Birmingham,AL,12,9,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+212,Denver ,840,College,Men,Division I,Denver,CO,10,11,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+213,Sonoma State ,839,College,Men,Division I,Rohnert Park,CA,11,14,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+214,Truman State ,838,College,Men,Division III,Kirksville,MO,10,11,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+215,Humboldt State ,838,College,Men,Division I,Arcata,CA,9,10,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+216,New Hampshire ,835,College,Men,Division I,Durham,NH,11,11,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+217,West Chester ,831,College,Men,Division I,West Chester,PA,9,8,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+218,Alabama-Birmingham ,828,College,Men,Division I,Birmingham,AL,7,12,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+219,Rochester ,827,College,Men,Division I,Rochester,NY,7,11,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+220,Texas A&M B ,826,College,Men,Developmental,College Station,TX,11,8,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+221,Stevens Tech ,820,College,Men,Division III,Hoboken,NJ,10,7,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+222,Stephen F Austin ,813,College,Men,Division I,Nacogdoches,TX,17,13,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+223,Jefferson ,812,College,Men,Division III,Philadelphia,PA,18,6,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+224,Swarthmore ,812,College,Men,Division III,Swarthmore,PA,9,15,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+225,Ball State ,809,College,Men,Division I,Muncie,IN,6,15,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+226,California B ,804,College,Men,Developmental,Berkeley,CA,11,8,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+227,Hartford ,800,College,Men,Division III,West Hartford,CT,7,6,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+228,Massachusetts- Dartmouth ,798,College,Men,Division I,"North Dartmouth, MA",MA,3,7,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+229,Boise State ,794,College,Men,Division I,Boise,ID,7,13,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+230,Texas Christian ,792,College,Men,Division I,Fort Worth,TX,12,10,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+231,Harding ,790,College,Men,Division III,Searcy,AR,7,13,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+232,High Point ,790,College,Men,Division III,High Point,NC,14,14,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+233,Northern Illinois ,789,College,Men,Division I,Dekalb,IL,8,14,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+234,Brigham Young B ,789,College,Men,Developmental,Provo,UT,5,6,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+235,Rowan ,786,College,Men,Division I,Glassboro,NJ,6,15,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+236,Maryland-Baltimore County ,783,College,Men,Division I,Baltimore,MD,9,16,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+237,Knox ,777,College,Men,Division III,Galesburg ,IL,13,10,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+238,Utah State ,777,College,Men,Division I,Logan,UT,4,13,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+239,West Virginia ,772,College,Men,Division I,Morgantown,WV,11,7,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+240,SUNY-Albany ,767,College,Men,Division I,Albany,NY,4,6,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+241,Marist ,764,College,Men,Division III,Poughkeepsie,NY,6,7,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+242,Montana State  ,762,College,Men,Division I,Bozeman,MT,4,11,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+243,Utah Valley ,761,College,Men,Division I,Orem,UT,5,11,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+244,Winona State ,761,College,Men,Division III,Winona,MN,12,14,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+245,Worcester Polytech ,752,College,Men,Division III,Worcester,MA,4,9,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+246,Saint Joseph's ,749,College,Men,Division I,Philadelphia,PA,1,5,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+247,Drake ,749,College,Men,Division III,Des Moines,IA,14,10,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+248,Navy ,747,College,Men,Division III,Annapolis,MD,9,15,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+249,Bentley ,737,College,Men,Division III,Waltham,MA,7,14,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+250,Whitworth ,734,College,Men,Division III,Spokane,WA,7,9,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+251,Tufts B ,727,College,Men,Developmental,Medford,MA,6,3,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+252,Wake Forest ,727,College,Men,Division I,Winston-Salem,NC,6,14,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+253,Berry ,726,College,Men,Division III,Berry,GA,8,10,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+254,New Mexico ,723,College,Men,Division I,Albuquerque,NM,2,7,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+255,North Georgia ,721,College,Men,Division III,Dahlonega,GA,10,10,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+256,Loyola-Chicago ,716,College,Men,Division I,Chicago,IL,12,5,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+257,Arizona State B ,711,College,Men,Developmental,Tempe,AZ,14,10,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+258,Tennessee Tech ,710,College,Men,Division I,Cookeville,TN,2,9,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+259,DePaul ,708,College,Men,Division I,Chicago,IL,10,9,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+260,Baylor B ,702,College,Men,Division I,Waco,TX,4,2,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+261,Saint Rose ,700,College,Men,Division III,Albany,NY,6,4,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+262,Cal State-Long Beach ,698,College,Men,Division I,Long Beach,CA,5,7,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+263,Arkansas State ,698,College,Men,Division I,Jonesboro,AR,6,5,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+264,Miami (Ohio) ,697,College,Men,Division I,Oxford,OH,10,7,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+265,Mars Hill ,696,College,Men,Division III,Mars Hill,NC,2,6,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+266,Massachusetts B ,695,College,Men,Developmental,Amherst,MA,8,2,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+267,Washington State ,693,College,Men,Division I,Pullman,WA,8,11,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+268,Union (Tennessee) ,693,College,Men,Division III,Jackson,TN,6,10,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+269,Catholic ,691,College,Men,Division III,Washington,DC,5,10,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+270,Wooster ,685,College,Men,Division III,Wooster,OH,6,9,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+271,Macalester ,678,College,Men,Division III,St. Paul,MN,7,9,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+272,Middle Tennessee State ,672,College,Men,Division I,Murfreesboro,TN,5,12,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+273,American ,670,College,Men,Division I,Washington,DC,8,15,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+274,Connecticut College ,665,College,Men,Division III,New London,CT,2,3,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+275,Charleston ,661,College,Men,Division I,Charleston,SC,5,23,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+276,Yale ,655,College,Men,Division I,New Haven,CT,4,11,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+277,Tulsa ,655,College,Men,Division III,Tulsa,OK,4,12,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+278,Texas-Arlington ,653,College,Men,Division I,Arlington,TX,6,12,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+279,Christopher Newport ,650,College,Men,Division III,Newport News,VA,13,6,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+280,Ohio State B ,644,College,Men,Developmental,Columbus,OH,5,1,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+281,Messiah ,640,College,Men,Division III,Mechanicsburg,PA,10,17,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+282,Wisconsin-Stevens Point ,639,College,Men,Division I,Stevens Point,WI,2,4,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+283,Valparaiso ,639,College,Men,Division III,Valparaiso,IN,6,5,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+284,Missouri ,637,College,Men,Division I,Columbia,MO,3,10,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+285,Sul Ross State ,635,College,Men,Division III,Alpine,TX,2,3,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+286,Carleton College-Hot Karls ,627,College,Men,Division III,Northfield,MN,15,15,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+287,Sacramento State ,626,College,Men,Division I,Sacramento,CA,3,14,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+288,New Haven ,623,College,Men,Division III,West Haven,CT,2,4,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+289,Miami ,620,College,Men,Division I,Coral Gables,FL,4,22,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+290,Illinois B ,618,College,Men,Developmental,Champaign,IL,15,15,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+291,North Greenville ,617,College,Men,Division III,Tigerville,SC,2,9,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+292,Georgia Tech B ,613,College,Men,Developmental,Atlanta,GA,8,10,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+293,Wingate ,612,College,Men,Division III,Wingate,NC,3,13,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+294,South Carolina B ,609,College,Men,Developmental,Columbia,SC,14,9,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+295,Washington B ,609,College,Men,Division I,Seattle,WA,3,11,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+296,Beloit ,601,College,Men,Division III,Beloit,WI,7,4,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+297,Maryland B ,600,College,Men,Developmental,College Park,MD,14,9,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+298,St. Thomas ,598,College,Men,Division III,Saint Paul,MN,6,8,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+299,Siena ,596,College,Men,Division III,Albany,NY,0,1,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+300,SUNY-New Paltz ,596,College,Men,Division I,New Paltz,NY,2,3,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+301,SUNY-Fredonia ,594,College,Men,Division III,Fredonia,NY,12,6,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+302,Ithaca ,590,College,Men,Division III,Ithaca,NY,5,5,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+303,Western Michigan ,590,College,Men,Division I,Kalamazoo,MI,1,5,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+304,Trinity ,588,College,Men,Division III,San Antonio,TX,4,9,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+305,Ferris State ,583,College,Men, ,Big Rapids,MI,3,3,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+306,Clarkson ,580,College,Men,Division III,Potsdam ,NY,4,6,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+307,Emerson ,577,College,Men,Division III,Boston,MA,7,5,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+308,William & Mary B ,575,College,Men,Developmental,Williamsburg,VA,13,9,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+309,Northern Iowa ,571,College,Men,Division I,Cedar Falls,IA,0,5,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+310,Bucknell ,563,College,Men,Division III,Lewisburg,PA,4,4,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+311,Delaware B ,562,College,Men,Developmental,Newark,DE,17,6,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+312,Western Carolina ,556,College,Men,Division I,Cullowhee,NC,3,10,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+313,North Dakota State ,553,College,Men,Division I,Fargo,ND,0,6,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+314,James Madison B ,549,College,Men,Developmental,Harrisonburg,VA,19,10,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+315,Brown B ,548,College,Men,Developmental,Providence,RI,9,7,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+316,Iowa State B ,542,College,Men,Developmental,Ames,IA,6,11,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+317,Portland State ,540,College,Men,Division I,Portland,OR,4,10,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+318,Bradley ,539,College,Men,Division III,Peoria,IL,9,8,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+319,College of New Jersey ,537,College,Men,Division III,Ewing,NJ,0,5,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+320,Florida Gulf Coast ,535,College,Men,Division I,Fort Myers,FL,4,2,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+321,Rhode Island  ,534,College,Men,Division I,Kingston,RI,5,13,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+322,Toledo ,531,College,Men,Division I,Toledo,OH,7,11,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+323,Embry-Riddle (Florida) ,527,College,Men,Division III,Daytona Beach,FL,8,10,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+324,LSU B ,525,College,Men,Developmental,Baton Rouge,LA,5,7,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+325,Scranton ,523,College,Men,Division III,Scranton,PA,4,8,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+326,Southern Indiana ,522,College,Men,Division I,Evansville,IN,4,12,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+327,Wright State ,517,College,Men,Division I,Dayton,OH,7,14,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+328,Wentworth ,516,College,Men,Division III,Boston,MA,8,14,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+329,Muhlenberg ,511,College,Men,Division III,Allentown,PA,6,3,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+330,Penn State B ,508,College,Men,Developmental,University Park,PA,9,5,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+331,Troy ,506,College,Men,Division I,Troy,AL,2,13,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+332,Biola ,505,College,Men,Division III,La Mirada,CA,1,4,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+333,Clark ,504,College,Men,Division III,Worcester,MA,2,4,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+334,Ohio Northern ,500,College,Men,Division III,Ada,OH,4,6,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+335,Massachusetts-Lowell ,499,College,Men,Division I,Lowell,MA,2,10,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+336,Caltech ,496,College,Men,Division III,Pasadena,CA,2,10,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+337,Cal Poly-SLO B ,492,College,Men,Developmental,San Luis Obispo,CA,6,12,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+338,Dickinson ,490,College,Men,Division III,Carlisle,PA,7,12,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+339,Virginia Tech B ,488,College,Men,Developmental,Blacksburg,VA,3,3,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+340,Central Arkansas ,488,College,Men,Division I,Conway ,AR,4,13,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+341,Dartmouth B ,484,College,Men,Developmental,Hanover,NH,13,9,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+342,Stetson ,477,College,Men,Division III,Deland,FL,3,15,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+343,Notre Dame B ,470,College,Men,Developmental,Notre Dame,IN,8,5,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+344,Purdue B ,468,College,Men,Developmental,West Lafayette,IN,4,3,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+345,Central Florida B ,463,College,Men,Developmental,Orlando,FL,4,8,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+346,Grand Canyon ,462,College,Men,Division I,Phoenix,AZ,2,14,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+347,Trine ,458,College,Men,Division III,Angola,IN,2,7,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+348,Westfield State ,457,College,Men,Division III,Westfield,MA,2,4,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+349,Eastern Illinois ,457,College,Men,Division III,Charleston,IL,8,12,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+350,Northwestern B ,451,College,Men,Developmental,Evanston,IL,12,8,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+351,Vassar ,449,College,Men,Division III,Poughkeepsie,NY,0,4,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+352,Southern Illinois-Edwardsville ,446,College,Men, ,Edwardsville,IL,4,4,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+353,Illinois-Chicago  ,444,College,Men,Division I,Chicago ,IL,4,11,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+354,Towson ,437,College,Men,Division I,Towson,MD,1,10,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+355,Kenyon ,433,College,Men,Division III,Gambier,OH,3,3,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+356,Seattle ,432,College,Men,Division III,Seattle,WA,0,7,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+357,Keene State ,428,College,Men,Division III,Keene,NH,3,12,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+358,Southern Mississippi ,428,College,Men,Division I,Hattiesburg,MS,2,17,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+359,Allegheny ,414,College,Men,Division III,Meadville,PA,6,11,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+360,Ave Maria ,412,College,Men,Division III,Ave Maria,FL,0,4,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+361,Northeastern B ,408,College,Men,Developmental,Boston,MA,12,6,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+362,Kent State ,407,College,Men,Division I,Kent,OH,5,14,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+363,California-Davis B ,404,College,Men,Developmental,Davis,CA,5,9,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+364,California-Irvine ,400,College,Men,Division I,Irvine,CA,4,17,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+365,Colorado-Mesa ,392,College,Men,Division I,Grand Junction,CO,1,17,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+366,Central Connecticut State ,392,College,Men,Division I,New Britain,CT,0,4,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+367,Maine-Farmington ,387,College,Men,Division III,Farmington,ME,2,9,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+368,SUNY-Brockport ,384,College,Men,Division I,Brockport,NY,0,6,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+369,Texas-Dallas B ,379,College,Men,Division I,Richardson,TX,2,7,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+370,Air Force B ,378,College,Men,Division III,USAF Academy,CO,1,8,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+371,Connecticut B ,365,College,Men,Developmental,Storrs,CT,9,5,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+372,Harvard B ,364,College,Men,Developmental,Cambridge,MA,7,5,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+373,Cornell B ,361,College,Men,Developmental,Ithaca,NY,8,3,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+374,Florida Atlantic ,360,College,Men,Division I,Boca Raton,FL,2,4,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+375,St Lawrence ,356,College,Men,Division III,Canton,NY,2,7,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+376,Washington University B ,355,College,Men,Developmental,St. Louis,MO,7,14,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+377,Virginia B ,352,College,Men,Developmental,Charlottesville,VA,11,18,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+378,Texas B ,349,College,Men,Developmental,Austin,TX,1,5,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+379,Millersville ,347,College,Men,Division I,Millersville,PA,0,6,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+380,Wisconsin-Oshkosh ,345,College,Men,Division I,Oshkosh,WI,4,15,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+381,Olivet Nazarene ,344,College,Men,Division III,Bourbonnais,IL,6,15,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+382,Rowan B ,343,College,Men,Developmental,Glassboro,NJ,14,11,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+383,Northern Arizona B ,339,College,Men,Developmental,Flagstaff,AZ,0,4,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+384,Illinois State B ,337,College,Men,Division I,Normal,IL,9,15,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+385,Edinboro ,331,College,Men,Division I,Edinboro,PA,4,19,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+386,Wisconsin-La Crosse B ,331,College,Men,Developmental,La Crosse,WI,1,3,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+387,Susquehanna  ,326,College,Men,Division III,Selinsgrove,PA,5,9,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+388,Temple B ,321,College,Men,Developmental,Philadelphia,PA,6,9,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+389,Northern Michigan ,320,College,Men,Division I,Marquette,MI,2,5,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+390,Idaho ,314,College,Men,Division I,Moscow,ID,0,12,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+391,Fresno State ,303,College,Men,Division I,Fresno,CA,0,11,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+392,John Carroll ,290,College,Men,Division III,Cleveland,OH,3,6,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+393,Grinnell ,284,College,Men,Division III,Grinnell,IA,8,12,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+394,Kalamazoo ,281,College,Men,Division III,Kalamazoo,MI,2,8,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+395,Lehigh B ,275,College,Men,Division III,Bethlehem,PA,6,7,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+396,Bethel ,274,College,Men,Division III,Saint Paul,MN,2,4,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+397,Messiah College B ,268,College,Men,Developmental,Mechanicsburg,PA,4,2,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+398,North Carolina-Wilmington B ,263,College,Men,Developmental,Wilmington,NC,3,9,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+399,Northeastern C ,261,College,Men,Developmental,Boston,MA,7,3,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+400,SUNY-Oneonta ,259,College,Men,Division III,Oneonta,NY,2,7,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+401,Michigan State B ,258,College,Men,Developmental,East Lansing,MI,7,12,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+402,Rose-Hulman ,251,College,Men,Division III,Terre Haute,IN,5,10,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+403,Dallas ,247,College,Men,Division III,Irving,TX,2,7,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+404,Washington C ,242,College,Men,Developmental,Seattle,WA,0,5,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+405,Drury ,238,College,Men,Division III,Springfield,MO,1,4,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+406,Maine ,235,College,Men,Division I,South Portland,ME,0,2,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+407,Fairfield ,224,College,Men,Division III,Fairfield,CT,3,5,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+408,Central Washington ,222,College,Men,Division I,Ellensburg,WA,0,6,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+409,Belmont  ,221,College,Men,Division III,Nashville,TN,1,11,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+410,Ursinus ,218,College,Men,Division III,Collegeville,PA,4,9,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+411,Georgetown B ,217,College,Men,Developmental,Washington,DC,9,6,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+412,South Dakota Mines ,213,College,Men,Division III,Rapid City,SD,0,5,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+413,Salisbury ,212,College,Men,Division I,Salisbury,MD,6,13,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+414,Hofstra ,208,College,Men,Division I,Hempstead,NY,2,15,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+415,Abilene Christian ,205,College,Men,Division III,Abilene,TX,1,8,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+416,Luther B ,193,College,Mixed,Division III,Decorah,IA,6,7,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+417,Holy Cross ,192,College,Men,Division III,WORCESTER,MA,1,4,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+418,Indiana (Pennsylvania) ,182,College,Men,Division I,Indiana,PA,1,9,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+419,Tulane B ,167,College,Men,Developmental,New Orleans,LA,2,11,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+420,California-San Diego B ,154,College,Men,Developmental,La Jolla,CA,5,8,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+421,Indiana B ,154,College,Men,Developmental,Bloomington,IN,7,14,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+422,North Carolina State B ,153,College,Men,Developmental,Raleigh,NC,2,8,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+423,Kentucky B ,148,College,Men,Division I,Lexington,KY,1,10,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+424,California-Pennsylvania ,137,College,Men,Division I,California,PA,2,8,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+425,Butler ,135,College,Men,Division III,Indianapolis,IN,0,2,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+426,UCLA B ,131,College,Men,Developmental,Los Angeles,CA,3,11,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+427,Wisconsin-Platteville ,124,College,Men,Division III,Platteville,WI,1,11,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+428,Case Western Reserve B ,115,College,Men,Developmental,Cleveland,OH,2,8,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+429,Lancaster Bible ,108,College,Men,Division III,Lancaster,PA,6,5,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+430,Southern Methodist  ,106,College,Men,Division I,Dallas,TX,3,11,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+431,Princeton B ,100,College,Men,Developmental,Princeton,NJ,6,10,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+432,Providence College ,94,College,Men,Division III,Providence,RI,0,5,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+433,Shenandoah ,91,College,Men,Division III,Winchester,VA,2,12,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+434,Creighton ,90,College,Men,Division III,Omaha,NE,5,9,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+435,Stonehill ,89,College,Men,Division III,Easton,MA,2,8,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+436,Union ,83,College,Men,Division III,Schenectady,NY,0,4,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+437,Canisius ,83,College,Men,Division III,Buffalo,NY,1,4,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+438,George Washington B ,73,College,Men,Developmental,"Washington, D.C.",DC,7,9,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+439,North Texas ,72,College,Men,Division I,Denton,TX,1,9,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+440,Denison ,52,College,Men,Division III,Granville,OH,0,5,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+441,Texas A&M C ,51,College,Men,Developmental,College Station,TX,0,5,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+442,Marquette B ,41,College,Men,Developmental,Milwaukee,WI,1,12,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+443,California-Santa Barbara B ,27,College,Men,Developmental,Santa Barbara,CA,2,4,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+444,Cleveland State ,27,College,Men,Division I,Cleveland,OH,2,16,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+445,Franklin & Marshall ,22,College,Men,Division III,Lancaster,PA,1,4,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+446,Wheaton (MA) ,-6,College,Men,Division III,Norton,MA,1,9,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+447,Milwaukee School of Engineering ,-8,College,Men,Division III,Milwaukee,WI,0,9,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+448,York (Pennsylvania) ,-20,College,Men,Division III,York,PA,0,7,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+449,Vermont B ,-32,College,Men,Developmental,Burlington,VT,2,8,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+450,Pennsylvania B ,-64,College,Men,Developmental,Philadelphia,PA,4,15,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+451,Boston College B ,-74,College,Men,Developmental,Chestnut Hill,MA,4,7,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+452,Kansas B ,-86,College,Men,Developmental,Lawrence,KS,0,12,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+453,Wisconsin-Milwaukee B ,-89,College,Men,Developmental,Milwaukee,WI,1,14,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+454,Northwestern-St. Paul ,-91,College,Men,Division III,Roseville,MN,0,9,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+455,Texas State B ,-119,College,Men,Division I,San Marcos ,TX,1,12,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+456,Rutgers B ,-128,College,Men,Developmental,Piscataway,NJ,3,12,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+457,South Florida B ,-128,College,Men,Developmental,Tampa,FL,2,14,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+458,Cornell College ,-130,College,Men,Division III,Mount Vernon,IA,1,6,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+459,SUNY-Binghamton B ,-131,College,Men,Developmental,Binghamton,NY,0,8,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+460,Illinois C ,-144,College,Men,Developmental,Urbana,IL,1,16,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+461,Maryland-Baltimore County B ,-148,College,Men,Developmental,Baltimore,MD,3,8,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+462,Florida Tech B ,-152,College,Men,Developmental,Melbourne,FL,1,15,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+463,Kettering ,-186,College,Men,Division III,Flint,MI,0,6,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+464,Hendrix ,-200,College,Men, ,Conway,AR,0,5,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+465,Chicago B ,-205,College,Men,Developmental,Chicago,IL,0,5,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+466,Le Moyne ,-220,College,Men,Division III,Syracuse,NY,0,5,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+467,Wisconsin C ,-222,College,Men,Developmental,Madison,WI,0,12,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+468,SUNY-Albany B ,-251,College,Men,Developmental,Albany,NY,1,4,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+469,Towson B ,-287,College,Men,Developmental,Towson,MD,2,10,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+470,Dayton B ,-292,College,Men,Developmental,Dayton,OH,0,5,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+471,California-Santa Cruz B ,-320,College,Men,Developmental,Santa Cruz,CA,0,5,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+472,Rensselaer Polytech B ,-325,College,Men,Developmental,Troy,NY,0,4,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+473,SUNY-Buffalo B ,-338,College,Men,Developmental,Buffalo,NY,1,12,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+474,Pennsylvania-Johnstown B ,-342,College,Men,Division III,Johnstown,PA,0,4,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+475,Cal Poly Pomona B ,-347,College,Men,Developmental,Pomona,CA,1,4,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+476,Johns Hopkins B ,-349,College,Men,Developmental,Baltimore,MD,0,7,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+477,Tufts C ,-423,College,Men,Developmental,Medford,MA,2,5,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+478,George Mason B ,-447,College,Men,Developmental,Fairfax,VA,0,6,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+479,Coe ,-459,College,Men,Division III,Cedar Rapids,IA,0,12,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+480,West Chester B ,-477,College,Men,Developmental,West Chester,PA,1,13,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+481,St Mary's (Maryland) ,-509,College,Men,Division III,St. Marys City,MD,0,6,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+482,American B ,-545,College,Men,Developmental,Washington,DC,1,13,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+483,Rhode Island B ,-546,College,Men,Developmental,Kingston,RI,1,11,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+484,California-San Diego C ,-597,College,Men,Developmental,San Diego,CA,0,5,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+485,Amherst B ,-632,College,Men,Developmental,Amherst,MA,0,3,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+486,Stevens Tech B ,-688,College,Men,Developmental,Hoboken,NJ,0,6,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+487,MIT B ,-752,College,Men,Developmental,Cambridge,MA,0,10,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college
+488,Boston University B ,-758,College,Men,Developmental,Boston,MA,0,5,7Cm64Eqn%2fd3gep%2bI11xZnTaihMbTcv53Pwda6jUW4KU%3d,2018_college

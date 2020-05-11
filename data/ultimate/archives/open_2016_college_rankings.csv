@@ -1,23 +1,414 @@
 Rank,Team,Power Rating,Competition Level,Gender Division,Competition Division,City,State,Wins,Losses,dataset_id,season
-1,Massachusetts,2266,College,Men,Division I,Amherst,MA,18,2,jBSVk29zZIMwKN7UbtC7mVIi9Bm%2bnSCIiMApiRrewqk%3d,2016_college
-2,Wisconsin,2162,College,Men,Division I,Madison,WI,19,3,jBSVk29zZIMwKN7UbtC7mVIi9Bm%2bnSCIiMApiRrewqk%3d,2016_college
-3,Minnesota,2161,College,Men,Division I,Minneapolis,MN,22,3,jBSVk29zZIMwKN7UbtC7mVIi9Bm%2bnSCIiMApiRrewqk%3d,2016_college
-4,Oregon,2100,College,Men,Division I,Eugene,OR,28,1,jBSVk29zZIMwKN7UbtC7mVIi9Bm%2bnSCIiMApiRrewqk%3d,2016_college
-5,North Carolina,2089,College,Men,Division I,Chapel Hill,NC,10,3,jBSVk29zZIMwKN7UbtC7mVIi9Bm%2bnSCIiMApiRrewqk%3d,2016_college
-6,Pittsburgh,2086,College,Men,Division I,Pittsburgh,PA,14,6,jBSVk29zZIMwKN7UbtC7mVIi9Bm%2bnSCIiMApiRrewqk%3d,2016_college
-7,Stanford,2052,College,Men,Division I,Stanford,CA,15,5,jBSVk29zZIMwKN7UbtC7mVIi9Bm%2bnSCIiMApiRrewqk%3d,2016_college
-8,North Carolina-Wilmington,2033,College,Men,Division I,Wilmington,NC,17,5,jBSVk29zZIMwKN7UbtC7mVIi9Bm%2bnSCIiMApiRrewqk%3d,2016_college
-9,Florida,2013,College,Men,Division I,Gainesville,FL,18,9,jBSVk29zZIMwKN7UbtC7mVIi9Bm%2bnSCIiMApiRrewqk%3d,2016_college
-10,Harvard,1955,College,Men,Division I,Cambridge,MA,13,6,jBSVk29zZIMwKN7UbtC7mVIi9Bm%2bnSCIiMApiRrewqk%3d,2016_college
-11,Georgia,1923,College,Men,Division I,Athens,GA,14,5,jBSVk29zZIMwKN7UbtC7mVIi9Bm%2bnSCIiMApiRrewqk%3d,2016_college
-12,Washington,1923,College,Men,Division I,Seattle,WA,21,6,jBSVk29zZIMwKN7UbtC7mVIi9Bm%2bnSCIiMApiRrewqk%3d,2016_college
-13,Carleton College,1900,College,Men,Division I,Northfield,MN,11,11,jBSVk29zZIMwKN7UbtC7mVIi9Bm%2bnSCIiMApiRrewqk%3d,2016_college
-14,Colorado,1895,College,Men,Division I,Boulder,CO,13,7,jBSVk29zZIMwKN7UbtC7mVIi9Bm%2bnSCIiMApiRrewqk%3d,2016_college
-15,British Columbia,1886,College,Men,Division I,Vancouver,BC,15,6,jBSVk29zZIMwKN7UbtC7mVIi9Bm%2bnSCIiMApiRrewqk%3d,2016_college
-16,Texas A&M,1871,College,Men,Division I,COLLEGE STATION,TX,10,6,jBSVk29zZIMwKN7UbtC7mVIi9Bm%2bnSCIiMApiRrewqk%3d,2016_college
-17,Brigham Young,1866,College,Men,Division I,Provo,UT,18,11,jBSVk29zZIMwKN7UbtC7mVIi9Bm%2bnSCIiMApiRrewqk%3d,2016_college
-18,Ohio State,1832,College,Men,Division I,Columbus,OH,14,7,jBSVk29zZIMwKN7UbtC7mVIi9Bm%2bnSCIiMApiRrewqk%3d,2016_college
-19,Florida State,1784,College,Men,Division I,Tallahassee,FL,11,9,jBSVk29zZIMwKN7UbtC7mVIi9Bm%2bnSCIiMApiRrewqk%3d,2016_college
-20,Virginia Tech,1780,College,Men,Division I,Blacksburg,VA,9,7,jBSVk29zZIMwKN7UbtC7mVIi9Bm%2bnSCIiMApiRrewqk%3d,2016_college
-Rows: 1 - 20 of 374« Previous 20 |  1 2 3 4 5 6 7 8 9 10 11 | Next 20 »   Page: 1 of 19,Rows: 1 - 20 of 374« Previous 20 |  1 2 3 4 5 6 7 8 9 10 11 | Next 20 »,Page: 1 of 19,,,,,,,,jBSVk29zZIMwKN7UbtC7mVIi9Bm%2bnSCIiMApiRrewqk%3d,2016_college
-Rows: 1 - 20 of 374« Previous 20 |  1 2 3 4 5 6 7 8 9 10 11 | Next 20 »,Page: 1 of 19,,,,,,,,,jBSVk29zZIMwKN7UbtC7mVIi9Bm%2bnSCIiMApiRrewqk%3d,2016_college
+1,Massachusetts ,2067,College,Men,Division I,Amherst,MA,28,4,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+2,Minnesota ,2007,College,Men,Division I,Minneapolis,MN,39,6,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+3,Wisconsin ,1961,College,Men,Division I,Madison,WI,33,6,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+4,Oregon ,1956,College,Men,Division I,Eugene,OR,44,3,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+5,Pittsburgh ,1952,College,Men,Division I,Pittsburgh,PA,33,9,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+6,North Carolina-Wilmington ,1910,College,Men,Division I,Wilmington,NC,30,8,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+7,Colorado ,1897,College,Men,Division I,Boulder,CO,26,8,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+8,Stanford ,1867,College,Men,Division I,Stanford,CA,25,7,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+9,Georgia ,1866,College,Men,Division I,Athens,GA,27,7,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+10,Carleton College ,1865,College,Men,Division I,Northfield,MN,24,14,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+11,Harvard ,1838,College,Men,Division I,Cambridge,MA,28,10,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+12,North Carolina ,1831,College,Men,Division I,Chapel Hill,NC,22,9,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+13,Florida ,1827,College,Men,Division I,Gainesville,FL,28,13,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+14,Texas A&M ,1812,College,Men,Division I,COLLEGE STATION,TX,21,11,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+15,British Columbia ,1773,College,Men,Division I,Vancouver,BC,25,10,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+16,Brigham Young ,1737,College,Men,Division I,Provo,UT,18,11,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+17,Michigan ,1733,College,Men,Division I,Ann Arbor,MI,23,10,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+18,Auburn ,1729,College,Men,Division I,Auburn,AL,28,15,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+19,Washington ,1708,College,Men,Division I,Seattle,WA,35,13,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+20,Ohio State ,1704,College,Men,Division I,Columbus,OH,24,10,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+21,Florida State ,1702,College,Men,Division I,Tallahassee,FL,21,16,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+22,Cal Poly-SLO ,1676,College,Men,Division I,San Luis Obispo,CA,33,21,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+23,Texas ,1663,College,Men,Division I,Austin,TX,18,10,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+24,Penn State ,1647,College,Men,Division I,State College,PA,20,7,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+25,Case Western Reserve ,1644,College,Men,Division I,Cleveland,OH,31,14,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+26,Arkansas ,1619,College,Men,Division I,Fayetteville,AR,23,11,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+27,James Madison ,1616,College,Men,Division I,Harrisonburg,VA,20,11,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+28,Connecticut ,1615,College,Men,Division I,Storrs,CT,26,11,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+29,Central Florida ,1610,College,Men,Division I,Orlando,FL,11,20,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+30,California-Santa Barbara ,1604,College,Men,Division I,Goleta,CA,20,13,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+31,Virginia Tech ,1600,College,Men,Division I,Blacksburg,VA,17,10,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+32,Virginia Commonwealth ,1598,College,Men,Division I,Richmond,VA,25,7,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+33,Georgia Tech ,1583,College,Men,Division I,Atlanta,GA,30,9,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+34,California-San Diego ,1577,College,Men,Division I,San Diego,CA,24,14,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+35,Manitoba ,1570,College,Men,Division I,Winnipeg,Manitoba,3,2,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+36,Missouri ,1561,College,Men,Division I,Columbia,MO,21,10,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+37,LSU ,1555,College,Men,Division I,Baton Rouge,LA,23,12,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+38,Maryland ,1545,College,Men,Division I,College Park,MD,26,11,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+39,Victoria ,1534,College,Men,Division I,Victoria,BC,16,11,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+40,Western Washington ,1529,College,Men,Division I,Bellingham,WA,23,21,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+41,Tulane ,1528,College,Men,Division I,New Orleans,LA,18,13,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+42,Lewis & Clark ,1526,College,Men,Division III,Portland,OR,24,7,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+43,Purdue ,1524,College,Men,Division I,West Lafayette,IN,20,6,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+44,Northwestern ,1521,College,Men,Division I,Evanston,IL,23,12,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+45,Georgetown ,1515,College,Men,Division I,Washington,DC,29,9,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+46,Utah ,1512,College,Men,Division I,Salt Lake City,UT,20,10,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+47,Brown ,1511,College,Men,Division I,Providence,RI,11,12,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+48,Bryant ,1510,College,Men,Division III,Smithfield,RI,16,4,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+49,Colorado State ,1508,College,Men,Division I,Fort Collins,CO,17,14,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+50,California-Santa Cruz ,1508,College,Men,Division I,Santa Cruz,CA,14,9,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+51,Oregon State ,1499,College,Men,Division I,Corvallis,OR,23,14,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+52,Kansas ,1491,College,Men,Division I,Lawrence,KS,18,11,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+53,Brandeis ,1482,College,Men,Division III,Waltham,MA,25,8,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+54,Notre Dame ,1481,College,Men,Division I,Notre Dame,IN,26,13,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+55,Virginia ,1476,College,Men,Division I,Charlottesville,VA,14,14,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+56,Georgia College ,1472,College,Men,Division III,Milledgeville,GA,30,3,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+57,Illinois ,1470,College,Men,Division I,Champaign,IL,17,19,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+58,North Carolina State ,1463,College,Men,Division I,Raleigh,NC,20,11,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+59,Wheaton (Illinois) ,1463,College,Men,Division III,Wheaton,IL,22,6,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+60,Tufts ,1451,College,Men,Division I,Medford,MA,12,9,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+61,Iowa ,1449,College,Men,Division I,Iowa City,IA,17,10,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+62,Ohio ,1440,College,Men,Division I,Athens,OH,17,9,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+63,Franciscan ,1427,College,Men,Division III,Steubenville,OH,32,7,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+64,New Hampshire ,1422,College,Men,Division I,Durham,NH,24,3,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+65,South Carolina ,1420,College,Men,Division I,Columbia,SC,22,9,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+66,California-Davis ,1419,College,Men,Division I,Davis,CA,17,17,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+67,Wisconsin-Milwaukee ,1416,College,Men,Division I,Milwaukee,WI,18,10,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+68,Cornell ,1402,College,Men,Division I,Ithaca,NY,18,6,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+69,Chico State ,1396,College,Men,Division I,Chico,CA,16,7,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+70,Richmond ,1393,College,Men,Division III,Richmond,VA,29,6,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+71,Chicago ,1393,College,Men,Division I,Chicago,IL,20,14,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+72,Iowa State ,1392,College,Men,Division I,Ames,IA,20,14,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+73,Air Force ,1391,College,Men,Division III,USAF Academy,CO,34,13,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+74,Luther ,1383,College,Men,Division I,Decorah,IA,21,18,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+75,Cincinnati ,1380,College,Men,Division I,Cincinnati,OH,13,13,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+76,Pennsylvania ,1376,College,Men,Division I,Philadelphia,PA,17,10,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+77,George Washington ,1376,College,Men,Division I,Washington,DC,20,10,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+78,Lehigh ,1372,College,Men,Division I,Bethlehem,PA,20,13,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+79,Carleton College-GOP ,1370,College,Men,Division III,Northfield,MN,31,11,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+80,St John's ,1361,College,Men,Division III,Collegeville,MN,19,3,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+81,Whitman ,1360,College,Men,Division I,Walla Walla,WA,14,11,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+82,Georgia Southern ,1357,College,Men,Division I,"Statesboro, GA",GA,18,16,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+83,William & Mary ,1356,College,Men,Division I,Williamsburg,VA,16,9,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+84,Washington University ,1356,College,Men,Division I,St. Louis,MO,15,11,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+85,Texas Christian ,1356,College,Men,Division I,Fort Worth,TX,20,11,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+86,California ,1353,College,Men,Division I,Berkeley,CA,14,20,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+87,Arizona ,1348,College,Men,Division I,Tucson,AZ,14,8,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+88,Colorado College ,1346,College,Men,Division III,Colorado Springs,CO,23,10,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+89,Knox ,1346,College,Men,Division III,Galesburg ,IL,18,6,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+90,Indiana Wesleyan ,1332,College,Men,Division III,Greenwood,IN,24,9,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+91,Santa Clara ,1331,College,Men,Division I,Santa Clara,CA,15,11,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+92,Baylor ,1323,College,Men,Division I,Waco,TX,29,9,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+93,Tennessee-Chattanooga ,1322,College,Men,Division I,Chattanooga,TN,11,8,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+94,Alabama-Birmingham ,1309,College,Men,Division I,Birmingham,AL,15,13,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+95,Clemson ,1309,College,Men,Division I,Clemson,SC,18,18,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+96,Claremont ,1303,College,Men,Division III,Claremont ,CA,13,9,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+97,Valparaiso ,1302,College,Men,Division III,Valparaiso,IN,28,7,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+98,Williams ,1301,College,Men,Division III,Williamstown,MA,23,9,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+99,Arizona State ,1299,College,Men,Division I,Tempe,AZ,9,17,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+100,North Carolina-Asheville ,1296,College,Men,Division III,Asheville,NC,24,15,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+101,Davidson ,1279,College,Men,Division III,Davidson,NC,19,13,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+102,John Brown ,1278,College,Men,Division III,Siloam Springs,AR,18,12,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+103,Northeastern ,1256,College,Men,Division I,Boston,MA,19,13,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+104,American ,1250,College,Men,Division I,Washington,DC,17,13,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+105,Vermont ,1249,College,Men,Division I,Burlington,VT,20,14,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+106,Texas State ,1249,College,Men,Division I,San Marcos,TX,18,7,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+107,Dartmouth ,1248,College,Men,Division I,Hanover,NH,16,13,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+108,Oberlin ,1246,College,Men,Division III,Oberlin,OH,17,9,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+109,Kennesaw State ,1243,College,Men,Division I,Kennesaw,GA,10,9,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+110,Southern California ,1237,College,Men,Division I,Los Angeles,CA,10,13,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+111,Elon ,1234,College,Men,Division III,Elon,NC,15,10,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+112,Emory ,1228,College,Men,Division I,Atlanta,GA,15,13,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+113,San Diego State ,1222,College,Men,Division I,San Diego,CA,16,21,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+114,Montana ,1222,College,Men,Division I,Missoula,MT,8,8,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+115,Minnesota-Duluth ,1215,College,Men,Division I,Duluth,MN,16,15,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+116,Bates ,1210,College,Men,Division III,Lewiston,ME,21,7,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+117,Utah State ,1204,College,Men,Division I,Logan,UT,13,6,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+118,South Florida ,1203,College,Men,Division I,Tampa,FL,11,20,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+119,Alabama ,1201,College,Men,Division I,Tuscaloosa,AL,14,18,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+120,North Carolina-Charlotte ,1201,College,Men,Division I,Charlotte,NC,9,11,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+121,Boston College ,1194,College,Men,Division I,Chestnut Hill,MA,14,14,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+122,Shippensburg ,1194,College,Men,Division I,Shippensburg,PA,21,12,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+123,Georgia B ,1192,College,Men,Developmental,Athens,GA,18,3,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+124,Puget Sound ,1192,College,Men,Division III,Tacoma,WA,14,11,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+125,Nevada-Reno ,1188,College,Men,Division I,Reno,NV,20,13,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+126,Portland ,1188,College,Men,Division III,Portland,OR,17,9,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+127,Montana State  ,1188,College,Men,Division I,Bozeman,MT,10,17,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+128,Loyola-Chicago ,1182,College,Men,Division I,Chicago,IL,17,11,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+129,West Chester ,1173,College,Men,Division I,West Chester,PA,15,15,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+130,RIT ,1172,College,Men,Division I,Rochester,NY,23,5,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+131,Dayton ,1168,College,Men,Division I,Dayton,OH,19,13,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+132,Illinois State ,1163,College,Men,Division I,Normal,IL,14,12,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+133,Johns Hopkins ,1162,College,Men,Division I,Baltimore,MD,18,12,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+134,Bentley ,1159,College,Men,Division III,Waltham,MA,18,11,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+135,Villanova ,1157,College,Men,Division I,Villanova,PA,16,17,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+136,Pittsburgh B ,1156,College,Men,Developmental,Pittsburgh,PA,23,7,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+137,Messiah ,1156,College,Men,Division III,Mechanicsburg,PA,22,10,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+138,Indiana ,1150,College,Men,Division I,Bloomington,IN,16,21,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+139,Temple ,1149,College,Men,Division I,Philadelphia,PA,15,19,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+140,Florida B ,1148,College,Men,Developmental,Gainesville,FL,17,4,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+141,Mississippi State ,1147,College,Men,Division I,Starkville,MS,14,15,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+142,Whitworth ,1147,College,Men,Division III,Spokane,WA,11,5,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+143,Oklahoma ,1145,College,Men,Division I,Norman,OK,18,20,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+144,Middlebury ,1134,College,Men,Division III,Middlebury,VT,14,10,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+145,Houston ,1132,College,Men,Division I,Houston,TX,22,9,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+146,Bowdoin ,1128,College,Men,Division III,Brunswick,ME,16,13,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+147,Wisconsin-Whitewater ,1116,College,Men,Division I,Whitewater,WI,12,10,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+148,Rice ,1112,College,Men,Division III,Houston,TX,14,8,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+149,Michigan State ,1108,College,Men,Division I,East Lansing,MI,6,15,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+150,Connecticut College ,1099,College,Men,Division III,New London,CT,13,5,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+151,Northern Arizona ,1095,College,Men,Division I,Flagstaff,AZ,13,11,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+152,UCLA ,1093,College,Men,Division I,Los Angeles,CA,6,11,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+153,Wisconsin-Platteville ,1088,College,Men,Division III,Platteville,WI,9,2,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+154,Eastern Illinois ,1079,College,Men,Division I,Charleston,IL,17,12,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+155,Carnegie Mellon ,1079,College,Men,Division I,Pittsburgh,PA,18,13,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+156,NYU ,1079,College,Men,Division I,New York,NY,24,4,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+157,Tennessee ,1079,College,Men,Division I,Knoxville,TN,9,14,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+158,Texas A&M B ,1077,College,Men,Developmental,College Station,TX,17,11,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+159,Texas Tech ,1074,College,Men,Division I,Lubbock,TX,17,10,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+160,Vanderbilt ,1072,College,Men,Division I,Nashville,TN,10,9,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+161,Alabama-Huntsville ,1067,College,Men,Division III,Huntsville,AL,25,15,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+162,Wisconsin B ,1065,College,Men,Developmental,Madison,WI,21,13,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+163,Mary Washington ,1058,College,Men,Division III,Fredericksburg,VA,12,10,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+164,Miami ,1051,College,Men,Division I,Coral Gables,FL,10,16,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+165,Akron ,1048,College,Men,Division I,Akron,OH,10,11,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+166,Grinnell ,1047,College,Men,Division III,Grinnell,IA,14,10,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+167,Occidental ,1046,College,Men,Division III,Los Angeles,CA,23,16,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+168,Colgate ,1041,College,Men,Division III,Hamilton,NY,15,5,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+169,Marquette ,1035,College,Men,Division I,Milwaukee,WI,9,14,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+170,Michigan B ,1035,College,Men,Developmental,Ann Arbor,MI,13,7,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+171,Denver ,1033,College,Men,Division I,Denver,CO,12,9,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+172,High Point ,1028,College,Men,Division III,High Point,NC,13,18,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+173,Merrimack ,1024,College,Men,Division III,North Andover,MA,7,5,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+174,Samford ,1020,College,Men,Division III,Birmingham,AL,10,9,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+175,Union (Tennessee) ,1019,College,Men,Division III,Jackson,TN,12,13,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+176,St Louis ,1018,College,Men,Division I,St. Louis,MO,9,12,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+177,Minnesota B ,1008,College,Men,Developmental,Minneapolis,MN,8,9,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+178,George Mason ,997,College,Men,Division I,Fairfax,VA,14,22,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+179,SUNY-Binghamton ,987,College,Men,Division I,Binghamton,NY,13,18,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+180,Olivet Nazarene ,982,College,Men,Division III,Bourbonnais,IL,17,16,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+181,Georgia State ,981,College,Men,Division I,Atlanta,GA,7,10,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+182,Massachusetts- Dartmouth ,977,College,Men,Division I,"North Dartmouth, MA",MA,2,8,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+183,Texas-Dallas ,976,College,Men,Division I,Richardson,TX,10,15,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+184,Wake Forest ,975,College,Men,Division I,Winston-Salem,NC,10,17,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+185,North Georgia ,968,College,Men,Division III,Dahlonega,GA,15,13,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+186,Kalamazoo ,966,College,Men,Division III,Kalamazoo,MI,6,9,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+187,Amherst ,964,College,Men,Division III,Amherst,MA,16,18,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+188,North Carolina B ,963,College,Men,Developmental,Chapel Hill,NC,10,0,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+189,Kansas State ,962,College,Men,Division I,Manhattan,KS,15,19,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+190,Boston University ,961,College,Men,Division I,Boston,MA,14,14,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+191,Colorado B ,954,College,Men,Division I,Boulder,CO,11,11,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+192,Wentworth Institute of Technology  ,952,College,Men,Division III,Boston,MA,14,12,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+193,Haverford ,949,College,Men,Division III,Haverford,PA,14,14,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+194,Grand Valley State ,945,College,Men,Division I,Allendale,MI,8,11,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+195,Cal Poly-Pomona ,944,College,Men,Division I,Pomona,CA,13,16,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+196,Truman State ,939,College,Men,Division III,Kirksville,MO,10,16,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+197,Rutgers ,929,College,Men,Division I,New Brunswick,NJ,11,17,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+198,Washington State ,927,College,Men,Division I,Pullman,WA,7,16,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+199,Minnesota State-Mankato ,926,College,Men,Division I,Mankato,MN,7,5,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+200,Missouri S&T ,921,College,Men,Division III,Rolla,MO,6,10,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+201,Wright State ,917,College,Men,Division I,Dayton,OH,11,9,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+202,Colorado Mines ,916,College,Men,Division III,Golden,CO,12,13,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+203,Hamilton ,911,College,Men,Division III,Clinton,NY,13,5,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+204,Navy ,902,College,Men,Division III,Annapolis,MD,9,15,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+205,Princeton ,894,College,Men,Division I,Princeton,NJ,14,14,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+206,North Park ,894,College,Men,Division III,Chicago,IL,9,19,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+207,Queens-Kingston ,889,College,Men,Division I,Kingston,ON,4,7,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+208,SUNY-Buffalo ,888,College,Men,Division I,Buffalo,NY,9,12,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+209,Towson ,885,College,Men,Division I,Towson,MD,7,16,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+210,Colorado-Denver ,884,College,Men,Division I,Denver,CO,9,9,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+211,Sacramento State ,881,College,Men,Division I,Sacramento,CA,4,15,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+212,Rhode Island  ,876,College,Men,Division I,Kingston,RI,5,13,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+213,Mississippi ,867,College,Men,Division I,Oxford,MS,4,20,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+214,Pacific Lutheran ,866,College,Men,Division III,Tacoma,WA,11,12,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+215,Wisconsin-La Crosse ,863,College,Men,Division I,La Crosse,WI,7,6,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+216,Kenyon ,863,College,Men,Division III,Gambier,OH,12,12,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+217,Ball State ,861,College,Men,Division I,Muncie,IN,14,17,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+218,San Jose State ,860,College,Men,Division I,San Jose,CA,5,12,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+219,Florida Tech ,856,College,Men,Division III,Melbourne,FL,7,9,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+220,Brigham Young B ,855,College,Men,Developmental,Provo,UT,6,8,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+221,Sonoma State ,853,College,Men,Division I,Rohnert Park,CA,3,8,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+222,Florida State B ,853,College,Men,Developmental,Tallahassee,FL,13,10,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+223,Oklahoma State ,852,College,Men,Division I,Stillwater,OK,7,6,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+224,Maryland-Baltimore County ,850,College,Men,Division I,Baltimore,MD,7,16,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+225,Yale ,848,College,Men,Division I,New Haven,CT,8,11,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+226,Nebraska ,848,College,Men,Division I,Lincoln,NE,11,8,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+227,SUNY-Fredonia ,843,College,Men,Division III,Fredonia,NY,9,10,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+228,MIT ,840,College,Men,Division I,Cambridge,MA,13,15,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+229,SUNY-Albany ,833,College,Men,Division I,Albany,NY,13,17,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+230,Northern Illinois ,831,College,Men,Division I,Dekalb,IL,6,7,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+231,Northern Iowa ,830,College,Men,Division I,Cedar Falls,IA,11,7,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+232,Stevens Tech ,827,College,Men,Division III,Hoboken,NJ,16,10,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+233,Drake ,826,College,Men,Division III,Des Moines,IA,9,9,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+234,Old Dominion ,822,College,Men,Division I,Norfolk,VA,5,13,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+235,Rochester ,821,College,Men,Division I,Rochester,NY,9,12,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+236,Maine ,821,College,Men,Division I,Orono,ME,2,10,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+237,SUNY-Geneseo ,820,College,Men,Division III,Geneseo,NY,8,11,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+238,Wisconsin-Eau Claire ,820,College,Men,Division I,Eau Claire,WI,11,7,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+239,Cedarville ,803,College,Men,Division III,Cedarville,OH,8,13,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+240,Liberty ,801,College,Men,Division I,Lynchburg,VA,6,13,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+241,Columbia ,798,College,Men,Division I,New York,NY,8,15,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+242,Wooster ,797,College,Men,Division III,Wooster,OH,11,17,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+243,Skidmore ,796,College,Men,Division III,Saratoga Springs,NY,12,9,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+244,Duke ,795,College,Men,Division I,Durham,NC,3,13,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+245,SUNY-Stony Brook ,785,College,Men,Division I,Stony Brook,NY,7,7,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+246,West Virginia ,784,College,Men,Division I,Morgantown,WV,11,15,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+247,Army ,782,College,Men,Division III,West Point,NY,14,12,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+248,Wisconsin-Stevens Point ,782,College,Men,Division I,Stevens Point,WI,9,11,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+249,Charleston ,781,College,Men,Division I,Charleston,SC,4,13,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+250,Xavier ,781,College,Men,Division III,Cincinnati,OH,12,18,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+251,Rensselaer Polytech ,781,College,Men,Division III,Troy,NY,16,10,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+252,Portland State ,780,College,Men,Division I,Portland,OR,6,15,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+253,Humboldt State ,777,College,Men,Division I,Arcata,CA,7,18,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+254,Arizona State B ,777,College,Men,Developmental,Tempe,AZ,11,11,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+255,Johnson ,773,College,Men,Division III,Knoxville,TN,6,8,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+256,Ave Maria ,772,College,Men,Division III,Ave Maria,FL,5,10,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+257,Northern Michigan ,768,College,Men,Division I,Marquette,MI,4,6,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+258,Stonehill ,766,College,Men,Division III,Easton,MA,8,11,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+259,SUNY-Cortland ,762,College,Men,Division III,Cortland,NY,17,24,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+260,Cal Poly-SLO B ,759,College,Men,Developmental,San Luis Obispo,CA,6,5,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+261,Connecticut B ,755,College,Men,Developmental,Storrs,CT,11,6,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+262,College of New Jersey ,753,College,Men,Division III,Ewing,NJ,12,8,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+263,Central Florida B ,750,College,Men,Developmental,Orlando,FL,12,9,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+264,Kentucky ,748,College,Men,Division I,Lexington,KY,10,16,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+265,Macalester ,748,College,Men,Division III,St. Paul,MN,5,5,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+266,Central Arkansas ,742,College,Men,Division I,Little Rock,AR,7,13,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+267,Vassar ,741,College,Men,Division III,Poughkeepsie,NY,6,6,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+268,New Mexico ,741,College,Men,Division I,Albuquerque,NM,8,9,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+269,Louisville ,740,College,Men,Division I,Louisville,KY,7,10,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+270,Tulsa ,738,College,Men,Division III,Tulsa,OK,10,11,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+271,Gonzaga ,736,College,Men,Division I,Spokane,WA,8,8,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+272,Christopher Newport ,729,College,Men,Division III,Newport News,VA,14,3,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+273,Ohio Wesleyan ,726,College,Men,Division III,Delaware,OH,6,15,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+274,Missouri State ,710,College,Men,Division I,Springfield,MO,5,15,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+275,Texas-San Antonio ,708,College,Men,Division I,San Antonio,TX,16,16,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+276,Trine ,701,College,Men,Division III,Angola,IN,6,12,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+277,Boise State ,700,College,Men,Division I,Boise,ID,1,9,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+278,Arkansas State ,696,College,Men,Division I,Jonesboro,AR,5,6,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+279,Luther B ,693,College,Men,Developmental,Decorah,IA,7,13,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+280,Harding ,692,College,Men,Division III,Searcy,AR,6,13,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+281,Ithaca ,688,College,Men,Division III,Ithaca,NY,10,17,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+282,Willamette ,682,College,Men,Division III,Salem,OR,4,12,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+283,North Florida ,681,College,Men,Division I,Jacksonville,FL,0,11,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+284,Muhlenberg ,679,College,Men,Division III,Allentown,PA,9,11,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+285,Caltech ,678,College,Men,Division III,Pasadena,CA,4,8,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+286,Stockton ,678,College,Men,Division I,Galloway,NJ,5,7,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+287,Southern Mississippi ,661,College,Men,Division I,Hattiesburg,MS,5,17,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+288,Catholic ,656,College,Men,Division III,Washington,DC,10,19,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+289,Drexel ,650,College,Men,Division I,Philadelphia,PA,5,18,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+290,East Carolina ,649,College,Men,Division I,Greenville,NC,0,15,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+291,Ohio Northern ,645,College,Men,Division III,Ada,OH,5,7,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+292,Texas A&M C ,638,College,Men,Developmental,College Station,TX,12,14,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+293,St Joseph's ,633,College,Men,Division I,Philadelphia,PA,9,12,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+294,SUNY-Brockport ,632,College,Men,Division I,Brockport,NY,4,7,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+295,Salisbury ,628,College,Men,Division I,Salisbury,MD,3,13,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+296,Washington B ,624,College,Men,Developmental,Seattle,WA,9,17,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+297,Cornell College ,624,College,Men,Division III,Mount Vernon,IA,4,6,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+298,Rowan ,623,College,Men,Division I,Glassboro,NJ,7,13,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+299,Southern Indiana ,620,College,Men,Division I,Evansville,IN,9,15,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+300,Edinboro ,620,College,Men,Division I,Edinboro,PA,9,15,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+301,James Madison B ,617,College,Men,Developmental,Harrisonburg,VA,23,7,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+302,Central Washington ,614,College,Men,Division I,Ellensburg,WA,7,13,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+303,Indiana (Pennsylvania) ,614,College,Men,Division I,Indiana,PA,3,9,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+304,Northern Colorado ,612,College,Men,Division I,Greeley,CO,2,8,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+305,Texas B ,606,College,Men,Developmental,Austin,TX,12,21,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+306,Hartford ,604,College,Men,Division III,West Hartford,CT,9,6,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+307,Southern Methodist  ,603,College,Men,Division I,Dallas,TX,9,14,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+308,Michigan Tech ,602,College,Men,Division III,Houghton,MI,8,10,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+309,Washington University B ,601,College,Men,Developmental,St. Louis,MO,5,15,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+310,Miami (Ohio) ,596,College,Men,Division I,Oxford,OH,8,11,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+311,Rose-Hulman ,592,College,Men,Division III,Terre Haute,IN,7,11,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+312,DePaul ,590,College,Men,Division I,Chicago,IL,6,10,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+313,Swarthmore ,586,College,Men,Division III,Swarthmore,PA,15,14,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+314,Syracuse ,585,College,Men,Division I,Syracuse,NY,5,11,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+315,Seattle ,570,College,Men,Division I,Seattle ,WA,5,7,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+316,Bradley ,563,College,Men,Division III,Peoria,IL,7,12,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+317,St Olaf ,561,College,Men,Division III,Northfield,MN,9,10,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+318,Worcester Polytech ,556,College,Men,Division III,Worcester,MA,6,7,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+319,Dickinson ,554,College,Men,Division III,Carlisle,PA,6,13,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+320,Milwaukee School of Engineering ,549,College,Men,Division III,Milwaukee,WI,5,5,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+321,Illinois B ,544,College,Men,Developmental,Champaign,IL,8,12,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+322,Purdue B ,531,College,Men,Developmental,West Lafayette,IN,6,6,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+323,Westmont ,524,College,Men,Division III,Santa Barbara,CA,2,18,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+324,Trinity ,519,College,Men,Division III,San Antonio,TX,8,12,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+325,Saint Rose ,513,College,Men,Division III,Albany,NY,9,10,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+326,North Texas ,507,College,Men,Division I,Denton,TX,3,13,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+327,Texas A&M (Commerce) ,500,College,Men,Division I,Commerce,TX,4,7,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+328,Millersville ,490,College,Men,Division I,Millersville,PA,3,11,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+329,North Carolina-Wilmington B ,490,College,Men,Developmental,Wilmington,NC,15,8,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+330,Cornell B ,486,College,Men,Developmental,Ithaca,NY,11,11,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+331,Harvard B ,477,College,Men,Developmental,Cambridge,MA,9,2,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+332,North Greenville ,469,College,Men,Division III,Tigerville,SC,1,10,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+333,Lehigh B ,454,College,Men,Division III,Bethlehem,PA,16,8,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+334,Dallas ,453,College,Men,Division III,Irving,TX,4,7,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+335,Northeastern B ,447,College,Men,Developmental,Boston,MA,10,5,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+336,Stephen F. Austin ,445,College,Men,Division I,Nacogdoches,TX,2,8,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+337,Western Washington B ,406,College,Men,Developmental,Bellingham,WA,7,13,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+338,Maine-Farmington ,398,College,Men,Division III,Farmington,ME,5,14,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+339,Virginia Tech B ,398,College,Men,Developmental,Blacksburg,VA,13,7,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+340,Kent State ,391,College,Men,Division I,Kent,OH,5,14,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+341,Marist ,387,College,Men,Division III,Poughkeepsie,NY,6,18,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+342,LSU B ,385,College,Men,Developmental,Baton Rouge,LA,6,14,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+343,SUNY-Oneonta ,385,College,Men,Division III,Oneonta,NY,7,12,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+344,Youngstown State ,384,College,Men,Division I,Youngstown,OH,3,8,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+345,Massachusetts-Lowell ,383,College,Men,Division I,Lowell,MA,1,12,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+346,Iowa State B ,379,College,Men,Developmental,Ames,IA,2,8,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+347,Notre Dame B ,378,College,Men,Developmental,Notre Dame,IN,4,7,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+348,Northwestern B ,377,College,Men,Developmental,Evanston,IL,4,17,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+349,Arkansas B ,376,College,Men,Developmental,Fayetteville,AR,4,16,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+350,Maryland B ,366,College,Men,Developmental,College Park,MD,18,13,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+351,St Thomas ,365,College,Men,Division III,St. Paul,MN,4,9,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+352,Emerson ,353,College,Men,Division III,Boston,MA,7,15,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+353,Hendrix ,352,College,Men,Division III,Conway,AR,3,12,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+354,Michigan State B ,345,College,Men,Developmental,East Lansing,MI,5,8,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+355,Lamar ,339,College,Men,Division I,Beaumont,TX,5,9,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+356,California-Irvine ,331,College,Men,Division I,Irvine,CA,0,10,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+357,Wesleyan ,326,College,Men,Division III,Middletown,CT,4,11,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+358,Keene State ,318,College,Men,Division III,Keene,NH,3,7,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+359,Belmont  ,314,College,Men,Division III,Nashville,TN,2,16,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+360,Virginia B ,308,College,Men,Developmental,Charlottesville,VA,16,11,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+361,Vermont B ,300,College,Men,Developmental,Burlington,VT,2,12,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+362,Hofstra ,299,College,Men,Division I,Hempstead,NY,6,13,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+363,Le Moyne ,297,College,Men,Division III,Syracuse,NY,6,12,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+364,Sam Houston State ,278,College,Men,Division I,Huntsville,TX,4,19,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+365,Denison ,272,College,Men,Division III,Granville,OH,2,12,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+366,Brown B ,269,College,Men,Developmental,Providence,RI,7,7,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+367,Western Illinois ,266,College,Men,Division I,Macomb,IL,3,12,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+368,Penn State B ,254,College,Men,Developmental,University Park,PA,10,8,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+369,Central Connecticut State ,244,College,Men,Division I,New Britain,CT,2,12,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+370,Western Kentucky ,244,College,Men,Division I,Bowling Green,KY,2,11,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+371,Illinois-Chicago  ,236,College,Men,Division I,Chicago,IL,3,15,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+372,Philadelphia ,233,College,Men,Division III,Philadelphia,PA,5,8,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+373,Wisconsin C ,226,College,Men,Developmental,Madison,WI,2,9,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+374,Siena ,223,College,Men,Division III,Albany,NY,5,7,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+375,South Florida B ,193,College,Men,Developmental,Tampa,FL,0,14,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+376,Missouri B ,187,College,Men,Developmental,St. Louis,MO,1,9,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+377,San Francisco State ,177,College,Men,Division I,San Francisco,CA,0,11,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+378,Lewis & Clark B ,168,College,Men,Developmental,Portland,OR,4,12,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+379,IUPUI ,162,College,Men,Division I,Indianapolis,IN,2,10,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+380,Arizona B ,159,College,Men,Developmental,Tucson,AZ,2,18,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+381,Boston College B ,158,College,Men,Developmental,Chestnut Hill,MA,10,8,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+382,Indiana B ,158,College,Men,Developmental,Bloomington,IN,2,8,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+383,Georgetown B ,137,College,Men,Developmental,Washington,DC,12,9,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+384,George Washington B ,135,College,Men,Developmental,"Washington, D.C.",DC,13,10,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+385,Coe ,128,College,Men,Division III,Cedar Rapids,IA,0,11,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+386,Clemson B ,123,College,Men,Developmental,Clemson,SC,1,14,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+387,Princeton B ,122,College,Men,Developmental,Princeton,NJ,9,4,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+388,Wisconsin-River Falls ,118,College,Men,Division III,River Falls,WI,2,8,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+389,Georgia Gwinnett ,105,College,Men,Division I,Lawrenceville,GA,1,19,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+390,William & Mary B ,75,College,Men,Developmental,Williamsburg,VA,6,8,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+391,Rowan B ,38,College,Men,Developmental,Glassboro,NJ,10,6,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+392,Southern Illinois-Edwardsville ,37,College,Men,Division I,Edwardsville,IL,4,12,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+393,Washington C ,27,College,Men,Developmental,Seattle,WA,3,15,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+394,Embry-Riddle (Florida) ,26,College,Men,Division III,Daytona Beach,FL,1,13,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+395,Wisconsin-Milwaukee B ,13,College,Men,Developmental,Milwaukee,WI,1,15,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+396,George Mason B ,-1,College,Men,Developmental,Fairfax,VA,6,13,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+397,Boston University B ,-28,College,Men,Developmental,Boston,MA,6,16,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+398,Southern Illinois  ,-73,College,Men,Division I,Carbondale,IL,2,13,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+399,Towson B ,-84,College,Men,Developmental,Towson,MD,5,14,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+400,Case Western Reserve B ,-103,College,Men,Developmental,Cleveland,OH,3,15,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+401,Norwich ,-115,College,Men,Division III,Northfield,VT,1,10,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+402,Oregon State B ,-179,College,Men,Developmental,Corvallis,OR,0,15,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+403,Shenandoah ,-184,College,Men,Division III,Winchester,VA,2,13,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+404,SUNY-Buffalo B ,-247,College,Men,Developmental,Buffalo,NY,6,12,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+405,Rutgers B ,-265,College,Men,Developmental,Piscataway,NJ,5,11,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+406,West Chester B ,-290,College,Men,Developmental,West Chester,PA,3,12,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+407,Rider ,-293,College,Men,Division III,Lawrenceville,NJ,2,12,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+408,American B ,-369,College,Men,Developmental,Washington,DC,3,25,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+409,St Mary's (Maryland) ,-427,College,Men,Division III,St. Marys City,MD,2,12,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+410,Stevens Tech B ,-438,College,Men,Developmental,Hoboken,NJ,2,18,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+411,MIT B ,-514,College,Men,Developmental,Cambridge,MA,0,10,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+412,Johns Hopkins B ,-708,College,Men,Developmental,Baltimore,MD,1,14,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college
+413,Maryland-Baltimore County B ,-1151,College,Men,Developmental,Baltimore,MD,0,12,D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d,2016_college

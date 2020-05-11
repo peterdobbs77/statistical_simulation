@@ -56,7 +56,7 @@ def scrape_and_clean_archive_tables(base_url, dataset_id):
 
 
 BASE_URL = "https://play.usaultimate.org/teams/events/team_rankings/?DataSetId="
-DATASETID = f"jBSVk29zZIMwKN7UbtC7mVIi9Bm%2bnSCIiMApiRrewqk%3d"
+DATASETID = f"D97nl6Hr63Ip0qKyPyFqnf%2bCzVCqonUm8mMti7DMikA%3d"
 SEASON = '2016_college'
 rankings = scrape_and_clean_archive_tables(BASE_URL, DATASETID)
 rankings['dataset_id'] = DATASETID
